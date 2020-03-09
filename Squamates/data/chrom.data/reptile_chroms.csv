@@ -1,0 +1,594 @@
+Higher taxonomic group,Order,Family,Genus,species,female2n,male2n,"Predicted ploidy (1,2,3,4)",Sexual.system,sex.chromosome.system
+Reptilia,Chelonia,Bataguridae,Mauremys,annamensis,,,,gonochorous,
+Reptilia,Chelonia,Bataguridae,Mauremys,japonica,52,52,,gonochorous,
+Reptilia,Chelonia,Bataguridae,Mauremys,mutica,52,52,,gonochorous,
+Reptilia,Chelonia,Bataguridae,Mauremys,nigricans,52,52,,gonochorous,
+Reptilia,Chelonia,Bataguridae,Mauremys,reevesii,52,52,,gonochorous,
+Reptilia,Chelonia,Bataguridae,Melanochelys,trijuga,52,52,,gonochorous,
+Reptilia,Chelonia,Bataguridae,Pangshura,smithii,52,52,,gonochorous,ZW
+Reptilia,Chelonia,Bataguridae,Rhinoclemmys,areolata,52,52,,gonochorous,
+Reptilia,Chelonia,Bataguridae,Rhinoclemmys,pulcherrima,52,52,,gonochorous,
+Reptilia,Chelonia,Bataguridae,Siebenrockiella,crassicollis,50,50,,gonochorous,XY
+Reptilia,Chelonia,Carettochelyidae,Carettochelys,insculpta,68,68,,gonochorous,
+Reptilia,Chelonia,Chelidae,Acanthochelys,radiolata,,,,gonochorous,XY
+Reptilia,Chelonia,Chelidae,Chelodina,longicollis,54,54,,gonochorous,XY
+Reptilia,Chelonia,Chelidae,Elseya,novaeguineae,,,,gonochorous,
+Reptilia,Chelonia,Chelidae,Elusor,macrurus,,,,gonochorous,
+Reptilia,Chelonia,Chelidae,Emydura,macquarii,50,50,,gonochorous,XY
+Reptilia,Chelonia,Chelidae,Emydura,macquarii spp,50,50,,gonochorous,homomorphic
+Reptilia,Chelonia,Chelidae,Emydura,subglobosa,,,,gonochorous,
+Reptilia,Chelonia,Chelidae,Mesoclemmys,gibba,60,60,,gonochorous,homomorphic
+Reptilia,Chelonia,Chelidae,Phrynops,geoffroanus,58,58,,gonochorous,homomorphic
+Reptilia,Chelonia,Chelidae,Phrynops,hilarii,58,58,,gonochorous,
+Reptilia,Chelonia,Cheloniidae,Caretta,caretta,56,56,,gonochorous,
+Reptilia,Chelonia,Cheloniidae,Chelonia,mydas,56,56,,gonochorous,
+Reptilia,Chelonia,Cheloniidae,Eretmochelys,imbricata,56,56,,gonochorous,
+Reptilia,Chelonia,Cheloniidae,Lepidochelys,kempii,56,56,,gonochorous,
+Reptilia,Chelonia,Cheloniidae,Lepidochelys,olivacea,56,56,,gonochorous,
+Reptilia,Chelonia,Cheloniidae,Natator,depressus,56,56,,gonochorous,
+Reptilia,Chelonia,Chelydridae,Chelydra,serpentina,52,52,,gonochorous,
+Reptilia,Chelonia,Chelydridae,Macrochelys,temminckii,52,52,,gonochorous,
+Reptilia,Chelonia,Dermatemydidae,Dermatemys,mawii,56,56,,gonochorous,
+Reptilia,Chelonia,Dermochelyidae,Dermochelys,coriacea,56,56,,gonochorous,
+Reptilia,Chelonia,Emydidae,Actinemys,marmorata,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Chrysemys,picta,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Clemmys,guttata,48,48,,gonochorous,
+Reptilia,Chelonia,Emydidae,Deirochelys,reticularia,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Emydoidea,blandingii,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Emys,orbicularis,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Glyptemys,insculpta,50,50,,gonochorous,homomorphic
+Reptilia,Chelonia,Emydidae,Graptemys,barbouri,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Graptemys,geographica,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Graptemys,nigrinoda,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Graptemys,ouachitensis,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Graptemys,pseudogeographica,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Graptemys,pulchra,52,52,,gonochorous,
+Reptilia,Chelonia,Emydidae,Graptemys,versa,52,52,,gonochorous,
+Reptilia,Chelonia,Emydidae,Heosemys,grandis,52,52,,gonochorous,
+Reptilia,Chelonia,Emydidae,Malaclemys,terrapin,52,52,,gonochorous,
+Reptilia,Chelonia,Emydidae,Pseudemys,concinna,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Pseudemys,floridana,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Pseudemys,nelsoni,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Pseudemys,peninsularis,,,,gonochorous,
+Reptilia,Chelonia,Emydidae,Pseudemys,texana,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Terrapene,carolina,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Terrapene,coahuila,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Terrapene,ornata,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Trachemys,decorata,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Trachemys,scripta,50,50,,gonochorous,
+Reptilia,Chelonia,Emydidae,Trachemys,venusta,,,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Claudius,angustatus,54,54,,gonochorous,homomorphic
+Reptilia,Chelonia,Kinosternidae,Kinosternon,acutum,,,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,alamosae,,,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,arizonense,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,baurii,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,creaseri,,,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,flavescens,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,hirtipes,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,leucostomum,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,scorpioides,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,scorpioides spp,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,sonoriense,,,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Kinosternon,subrubrum,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Staurotypus,salvinii,54,54,,gonochorous,XY
+Reptilia,Chelonia,Kinosternidae,Staurotypus,triporcatus,54,54,,gonochorous,XY
+Reptilia,Chelonia,Kinosternidae,Sternotherus,carinatus,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Sternotherus,minor,56,56,,gonochorous,
+Reptilia,Chelonia,Kinosternidae,Sternotherus,odoratus,56,56,,gonochorous,
+Reptilia,Chelonia,Pelomedusidae,Pelomedua,subrufa,36,36,,gonochorous,
+Reptilia,Chelonia,Pelomedusidae,Pelusios,castaneus,34,34,,gonochorous,
+Reptilia,Chelonia,Pelomedusidae,Podocnemis,erythrocephala,28,28,,gonochorous,
+Reptilia,Chelonia,Pelomedusidae,Podocnemis,expansa,28,28,,gonochorous,
+Reptilia,Chelonia,Pelomedusidae,Podocnemis,lewyana,28,28,,gonochorous,
+Reptilia,Chelonia,Pelomedusidae,Podocnemis,sextuberculata,28,28,,gonochorous,
+Reptilia,Chelonia,Pelomedusidae,Podocnemis,unifilis,28,28,,gonochorous,
+Reptilia,Chelonia,Testudinidae,Aldabrachelys,dussumieri,52,52,,gonochorous,
+Reptilia,Chelonia,Testudinidae,Eurotestudo,hermanni,52,52,,gonochorous,
+Reptilia,Chelonia,Testudinidae,Geochelone,elephantopus,52,52,,gonochorous,
+Reptilia,Chelonia,Testudinidae,Gopherus,agassizii,52,52,,gonochorous,
+Reptilia,Chelonia,Testudinidae,Gopherus,polyphemus,54,54,,gonochorous,
+Reptilia,Chelonia,Testudinidae,Malacocherus,tornieri,52,52,,gonochorous,
+Reptilia,Chelonia,Testudinidae,Testudo,graeca,52,52,,gonochorous,
+Reptilia,Chelonia,Trionychidae,Apalone,mutica-1,66,66,,gonochorous,homomorphic
+Reptilia,Chelonia,Trionychidae,Apalone,mutica-2,66,66,,gonochorous,homomorphic
+Reptilia,Chelonia,Trionychidae,Apalone,spinifera,66,66,,gonochorous,homomorphic
+Reptilia,Chelonia,Trionychidae,Pelodiscus,sinensis,66,66,,gonochorous,ZW
+Reptilia,Crocodylia,Alligatoridae,Alligator,mississippiensis,32,32,,gonochorous,
+Reptilia,Crocodylia,Alligatoridae,Alligator,sinensis,32,32,,gonochorous,
+Reptilia,Crocodylia,Alligatoridae,Caiman,crocodilus,42,42,,gonochorous,
+Reptilia,Crocodylia,Alligatoridae,Caiman,latirostris,42,42,,gonochorous,
+Reptilia,Crocodylia,Alligatoridae,Paleosuchus,trigonatus,42,42,,gonochorous,
+Reptilia,Crocodylia,Crocodylidae,Crocodylus,johnstoni,32,32,,gonochorous,
+Reptilia,Crocodylia,Crocodylidae,Crocodylus,moreletii,32,32,,gonochorous,
+Reptilia,Crocodylia,Crocodylidae,Crocodylus,niloticus,32,32,,gonochorous,
+Reptilia,Crocodylia,Crocodylidae,Crocodylus,palustris,34,34,,gonochorous,
+Reptilia,Crocodylia,Crocodylidae,Crocodylus,porosus,34,34,,gonochorous,
+Reptilia,Crocodylia,Crocodylidae,Crocodylus,siamensis,34,34,,gonochorous,
+Reptilia,Crocodylia,Gavialidae,Gavialis,gangeticus,32,32,,gonochorous,
+Reptilia,Sphenodontia,Sphenodontidae,Sphenodon, guntheri,36,,,gonochorous,
+Reptilia,Sphenodontia,Sphenodontidae,Sphenodon, punctatus,36,,,gonochorous,
+Reptilia,Squamata,Agamidae,Agama,agama,44,44,,gonochorous,
+Reptilia,Squamata,Agamidae,Agama,caucasia,,,,gonochorous,
+Reptilia,Squamata,Agamidae,Agama,impalearis,,,,gonochorous,
+Reptilia,Squamata,Agamidae,Agama,stellio,36,36,,gonochorous,
+Reptilia,Squamata,Agamidae,Amphibolurus,muricatus,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Amphibolurus,nobbi,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Amphibolurus,norrisi,,,,gonochorous,
+Reptilia,Squamata,Agamidae,Calotes,versicolor,34,34,,gonochorous,
+Reptilia,Squamata,Agamidae,Chlamydosaurus,kingii,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Ctenophorus,decresii,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Ctenophorus,fordi,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Ctenophorus,ornatus,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Ctenophorus,pictus,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Diporiphora,albilabris,,,,gonochorous,
+Reptilia,Squamata,Agamidae,Diporiphora,bilineata,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Hypsilurus,spinipes,36,36,,gonochorous,
+Reptilia,Squamata,Agamidae,Leiolepis,boehmei,,,,apomictic,
+Reptilia,Squamata,Agamidae,Leiolepis,guentherpetersi,,,,apomictic,
+Reptilia,Squamata,Agamidae,Leiolepis,ngovantrii,,,,apomictic,
+Reptilia,Squamata,Agamidae,Leiolepis,triploida,,,3,apomictic,
+Reptilia,Squamata,Agamidae,Lophognathus,burnsi,,,,gonochorous,
+Reptilia,Squamata,Agamidae,Lophognathus,gilberti,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Lophognathus,temporalis,,,,gonochorous,
+Reptilia,Squamata,Agamidae,Phrynocephalus,vlangalii,48,48,,gonochorous,ZW
+Reptilia,Squamata,Agamidae,Physignathus,lesueurii,36,36,,gonochorous,
+Reptilia,Squamata,Agamidae,Pogona,barbata,32,32,,gonochorous,homomorphic
+Reptilia,Squamata,Agamidae,Pogona,minor,,,,gonochorous,homomorphic
+Reptilia,Squamata,Agamidae,Pogona,vitticeps,32,32,,gonochorous,ZW
+Reptilia,Squamata,Agamidae,Tympanocryptis,diemensis,32,32,,gonochorous,
+Reptilia,Squamata,Agamidae,Tympanocryptis,tetraporophora,32,32,,gonochorous,
+Reptilia,Squamata,Anguidae,Gerrhonotus,multicarinatus,48,48,,gonochorous,
+Reptilia,Squamata,Boidae,Acrantophis,dumerilii,34,34,,gonochorous,ZW
+Reptilia,Squamata,Boidae,Boa,constrictor amarili,36,36,,gonochorous,ZW
+Reptilia,Squamata,Boidae,Liasis,olivaceus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Boidae,Morelia,amethistina,36,36,,gonochorous,ZW
+Reptilia,Squamata,Boidae,Morelia,boeleni,36,36,,gonochorous,ZW
+Reptilia,Squamata,Boidae,Sanzinia,madagascariensis,34,34,,gonochorous,ZW
+Reptilia,Squamata,Chamaeleonidae,Rhampholeon,boulengeri,,,,apomictic,
+Reptilia,Squamata,Chamaeleontidae,Chamaeleo,chamaeleon,24,24,,gonochorous,
+Reptilia,Squamata,Chamaeleontidae,Chamaeleo,lateralis,24,24,,gonochorous,homomorphic
+Reptilia,Squamata,Chamaeleontidae,Chamaeleo,pardalis,22,22,,gonochorous,
+Reptilia,Squamata,Colubridae,Ahaetulla,nasuta,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Amphiesma,pryeri,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Amphiesma,stolatum,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Amphiesma,vibakari,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Argyrogena,fasciolata,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Bogertophis,subocularis,40,40,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Boiga,forsteni,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Boiga,trigonata,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Cerberus,rhynchops,38,38,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Chironius,bicarinatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Chironius,quadricarinatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Chrysopelea,ornata,40,40,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Clelia,clelia,50,50,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Clelia,clelia plumbea,50,50,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Dendrelaphis,punctulata,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Dinodon,semicarinatum,34,34,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Drymarchon,corais corais,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Drymarchon,couperi,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Dryophis,nasutus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Elaphe,climacophora,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Elaphe,conspicillata,34,34,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Elaphe,guttata,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Elaphe,longissima,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Elaphe,obsoleta,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Elaphe,obsoleta lindhiemeri,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Elaphe,quadrivirgata,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Elaphe,radiata,30,30,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Geophis,omiltermanus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Gerarda,prevostiana,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Hydromorphus,concolor,46,46,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Liophis,almadensis,28,28,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Liophis,miliaris,28,28,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Lycodon,aulicus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Macropisthodon,rudis carinatus,46,46,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Mastigodryas,bifossatus bifossatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Natrix,maura,34,34,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Natrix,natrix,34,34,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Natrix,tesellata,34,34,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Natrix,tesellata tessellata,34,34,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Oxyrhopus,petola,46,46,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Philodryas,aestivus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Philodryas,chamissonis,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Philodryas,olfersii,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Philodryas,patagoniensis,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Pseudoboa,nigra,50,50,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Ptyas,mucosus,34,34,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Rhabdophis,tigrinus tigrinus,40,40,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Rhachidelus,brazilii,50,50,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Sinonatrix,annularis,42,42,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Sinonatrix,percarinata,42,42,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Spilotes,pullatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Storeria,dekayi,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Thamnodynastes,hypoconia,32,32,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Thamnodynastes,strigatus,32,32,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Thamnophis,marcianus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Tomodon,dorsatus,32,32,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Tropidodryas,serra,28,28,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Tropidonophis,mairii,42,42,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Waglerophis,merremii,30,30,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Xenochrophis,piscator,40,40,,gonochorous,ZW
+Reptilia,Squamata,Colubridae,Xenodon,neuwiedii,30,30,,gonochorous,ZW
+Reptilia,Squamata,Corytophanidae,Basiliscus,plumifrons,,,,gonochorous,
+Reptilia,Squamata,Dibamidae,Dibamus,novaeguineae,36,36,,gonochorous,XY
+Reptilia,Squamata,Diplodactylidae,Rhacodactylus,auriculatus,38,38,,gonochorous,
+Reptilia,Squamata,Diplodactylidae,Rhacodactylus,chahoua,,,,gonochorous,
+Reptilia,Squamata,Diplodactylidae,Rhacodactylus,ciliatus,,,,gonochorous,
+Reptilia,Squamata,Diplodactylidae,Rhacodactylus,leachianus,38,38,,gonochorous,
+Reptilia,Squamata,Diplodactylidae,Rhacodactylus,sarasinorum,38,38,,gonochorous,
+Reptilia,Squamata,Elapidae,Acanthophis,antarcticus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Acanthophis,praelongus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Acanthophis,pyrrhus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Aipysurus,fuscus,32,32,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Aipysurus,laevis,32,32,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Austrelaps,superbus,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Bungarus,caeruleus,44,44,,gonochorous,complex ZW
+Reptilia,Squamata,Elapidae,Bungarus,fasciatus,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Bungarus,sindanus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Cacophis,squamulosus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Demansia,atra,42,42,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Demansia,olivacea,42,42,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Demansia,papuensis,42,42,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Demansia,psammophis,42,42,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Demansia,torquata,42,42,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Dendroaspis,polylepis,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Denisonia,devisii,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Denisonia,maculata,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Disteira,major,32,32,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Drysdalia,coronoides,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Drysdalia,mastersii,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Drysdalia,rhodogaster,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Echiophis,curta,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Elapognathus,minor,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Emydocephalus,annulatus,32,32,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Enhydrina,schistosa,32,32,,gonochorous,complex ZW
+Reptilia,Squamata,Elapidae,Furina,diadema,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Hemiaspis,signata,40,40,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Hoplocephalus,bitorquatus,27,28,,gonochorous,complex ZW
+Reptilia,Squamata,Elapidae,Hydrophis,fasciatus,32,32,,gonochorous,complex ZW
+Reptilia,Squamata,Elapidae,Hydrophis,ornatus,32,32,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Hydrophis,spiralis,32,32,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Kerilia,jerdonii,32,32,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Laticauda,colubrina,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Laticauda,laticaudata,40,40,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Laticauda,semifasciata,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Microcephalophis,cantoris,35,,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Microcephalophis,gracilis,34,34,,gonochorous,complex ZW
+Reptilia,Squamata,Elapidae,Micrurus,browni,26,26,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Micrurus,diastema,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Micrurus,elegans,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Micrurus,fulvius,32,32,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Micrurus,hippocrepis,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Micrurus,lemniscatus carvalhoi,42,42,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Micrurus,nigrocinctus mosquitensis,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Micrurus,nigrocinctus nigrocinctus,26,26,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Micrurus,surinamensis,,,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Naja,kaouthia,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Naja,melanoleuca,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Naja,naja naja,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Naja,nigricollis,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Naja,oxiana,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Notechis,ater,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Notechis,scutatus,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Oxyuranus,scutellatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Pelamis,platura,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Pseudechis,australis,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Pseudechis,butleri,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Pseudechis,guttatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Pseudechis,porphyriacus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Pseudonaja,affinis,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Pseudonaja,nuchalis,34,34,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Pseudonaja,textilis,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Rhinoplocephalus,boschmai,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Rhinoplocephalus,nigrescens,40,40,,gonochorous,complex ZW
+Reptilia,Squamata,Elapidae,Rhinoplocephalus,nigrostriatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Simoselaps,bertholdi,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Simoselaps,warro,38,38,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Suta,dwyeri,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Suta,flagellum,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Suta,gouldii,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Suta,monachus,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Suta,nigriceps,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Suta,punctata,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Suta,suta,30,30,,gonochorous,ZW
+Reptilia,Squamata,Elapidae,Tropidechis,carinatus,34,34,,gonochorous,ZW
+Reptilia,Squamata,Eublepharidae,Coleonyx,brevis,,,,gonochorous,homomorphic
+Reptilia,Squamata,Eublepharidae,Coleonyx,elegans,,,,gonochorous,
+Reptilia,Squamata,Eublepharidae,Coleonyx,mitratus,,,,gonochorous,
+Reptilia,Squamata,Eublepharidae,Coleonyx,variegatus,32,32,,gonochorous,homomorphic
+Reptilia,Squamata,Eublepharidae,Eublepharis,macularius,38,38,,gonochorous,
+Reptilia,Squamata,Eublepharidae,Hemitheconyx,caudicinctus,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Christinus,marmoratus,32,32,,gonochorous,ZW
+Reptilia,Squamata,Gekkonidae,Gehyra,australis,40,40,,gonochorous,ZW
+Reptilia,Squamata,Gekkonidae,Gehyra,nana,44,44,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Gehyra,purpurascens,40,40,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Gehyra,variegata,,,,apomictic,
+Reptilia,Squamata,Gekkonidae,Gekko,gekko,38,38,,gonochorous,XY
+Reptilia,Squamata,Gekkonidae,Gekko,hokouensis,38,38,,gonochorous,ZW
+Reptilia,Squamata,Gekkonidae,Gekko,japonicus,38,38,,gonochorous,XY
+Reptilia,Squamata,Gekkonidae,Gonatodes,ceciliae,22,22,,gonochorous,XY
+Reptilia,Squamata,Gekkonidae,Gonatodes,vittatus,32,32,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Hemidactylus,garnotii,63|65,,3,apomictic,
+Reptilia,Squamata,Gekkonidae,Hemidactylus,karenorum,,,,apomictic,
+Reptilia,Squamata,Gekkonidae,Hemidactylus,mabouia,42,42,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Hemidactylus,sp.,38,,2,apomictic,
+Reptilia,Squamata,Gekkonidae,Hemidactylus,stejnegeri,56,,3,apomictic,
+Reptilia,Squamata,Gekkonidae,Hemidactylus,vietnamensis,60,,3,apomictic,ZW
+Reptilia,Squamata,Gekkonidae,Heteronotia,binoei-1,63,,3,apomictic,ZW
+Reptilia,Squamata,Gekkonidae,Heteronotia,binoei-2,42,42,2,gonochorous,ZW
+Reptilia,Squamata,Gekkonidae,Lepidodactylus,lugubris,44,,2,apomictic,ZW
+Reptilia,Squamata,Gekkonidae,Nactus,arnouxii-1,35,,2,apomictic,
+Reptilia,Squamata,Gekkonidae,Nactus,arnouxii-2,,,2,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,abbotti,36,36,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,cepediana,36,36,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,dubia,36,36,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,guentheri,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,guimbeaui,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,guimbeaui guimbeaui,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,laticauda,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,lineata,36,36,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,lineata prusila,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,madagascariensis grandis,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,madagascariensis madagascariensis,36,36,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,ornata,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phelsuma,sundbergi,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Phyllodactylus,lanei,,,,gonochorous,ZW
+Reptilia,Squamata,Gekkonidae,Phyllodactylus,marmoratus,,,,gonochorous,ZW
+Reptilia,Squamata,Gekkonidae,Tarentola,angustimentali,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Tarentola,annularis,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Tarentola,boettgeri hierrensis,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Tarentola,delalandii,42,42,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Tarentola,gomerensis,,,,gonochorous,
+Reptilia,Squamata,Gekkonidae,Tarentola,mauritanica,42,42,,gonochorous,
+Reptilia,Squamata,Gymnophthalmidae,Calyptommatus,leiolespis,58,57,,gonochorous,complex XY
+Reptilia,Squamata,Gymnophthalmidae,Calyptommatus,nicterus,58,57,,gonochorous,complex XY
+Reptilia,Squamata,Gymnophthalmidae,Calyptommatus,sinebrachiatus,58,57,,gonochorous,complex XY
+Reptilia,Squamata,Gymnophthalmidae,Gymnophthalmus,plei,34,34,,gonochorous,XY
+Reptilia,Squamata,Gymnophthalmidae,Gymnophthalmus,underwoodi,,,2,apomictic,
+Reptilia,Squamata,Gymnophthalmidae,Leposoma,percarinatum,44|66,,2|3,apomictic,
+Reptilia,Squamata,Gymnophthalmidae,Micrablepharus,atticolus,50,50,,gonochorous,XY
+Reptilia,Squamata,Gymnophthalmidae,Micrablepharus,maximiliani,50,50,,gonochorous,XY
+Reptilia,Squamata,Gymnophthalmidae,Nothobachia,ablephara,62,62,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,acutus,31,31,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,bimaculatus,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,biporcatus,30,30,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,carolinensis,36,36,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,conspersus,30,30,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,cooki,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,cristatellus wyleyae,28,28,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,distichus,34,34,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,evermanni,26,26,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,ferreus,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,gingivinus,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,grahami,32,32,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,gundlachi,29,29,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,krugi,29,29,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,leachii,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,marmoratus,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,monensis,,,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,nebulosus,30,30,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,oculatus-1,32,32,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,oculatus-2,32,32,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,opalinus,30,30,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,pivodus,,,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,poncensis,29,29,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Anolis,pulchellus,29,29,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,sabanus,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,scriptus leucophaeus,28,28,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,stratulus,29,29,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Anolis,wattsi,29,29,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Basiliscus,basiliscus,,,,gonochorous,
+Reptilia,Squamata,Iguanidae,Crotaphytus,collaris,36,36,,gonochorous,
+Reptilia,Squamata,Iguanidae,Cupriguanus,achalensis,36,36,,gonochorous,
+Reptilia,Squamata,Iguanidae,Dipsosaurus,dorsalisE,36,36,,gonochorous,homomorphic
+Reptilia,Squamata,Iguanidae,Norops,biporcatus,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Norops,onca,30,30,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Norops,sagrei,28,28,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Phymaturus,palluma,36,36,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Polychrus,acutirostris,20,20,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Polychrus,marmoratus,36,36,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Polychrus,peruvianus,28,28,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Pristidactylus,achalensis,36,36,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,aeneus,24,24,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,anahuacus,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,asper,32,32,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,bulleri,32,32,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,cautus,22,22,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,chrysostictus,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,clarkii,40,40,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,couchii,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,cozumelae,22,22,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,dugesii,32,32,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,gadoviae,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,goldmani,24,24,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,graciosus,30,30,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,grammicus,32,32,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,heterolepis,32,32,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,hunsakeri,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,jalapae,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,jarrovii,32,32,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,licki,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,lundelli,22,22,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,maculosus,34,34,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,megalepidurus,32,32,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,melanorhinus,40,40,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,merriami,46,46,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,mucronatus,32,32,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,nelsoni,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,occidentalis,22,22,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,orcutti,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,ornatus,32,32,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,palaciosi,30,30,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,pardus,,,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,poinsettii,32,32,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,pyrocephalus,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,scalaris,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,serrifer,32,32,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Sceloporus,siniferus,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,spinosus,22,22,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,spp.,,,,apomictic,
+Reptilia,Squamata,Iguanidae,Sceloporus,torquatus,32,32,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,undulatus,22,22,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,uniformis,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Sceloporus,variabilis,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Tripidodactylus,onca,,,,gonochorous,
+Reptilia,Squamata,Iguanidae,Tropidurus,amathites,36,36,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Tropidurus,hispidus,36,36,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Tropidurus,nanuzae,36,,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Tropidurus,psammonastes,,35,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Tropidurus,torquatus,36,36,,gonochorous,complex XY
+Reptilia,Squamata,Iguanidae,Uma,inornata,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Uta,antiquus,,,,gonochorous,
+Reptilia,Squamata,Iguanidae,Uta,nolascensis,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Uta,palmeri,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Uta,squamata,34,34,,gonochorous,XY
+Reptilia,Squamata,Iguanidae,Uta,stansburiana,34,34,,gonochorous,XY
+Reptilia,Squamata,Lacertidae,Acanthodactylus,erythrurus,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Algyroides,moreoticus,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Algyroides,nigropunctatus,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Darevskia,armeniaca,,,2,apomictic,
+Reptilia,Squamata,Lacertidae,Darevskia,bendimahiensis,,,2,apomictic,
+Reptilia,Squamata,Lacertidae,Darevskia,dahli,38,38,2,apomictic,ZW
+Reptilia,Squamata,Lacertidae,Darevskia,mixta,36,36,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Darevskia,raddei,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Darevskia,rostombekovi,38,38,2,apomictic,ZW
+Reptilia,Squamata,Lacertidae,Darevskia,sapphirina,,,2,apomictic,
+Reptilia,Squamata,Lacertidae,Darevskia,unisexualis,57,57,2,apomictic,ZW
+Reptilia,Squamata,Lacertidae,Darevskia,uzzelli,,,2,apomictic,
+Reptilia,Squamata,Lacertidae,Darevskia,valentini,36,36,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Eremias,arguta,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Eremias,grammica,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Eremias,multiocellata,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Eremias,olivieri,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Eremias,velox,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Gallotia,galloti,40,40,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Heliobolus,lugubris,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,agilis,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,aranica,24,24,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,armeniaca,38,38,,gonochorous,
+Reptilia,Squamata,Lacertidae,Lacerta,aurelioi,26,26,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,bilineata,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,cyreni,36,36,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,dugesii,38,38,,gonochorous,
+Reptilia,Squamata,Lacertidae,Lacerta,graeca,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,horvathi,36,36,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,jayakari,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,kulzeri,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,laevis,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,lepida,36,36,,gonochorous,
+Reptilia,Squamata,Lacertidae,Lacerta,monticola,36,36,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,strigata,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,trilineata,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,viridis,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Lacerta,vivipara,36,36,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Meroles,cuneirostris,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Mesalina,olivieri,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Ophisops,elegans,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Pedioplanis,namaquensis,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Podarcis,dugesii,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Podarcis,erhardii,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Podarcis,hispanica,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Podarcis,melisellensis,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Podarcis,muralis,38,38,,gonochorous,
+Reptilia,Squamata,Lacertidae,Podarcis,pityusensis,38,38,,gonochorous,
+Reptilia,Squamata,Lacertidae,Podarcis,sicula,38,38,,gonochorous,
+Reptilia,Squamata,Lacertidae,Podarcis,tiliguerta,38,38,,gonochorous,
+Reptilia,Squamata,Lacertidae,Podarcis,wagleriana,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Psammodromus,algirus,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Takydromus,sexlineatus,38,38,,gonochorous,ZW
+Reptilia,Squamata,Lacertidae,Timon,lepidus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Pygopodidae,Delma,inornata,36,36,,gonochorous,XY
+Reptilia,Squamata,Pygopodidae,Lialis,burtonis,34,34,,gonochorous,complex XY
+Reptilia,Squamata,Scincidae,Bassiana,duperreyi,30,30,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Claireascincus,baudinii,,,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Claireascincus,cryodroma,,,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Claireascincus,entrecasteauxii,,,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Claireascincus,pagenstecheri,,,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Claireascincus,rawlinsoni,,,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Cyclodina,olivieri,30,30,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Eulamprus,heatwolei,,,,gonochorous,
+Reptilia,Squamata,Scincidae,Eulamprus,tympanum,30,30,,gonochorous,
+Reptilia,Squamata,Scincidae,Eumeces,fasciatus,26,26,,gonochorous,
+Reptilia,Squamata,Scincidae,Eumeces,obsoletus,26,26,,gonochorous,
+Reptilia,Squamata,Scincidae,Lampropholis,sp.,,,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Mabuya,mabouya mabouya,30,31,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Menetia,greyii-1,,,3,apomictic,
+Reptilia,Squamata,Scincidae,Menetia,greyii-2,,,2,gonochorous,
+Reptilia,Squamata,Scincidae,Niveoscincus,ocellatus,,,,gonochorous,
+Reptilia,Squamata,Scincidae,Oligosoma,maccanni,,,,gonochorous,
+Reptilia,Squamata,Scincidae,Oligosoma,suteri,,,,gonochorous,
+Reptilia,Squamata,Scincidae,Pseudemoia,spenceri,,,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Saproscincus,czechurai,30,30,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Scincella,lateralis,30,30,,gonochorous,XY
+Reptilia,Squamata,Scincidae,Sphenomorphus,indicus,28,28,,gonochorous,
+Reptilia,Squamata,Teiidae,Aspidoscelis,angusticeps,44,,2,gonochorous,
+Reptilia,Squamata,Teiidae,Aspidoscelis,cozumela,50,,2,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,deppei,50,,2,gonochorous,
+Reptilia,Squamata,Teiidae,Aspidoscelis,dixoni,,,2,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,exsanguis,,,3,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,flagellicauda,,,3,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,inornata,46,46,,gonochorous,XY
+Reptilia,Squamata,Teiidae,Aspidoscelis,laredonsis,,,2,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,maslini,47,,2,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,neomexicana,,,2,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,neotesselata,,,3,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,opate,,,3,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,rodecki,,,2,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,sonorae,,,3,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,tesselata,,,2,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,uniparens,46,,3,apomictic,
+Reptilia,Squamata,Teiidae,Aspidoscelis,velox,,,3,apomictic,
+Reptilia,Squamata,Teiidae,Cnemidophorus,tigris,46,46,,gonochorous,XY
+Reptilia,Squamata,Teiidae,Cnemidophorus,cryptus,48|50,,2,apomictic,
+Reptilia,Squamata,Teiidae,Cnemidophorus,gramivagus,50,,2,gonochorous,
+Reptilia,Squamata,Teiidae,Cnemidophorus,lemniscatus,50,,2,gonochorous,
+Reptilia,Squamata,Teiidae,Cnemidophorus,pseudolemniscatus,75,,3,apomictic,
+Reptilia,Squamata,Teiidae,Kentropyx,borckianus,,,2,apomictic,
+Reptilia,Squamata,Teiidae,Teius,suquiensis,,,2,apomictic,
+Reptilia,Squamata,Typhlopidae,Ramphotyphlops,braminus,,,3,apomictic,
+Reptilia,Squamata,Varanidae,Varanus,acanthurus,40,40,,gonochorous,ZW
+Reptilia,Squamata,Varanidae,Varanus,albigularis,40,40,,gonochorous,ZW
+Reptilia,Squamata,Varanidae,Varanus,exanthematicus,40,40,,gonochorous,
+Reptilia,Squamata,Varanidae,Varanus,niloticus,40,40,,gonochorous,ZW
+Reptilia,Squamata,Varanidae,Varanus,salvator,40,40,,gonochorous,
+Reptilia,Squamata,Varanidae,Varanus,varius,40,40,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Agkistrodon,contortrix,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Atropoides,mummifer,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Atropoides,picadoi,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothriechis,lateralis,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothriechis,nigroviridis,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothriechis,schlegelii,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothrops,alternatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothrops,asper,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothrops,insularis,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothrops,jararaca,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothrops,jararacussu,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothrops,leucurus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothrops,mojeni,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Bothrops,neuwiedi,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Cerrophidion,godmani,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Crotalus,catalinensis,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Crotalus,cerastes,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Crotalus,durissus terrificus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Crotalus,enyo,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Crotalus,molossus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Crotalus,ruber,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Crotalus,scutulatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Crotalus,tortugensis,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Daboia,russelli russelli,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Echis,carinatus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Lachesis,muta noctivaga,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Macrovipera,lebetina,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Porthidium,nasutum,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,ammodytes ammodytes,42,42,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,aspis aspis,42,42,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,aspis zinnikeri,42,42,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,berus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,berus,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,latastei latastei,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,monticola,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,renardi,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,seoanei,36,36,,gonochorous,ZW
+Reptilia,Squamata,Viperidae,Vipera,ursinii,36,36,,gonochorous,ZW
+Reptilia,Squamata,Xantusiidae,Lepidophyma,flavimaculatum,,,2,apomictic,
+Reptilia,Squamata,Xantusiidae,Lepidophyma,reticulatum,,,2,apomictic,
