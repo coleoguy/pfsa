@@ -1,0 +1,1068 @@
+Infra.Class,Order,Family,Common.name,Species,Synonym.,X2n
+PALEOGNATHAE,STRUTHIONIFORMES,Struthionidae,Ostriches,Struthio camelus,,80
+PALEOGNATHAE,RHEIFORMES,Rheidae,Rheas,Rhea americana,,80
+PALEOGNATHAE,RHEIFORMES,Rheidae,Rheas,Rhea pennata,Pterocnemia pennata,80
+PALEOGNATHAE,APTERYGIFORMES,Apterygidae,Kiwis,Apteryx australis,Pterocnemia pennata,80
+PALEOGNATHAE,CASUARIIFORMES,Casuariidae,Cassowaries and Emu,Casuarius casuarius,Pterocnemia pennata,92
+PALEOGNATHAE,CASUARIIFORMES,Casuariidae,Cassowaries and Emu,Dromaius novaehollandiae,Pterocnemia pennata,80
+PALEOGNATHAE,TINAMIFORMES,Tinamidae,Tinamous,Crypturellus parvirostris,Pterocnemia pennata,78
+PALEOGNATHAE,TINAMIFORMES,Tinamidae,Tinamous,Crypturellus tataupa,Pterocnemia pennata,78
+PALEOGNATHAE,TINAMIFORMES,Tinamidae,Tinamous,Eudromia elegans,Pterocnemia pennata,80
+PALEOGNATHAE,TINAMIFORMES,Tinamidae,Tinamous,Nothura maculosa,Pterocnemia pennata,80
+PALEOGNATHAE,TINAMIFORMES,Tinamidae,Tinamous,Rhynchotus rufescens,Pterocnemia pennata,78
+PALEOGNATHAE,TINAMIFORMES,Tinamidae,Tinamous,Tinamus solitarius,Pterocnemia pennata,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Aix galericulata,Pterocnemia pennata,84
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Aix sponsa,Pterocnemia pennata,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Alopochen aegyptiaca,Pterocnemia pennata,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anas acuta,Pterocnemia pennata,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anas castanea,Pterocnemia pennata,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anas crecca,Pterocnemia pennata,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anas penelope,Mareca penelope,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anas platyrhynchos,Mareca penelope,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anser albifrons,Mareca penelope,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anser anser,Mareca penelope,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anser caerulescens,Mareca penelope,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anser canagicus,Mareca penelope,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anser cygnoid,Cygnopsis cognoid,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anser fabalis,Cygnopsis cognoid,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anser indicus,Eulabeia indica,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Anser rossii,Eulabeia indica,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Aythya affinis,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Aythya americana,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Aythya ferina,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Aythya fuligula,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Aythya valisineria,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Branta canadensis,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Bucephala clangula,Eulabeia indica,84
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Bucephala clangula americana,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Cairina moschata,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Cereopsis novaehollandiae,Eulabeia indica,92
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Chloephaga rubidiceps,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Coscoroba coscoroba,Eulabeia indica,98
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Cygnus cygnus,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Cygnus melancoryphus,Eulabeia indica,78
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Cygnus olor,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Dendrocygna bicolor,Eulabeia indica,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Lophodytes cucullatus,Mergus cucullatus,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Mareca strepera,Anas strepera,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Mergus merganser,Anas strepera,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Mergus serrator,Anas strepera,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Netta rufina,Anas strepera,82
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Oxyura jamaicensis,Anas strepera,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Sarkidiornis melanotos,Anas strepera,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Somateria mollissima,Anas strepera,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Spatula clypeata,Anas clypeata,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Spatula discors,Anas discors,80
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Spatula querquedula,Anas querquedula,74
+NEOGNATHAE,ANSERIFORMES,Anatidae,"Ducks, Geese and Swans",Tadorna tadorna,Anas querquedula,82
+NEOGNATHAE,ANSERIFORMES,Anhimidae,Screamers,Chauna chavaria,Anas querquedula,80
+NEOGNATHAE,ANSERIFORMES,Anseranatidae,Magpie Goose,Anseranas semipalmata,Anas querquedula,78
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Crax fasciolata,Anas querquedula,88
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Mitu mitu,Crax mitu,80
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Mitu tuberosum,Crax mitu,82
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Nothocrax urumutum,Crax mitu,92
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Ortalis canicollis,Crax mitu,78
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Penelope jacquacu,Crax mitu,80
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Penelope obscura,Crax mitu,78
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Penelope purpurascens,Crax mitu,78
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Penelope superciliaris,Crax mitu,76
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Pipile cumanensis cumanensis,Crax mitu,84
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Pipile cumanensis grayi,Crax mitu,76
+NEOGNATHAE,GALLIFORMES,Cracidae,"Chachalacas, Curassows and Guans",Pipile jacutinga,Crax mitu,74
+NEOGNATHAE,GALLIFORMES,Megapodiidae,Megapodes,Aepypodius arfakianus,Crax mitu,80
+NEOGNATHAE,GALLIFORMES,Megapodiidae,Megapodes,Aepypodius bruijnii,Crax mitu,80
+NEOGNATHAE,GALLIFORMES,Megapodiidae,Megapodes,Macrocephalon maleo,Crax mitu,90
+NEOGNATHAE,GALLIFORMES,Numididae,Guineafowl,Acryllium vulturinum,Crax mitu,74-76
+NEOGNATHAE,GALLIFORMES,Numididae,Guineafowl,Guttera plumifera,Crax mitu,76
+NEOGNATHAE,GALLIFORMES,Numididae,Guineafowl,Guttera pucherani edouardi,Guttera edouardi,76
+NEOGNATHAE,GALLIFORMES,Numididae,Guineafowl,Numida meleagris,Guttera edouardi,78
+NEOGNATHAE,GALLIFORMES,Odontophoridae,New World Quail,Callipepla californica,Lophortyx californica,84
+NEOGNATHAE,GALLIFORMES,Odontophoridae,New World Quail,Callipepla gambelii,Lophortyx gambelii,80
+NEOGNATHAE,GALLIFORMES,Odontophoridae,New World Quail,Callipepla squamata,Lophortyx gambelii,80
+NEOGNATHAE,GALLIFORMES,Odontophoridae,New World Quail,Colinus virginianus,Lophortyx gambelii,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Afropavo congensis,Lophortyx gambelii,76
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Alectoris graeca,Lophortyx gambelii,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Alectornis rufa,Lophortyx gambelii,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Arborophila javanica,Lophortyx gambelii,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Bambusicola fytchii,Lophortyx gambelii,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Bambusicola thoracicus,Lophortyx gambelii,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Centrocercus urophasianus,Lophortyx gambelii,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Chrysolophus amherstiae,Lophortyx gambelii,70
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Chrysolophus pictus,Lophortyx gambelii,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Coturnix coturnix,Lophortyx gambelii,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Coturnix japonica,Lophortyx gambelii,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Excalfactoria chinensis,Coturnix chinensis,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Francolinus pintadeanus,Coturnix chinensis,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Francolinus pondicerianus,Coturnix chinensis,66
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Gallus gallus,Coturnix chinensis,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Lophura edwardsi,Coturnix chinensis,50
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Lophura imperialis,Coturnix chinensis,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Lophura nycthemera,Coturnix chinensis,80
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Lophura swinhoii,Coturnix chinensis,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Meleagris gallopavo,Coturnix chinensis,80
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Pavo cristatus,Coturnix chinensis,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Pavo muticus,Coturnix chinensis,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Perdix dauurica,Coturnix chinensis,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Phasianus colchicus,Coturnix chinensis,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Phasianus versicolor,Coturnix chinensis,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Polyplectron bicalcaratum,Coturnix chinensis,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Syrmaticus mikado,Coturnix chinensis,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Syrmaticus reevesii,Coturnix chinensis,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Symaticus soemmerringii,Coturnix chinensis,82
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Tetrastes bonasia,Coturnix chinensis,78
+NEOGNATHAE,GALLIFORMES,Phasianidae,Pheasants and allies,Tragopan temminckii,Coturnix chinensis,82
+NEOGNATHAE,GAVIIFORMES,Gaviidae,Loons,Gavia stellata,Coturnix chinensis,88
+NEOGNATHAE,SPHENISCIFORMES,Spheniscidae,Penguins,Aptenodytes  patagonicus,Coturnix chinensis,72
+NEOGNATHAE,SPHENISCIFORMES,Spheniscidae,Penguins,Aptenodytes forsteri,Coturnix chinensis,72
+NEOGNATHAE,SPHENISCIFORMES,Spheniscidae,Penguins,Pygoscelis adeliae,Coturnix chinensis,95/96
+NEOGNATHAE,SPHENISCIFORMES,Spheniscidae,Penguins,Pygoscelis antarcticus,Coturnix chinensis,92
+NEOGNATHAE,SPHENISCIFORMES,Spheniscidae,Penguins,Pygoscelis papua,Coturnix chinensis,94
+NEOGNATHAE,SPHENISCIFORMES,Spheniscidae,Penguins,Spheniscus demersus,Coturnix chinensis,72
+NEOGNATHAE,SPHENISCIFORMES,Spheniscidae,Penguins,Spheniscus humboldti,Coturnix chinensis,78
+NEOGNATHAE,SPHENISCIFORMES,Spheniscidae,Penguins,Spheniscus magellanicus,Coturnix chinensis,68
+NEOGNATHAE,EURYPYGIFORMES,Eurypygidae,Sunbittern,Eurypyga helias,Coturnix chinensis,80
+NEOGNATHAE,EURYPYGIFORMES,Rhynochetidae,Kagu,Rhynochetos jubatus,Coturnix chinensis,78
+NEOGNATHAE,PROCELLARIIFORMES,Oceanitidae,Austral Storm Petrels,Fregetta tropica,Coturnix chinensis,74
+NEOGNATHAE,PROCELLARIIFORMES,Oceanitidae,Austral Storm Petrels,Oceanites oceanicus,Coturnix chinensis,70
+NEOGNATHAE,PROCELLARIIFORMES,Hydrobatidae,Northern Storm Petrels,Oceanodroma leucorhoa,Coturnix chinensis,74
+NEOGNATHAE,PROCELLARIIFORMES,Procellariidae,"Petrels, Shearwaters & Diving Petrels",Daption capense,Coturnix chinensis,80
+NEOGNATHAE,PROCELLARIIFORMES,Procellariidae,"Petrels, Shearwaters & Diving Petrels",Macronectes giganteus,Coturnix chinensis,80
+NEOGNATHAE,PODICIPEDIFORMES,Podicipedidae,Grebes,Podiceps auritus,Coturnix chinensis,80
+NEOGNATHAE,PODICIPEDIFORMES,Podicipedidae,Grebes,Podiceps cristatus,Coturnix chinensis,78
+NEOGNATHAE,PODICIPEDIFORMES,Podicipedidae,Grebes,Podiceps grisegena,Coturnix chinensis,80
+NEOGNATHAE,PODICIPEDIFORMES,Podicipedidae,Grebes,Tachybaptus ruficollis,Coturnix chinensis,58
+NEOGNATHAE,PHOENICOPTERIFORMES,Phoenicopteridae,Flamingos,Phoeniconaias minor,Coturnix chinensis,80
+NEOGNATHAE,PHOENICOPTERIFORMES,Phoenicopteridae,Flamingos,Phoenicopterus ruber,Coturnix chinensis,80
+NEOGNATHAE,PHOENICOPTERIFORMES,Phoenicopteridae,Flamingos,Phoenicopterus ruber chilensis,Coturnix chinensis,80
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Ciconia boyciana,Coturnix chinensis,68
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Ciconia ciconia,Coturnix chinensis,68
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Ciconia ciconia ciconia,Coturnix chinensis,72
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Ciconia episcopus,Coturnix chinensis,60
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Ciconia maguari,Euxenura maguari,72
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Ciconia nigra,Euxenura maguari,52
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Ciconia stormi,Euxenura maguari,68
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Ephippiorhynchus asiaticus,Xenorhynchus asiaticus,66
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Ephippiorhynchus senegalensis,Xenorhynchus asiaticus,66
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Jabiru mycteria,Xenorhynchus asiaticus,56
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Leptoptilos crumenifer,Xenorhynchus asiaticus,52
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Leptoptilos javanicus,Xenorhynchus asiaticus,70
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Mycteria americana,Xenorhynchus asiaticus,72
+NEOGNATHAE,CICONIIFORMES,Ciconiidae,Storks,Mycteria cinerea,Xenorhynchus asiaticus,70
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Bostrychia hagedash,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Eudocimus ruber,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Geronticus eremita,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Nipponia nippon ,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Platalea ajaja,Hagedashia hagedash,72
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Platalea leucorodia,Hagedashia hagedash,70
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Plegadis falcinellus,Hagedashia hagedash,50
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Threskiornis aethiopicus,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Threskiornis melanocephalus,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Threskiornis molucca,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Threskiornithidae,"Ibises, Spoonbills",Threskiornis spinicollis,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ardea cinerea,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ardea cocoi,Hagedashia hagedash,64
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ardea goliath,Hagedashia hagedash,68
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ardea intermedia,Egretta intermedia,66
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ardea purpurea,Egretta intermedia,66
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ardeola bacchus,Egretta intermedia,68
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ardeola grayii,Egretta intermedia,68
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Botaurus stellaris,Egretta intermedia,62
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Bubulcus ibis,Ibis Ibis,60
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Cochlearius cochlearius,Ibis Ibis,74
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Egretta eulophotes,Ibis Ibis,64
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Egretta garzetta,Ibis Ibis,62
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Egretta gularis,Ibis Ibis,62
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ixobrychus cinnamomeus,Ibis Ibis,64
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ixobrychus eurhythmus,Ibis Ibis,64
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Ixobrychus sinensis,Ibis Ibis,60
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Nycticorax nycticorax,Ibis Ibis,64
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Syrigma sibilatrix,Ibis Ibis,62
+NEOGNATHAE,PELECANIFORMES,Ardeidae,"Herons, Bitterns",Tigrisoma lineatum,Ibis Ibis,72
+NEOGNATHAE,PELECANIFORMES,Balaenicipitidae,Shoebill,Balaeniceps rex,Ibis Ibis,72
+NEOGNATHAE,PELECANIFORMES,Pelecanidae,Pelicans,Pelecanus crispus,Ibis Ibis,66
+NEOGNATHAE,PELECANIFORMES,Pelecanidae,Pelicans,Pelecanus occidentalis,Ibis Ibis,66
+NEOGNATHAE,PELECANIFORMES,Pelecanidae,Pelicans,Pelecanus onocrotalus,Ibis Ibis,66
+NEOGNATHAE,PELECANIFORMES,Scopidae,Hamerkop,Scopus umbretta,Ibis Ibis,66
+NEOGNATHAE,SULIFORMES,Phalacrocoracidae,"Cormorants, Shags",Leucocarbo bransfieldensis,Phalacrocorax bransfieldensis,72
+NEOGNATHAE,SULIFORMES,Phalacrocoracidae,"Cormorants, Shags",Microcarbo niger,Phalacrocorax niger,86
+NEOGNATHAE,SULIFORMES,Phalacrocoracidae,"Cormorants, Shags",Microcarbo pygmaeus,Phalacrocorax niger,70
+NEOGNATHAE,SULIFORMES,Phalacrocoracidae,"Cormorants, Shags",Phalacrocorax carbo,Phalacrocorax niger,62
+NEOGNATHAE,SULIFORMES,Sulidae,"Gannets, Boobies",Morus bassanus,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Accipiter badius,Phalacrocorax niger,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Accipiter gentilis,Phalacrocorax niger,78
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Accipiter nisus,Phalacrocorax niger,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Accipiter novaehollandiae,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Accipiter virgatus,Phalacrocorax niger,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Aegypius monachus,Phalacrocorax niger,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Alquila chrysaetos,Phalacrocorax niger,62
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Alquila heliaca,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Aquila adalberti,Phalacrocorax niger,82
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Aquila audax,Phalacrocorax niger,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Aquila rapax,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Butastur teesa,Phalacrocorax niger,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Buteo buteo,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Buteo jamaicensis,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Buteo lagopus,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Buteo nitidus,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Buteo platypterus,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Buteo regalis,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Buteo swainsoni,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Buteogallus meridionalis,Phalacrocorax niger,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Circaetus gallicus,Phalacrocorax niger,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Circus aeruginosus,Phalacrocorax niger,72
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Circus cyaneus,Phalacrocorax niger,72
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Circus pygargus,Phalacrocorax niger,72
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Elanus caeruleus,Phalacrocorax niger,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Geranoaetus albicaudatus,Buteo albicaudatus,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Geranoaetus melanoleucus,Buteo albicaudatus,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Geranospiza caerulescens,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Gypaetus barbatus,Buteo albicaudatus,60
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Gyps bengalensis,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Gyps coprotheres,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Gyps fulvus,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Gyps rueppelli,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Gyps himalayensi,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Haliaeetus albicilla,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Haliaeetus leucocephalus,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Haliaeetus leucogaster,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Haliaeetus leucoryphus,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Haliaeetus pelagicus,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Haliaeetus vocifer,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Haliastur indus,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Harpia harpyja,Buteo albicaudatus,58
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Leptodon cayanensis,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Lophaetus occipitalis,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Milvus migrans,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Morphnus guianensis,Buteo albicaudatus,54
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Necrosyrtes monachus,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Neophron percnopterus,Buteo albicaudatus,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Nisaetus nipalensis,Spizaetus nipalensis,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Nisaetus nipalensis orientalis,Spizaetus nipalensis,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Parabuteo unicinctus,Spizaetus nipalensis,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Pernis apivorus,Spizaetus nipalensis,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Pithecophaga jefferyi,Spizaetus nipalensis,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Pseudastur albicollis,Leucopternis albicollis,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Rupornis magnirostris,Buteo magnirostris,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Sarcogyps calvus,Buteo magnirostris,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Spizaetus tyrannus,Buteo magnirostris,68
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Stephanoaetus coronatus,Buteo magnirostris,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Theratopius ecaudatus,Buteo magnirostris,66
+NEOGNATHAE,ACCIPITRIFORMES,Accipitridae,"Kites, Hawks and Eagles",Torgos tracheliotos,Buteo magnirostris,66
+NEOGNATHAE,ACCIPITRIFORMES,Cathartidae,New World Vultures,Cathartes aura,Buteo magnirostris,80
+NEOGNATHAE,ACCIPITRIFORMES,Cathartidae,New World Vultures,Cathartes burrovianus,Buteo magnirostris,80
+NEOGNATHAE,ACCIPITRIFORMES,Cathartidae,New World Vultures,Coragyps atratus,Buteo magnirostris,80
+NEOGNATHAE,ACCIPITRIFORMES,Cathartidae,New World Vultures,Gymnogyps californianus,Buteo magnirostris,80
+NEOGNATHAE,ACCIPITRIFORMES,Cathartidae,New World Vultures,Sarcoramphus papa,Buteo magnirostris,80
+NEOGNATHAE,ACCIPITRIFORMES,Cathartidae,New World Vultures,Vultur gryphus,Buteo magnirostris,80
+NEOGNATHAE,ACCIPITRIFORMES,Pandionidae,Ospreys,Pandion haliaetus,Buteo magnirostris,74
+NEOGNATHAE,ACCIPITRIFORMES,Sagittariidae,Secretarybird,Sagittarius serpentarius,Buteo magnirostris,80
+NEOGNATHAE,OTIDIFORMES,Otididae,Bustards,Otis tarda,Buteo magnirostris,80
+NEOGNATHAE,CARIAMIFORMES,Cariamidae,Seriemas,Cariama cristata,Buteo magnirostris,108
+NEOGNATHAE,CARIAMIFORMES,Cariamidae,Seriemas,Chunga burmeisteri,Buteo magnirostris,106
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Anthropoides virgo,Buteo magnirostris,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Antigone antigone,Grus antigone,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Antigone antigone sharpii,Grus antigone,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Antigone canadensis ,Grus canadensis,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Antigone rubicunda,Grus rubicunda,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Antigone vipio,Grus vipio,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Balearica pavonina,Grus vipio,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Grus americana,Grus vipio,82
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Grus carunculata,Bugeranus carunculatus,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Grus grus,Bugeranus carunculatus,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Grus japonensis,Bugeranus carunculatus,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Grus monacha,Bugeranus carunculatus,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Grus paradisea,Anthropoides paradisea ,80
+NEOGNATHAE,GRUIFORMES,Gruidae,Cranes,Leucogeranus leucogeranus,Grus leucogeranus,80
+NEOGNATHAE,GRUIFORMES,Psophiidae,Trumpeters,Psophia crepitans,Grus leucogeranus,80
+NEOGNATHAE,GRUIFORMES,Psophiidae,Trumpeters,Psophia leucoptera,Grus leucogeranus,80
+NEOGNATHAE,GRUIFORMES,Psophiidae,Trumpeters,Psophia viridis,Grus leucogeranus,80
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Amaurornis phoenicurus,Grus leucogeranus,78
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Aramides cajaneus,Aramides cajanea,78
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Aramides saracura,Aramides cajanea,80
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Fulica atra,Aramides cajanea,92
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Gallinula chloropus,Aramides cajanea,78
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Gallinula melanops,Aramides cajanea,80
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Laterallus melanophaius,Aramides cajanea,78
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Laterallus viridis,Aramides cajanea,76
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Porphyrio martinica,Aramides cajanea,74
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Porphyrio poliocephalus,Aramides cajanea,72
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Porphyrio porphyrio,Aramides cajanea,80
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Porzana albicollis,Aramides cajanea,72
+NEOGNATHAE,GRUIFORMES,Rallidae,"Rails, Crakes and Coots",Porzana paykullii,Aramides cajanea,78
+NEOGNATHAE,CHARADRIIFORMES,Alcidae,Auks,Brachyramphus marmoratus,Aramides cajanea,50
+NEOGNATHAE,CHARADRIIFORMES,Alcidae,Auks,Fratercula cirrhata,Aramides cajanea,50
+NEOGNATHAE,CHARADRIIFORMES,Alcidae,Auks,Synthliboramphus antiquus,Aramides cajanea,68
+NEOGNATHAE,CHARADRIIFORMES,Burhinidae,"Stone-curlews, Thick-knees",Burhinus oedicnemus,Aramides cajanea,42
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Charadrius alexandrinus,Aramides cajanea,76
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Charadrius dubius,Aramides cajanea,76
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Charadrius hiaticula,Hoplopterus spinosus,76
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Charadrius semipalmatus,Hoplopterus spinosus,76
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Charadrius vociferus,Hoplopterus spinosus,76
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Pluvialis dominica,Hoplopterus spinosus,78
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Pluvialis squatarola,Hoplopterus spinosus,72-76
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Vanellus chilensis,Hoplopterus spinosus,78
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Vanellus cinereus,Hoplopterus spinosus,78
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Vanellus malabaricus,Hoplopterus spinosus,76
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Vanellus miles,Hoplopterus spinosus,76
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Vanellus spinosus,Hoplopterus spinosus,72
+NEOGNATHAE,CHARADRIIFORMES,Charadriidae,Plovers,Vanellus vanellus,Hoplopterus spinosus,76
+NEOGNATHAE,CHARADRIIFORMES,Chionidae,Sheathbills,Chionis albus,Hoplopterus spinosus,76
+NEOGNATHAE,CHARADRIIFORMES,Haematopodidae,Oystercatchers,Haematopus ostralegus,Hoplopterus spinosus,66
+NEOGNATHAE,CHARADRIIFORMES,Haematopodidae,Oystercatchers,Haematopus unicolor,Hoplopterus spinosus,72
+NEOGNATHAE,CHARADRIIFORMES,Jacanidae,Jacanas,Hydrophasianus chirurgus,Hoplopterus spinosus,82
+NEOGNATHAE,CHARADRIIFORMES,Jacanidae,Jacanas,Metopidius indicus,Hoplopterus spinosus,84
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Chroicocephalus genei,Larus genei,54
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Gelochelidon nilotica,Sterna nilotica,60
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Larus argentatus,Sterna nilotica,72
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Larus canus,Sterna nilotica,70
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Larus crassirostris,Sterna nilotica,68
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Larus dominicanus,Sterna nilotica,68
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Larus fuscus,Sterna nilotica,68
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Larus marinus,Sterna nilotica,68
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Larus ridibundus,Sterna nilotica,66
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Larus schistisagus,Sterna nilotica,68
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Sterna hirundo,Sterna nilotica,68
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Sterna paradisaea,Sterna nilotica,70
+NEOGNATHAE,CHARADRIIFORMES,Laridae,"Gulls, Terns and Skimmers",Sternula albifrons,Sterna nilotica,68
+NEOGNATHAE,CHARADRIIFORMES,Recurvirostridae,"Stilts, Avocets",Himantopus himantopus,Sterna nilotica,80
+NEOGNATHAE,CHARADRIIFORMES,Recurvirostridae,"Stilts, Avocets",Recurvirostra avosetta,Sterna nilotica,76
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Actitis hypoleucos,Tringa hypoleucos,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Arenaria interpres,Tringa hypoleucos,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Calidris acuminata,Calidris acuminatus,84
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Calidris alpina,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Calidris canutus,Calidris alpinus,90
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Calidris ruficollis,Calidris alpinus,86
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Calidris temminckii,Calidris alpinus,90
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Calidris tenuirostris,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Gallinago gallinago,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Gallinago stenura,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Limosa lapponica,Calidris alpinus,94
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Limosa limonsa,Calidris alpinus,90
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Numenius arquata,Calidris alpinus,78
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Scolopax rusticola,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Tringa erythropus,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Tringa flavipes,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Tringa glareola,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Tringa guttifer,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Tringa nebularia,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Tringa ochropus,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Tringa stagnatilis,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Scolopacidae,"Sandpipers, Snipes",Tringa totanus,Calidris alpinus,88
+NEOGNATHAE,CHARADRIIFORMES,Stercorariidae,Skuas,Stercorarius antarcticus,Calidris alpinus,84
+NEOGNATHAE,CHARADRIIFORMES,Stercorariidae,Skuas,Stercorarius chilensis,Calidris alpinus,90
+NEOGNATHAE,CHARADRIIFORMES,Stercorariidae,Skuas,Stercorarius maccormicki,Calidris alpinus,68
+NEOGNATHAE,CHARADRIIFORMES,Turnicidae,Buttonquail,Turnix suscicator,Calidris alpinus,82
+NEOGNATHAE,CHARADRIIFORMES,Turnicidae,Buttonquail,Turnix tanki,Calidris alpinus,88
+NEOGNATHAE,PTEROCLIFORMES,Pteroclidae,Sandgrouse,Pterocles exustus,Calidris alpinus,80
+NEOGNATHAE,OPISTHOCOMIFORMES,Opisthocomidae,Hoatzin,Opisthocomus hoazin,Calidris alpinus,80
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Caloenas nicobarica,Calidris alpinus,80
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Claravis pretiosa,Calidris alpinus,74
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Columba janthina,Calidris alpinus,80
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Columba livia,Calidris alpinus,80
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Columba palumbus,Calidris alpinus,78
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Columbina minuta,Calidris alpinus,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Columbina passerina,Calidris alpinus,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Columbina picui,Calidris alpinus,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Columbina squammata,Calidris alpinus,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Columbina talpacoti,Calidris alpinus,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Geopelia cuneata,Calidris alpinus,72
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Geotrygon montana,Calidris alpinus,86
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Geotrigon violacea,Calidris alpinus,86
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Goura cristata,Calidris alpinus,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Goura scheepmakeri,Calidris alpinus,80
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Goura victoria,Calidris alpinus,72
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Leptotila rufaxilla,Calidris alpinus,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Leptotila verreauxi,Calidris alpinus,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Patagioenas cayennensis,Columba cayennensis,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Patagioenas picazuro,Columba picazuro,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Patagioenas speciosa,Columba speciosa,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Spilopelia chinensis,Streptopelia chinensis,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Streptopelia decaocto,Streptopelia chinensis,78
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Streptopelia orientalis,Streptopelia chinensis,80
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Streptopelia roseogrisea,Streptopelia chinensis,78
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Treron phoenicopterus,Streptopelia chinensis,74
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Treron sieboldii,Streptopelia chinensis,78
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Turtur chalcospilos,Streptopelia chinensis,70
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Uropelia campestris,Streptopelia chinensis,68
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Zenaida asiatica,Streptopelia chinensis,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Zenaida auriculata,Streptopelia chinensis,76
+NEOGNATHAE,COLUMBIFORMES,Columbidae,"Pigeons, Doves",Zenaida macroura,Streptopelia chinensis,76
+NEOGNATHAE,MUSOPHAGIFORMES,Musophagidae,Turacos,Corythaixoides concolor,Streptopelia chinensis, 136-142
+NEOGNATHAE,MUSOPHAGIFORMES,Musophagidae,Turacos,Musophaga violacea,Streptopelia chinensis,82
+NEOGNATHAE,MUSOPHAGIFORMES,Musophagidae,Turacos,Tauraco porphyreolophus,Gallirex porphyreolophus,82
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Cacomantis merulinus,Cuculus merulinus,78
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Chrysococcyx caprius,Cuculus merulinus,80
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Crotophaga ani,Cuculus merulinus,70
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Crotophaga major,Cuculus merulinus,64
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Cuculus canorus,Cuculus merulinus,78
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Cuculus micropterus,Cuculus merulinus,78
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Cuculus saturatus,Cuculus merulinus,76
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Eudynamys scolopaceus,Eudynamys scolopacea,78
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Guira guira,Eudynamys scolopacea,72
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Phaenicophaeus tristis,Eudynamys scolopacea,78
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Piaya cayana,Eudynamys scolopacea,76
+NEOGNATHAE,CUCULIFORMES,Cuculidae,Cuckoos,Surniculus lugubris,Eudynamys scolopacea,78
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Asio flammeus,Eudynamys scolopacea,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Asio otus,Eudynamys scolopacea,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Athene brama,Eudynamys scolopacea,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Athene cunicularia,Speotyto cunicularia,86
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Athene noctua,Speotyto cunicularia,80
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Bubo africanus,Speotyto cunicularia,76
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Bubo blakistoni,Ketupa blakistoni,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Bubo bubo,Ketupa blakistoni,80
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Bubo lacteus,Ketupa blakistoni,80-84
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Bubo scandiacus,Ketupa blakistoni,84
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Bubo virginianus,Ketupa blakistoni,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Glaucidium radiatum,Ketupa blakistoni,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Ketupa ketupu,Ketupa ketupa,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Ketupa zeylonensis,Ketupa ketupa,80
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Megascops kennicottii,Otus kennicottii,70
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Ninox novaeseelandiae,Otus kennicottii,80
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Ninox scutulata,Otus kennicottii,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Otus bakkamoena,Otus kennicottii,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Otus scops,Otus kennicottii,76
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Ptilopsis leucotis,Otus leucotis,70
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Pulsatrix perspicillata,Otus leucotis,76
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Strix aluco,Otus leucotis,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Strix hylophila,Otus leucotis,80
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Strix leptogrammica,Otus leucotis,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Strix nebulosa,Otus leucotis,80
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Strix uralensis japonica,Otus leucotis,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Strix uralensis uralensis,Otus leucotis,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Strix woodfordii,Ciccaba woodfordii,82
+NEOGNATHAE,STRIGIFORMES,Strigidae,Owls,Surnia ulula,Ciccaba woodfordii,66
+NEOGNATHAE,STRIGIFORMES,Tytonidae,Barn Owls,Phodilus badius,Ciccaba woodfordii,90
+NEOGNATHAE,STRIGIFORMES,Tytonidae,Barn Owls,Tyto alba,Ciccaba woodfordii,92
+NEOGNATHAE,STRIGIFORMES,Tytonidae,Barn Owls,Tyto capensis,Ciccaba woodfordii,50
+NEOGNATHAE,CAPRIMULGIFORMES,Caprimulgidae,Nightjars,Antrostomus rufus,Caprimulgus rufus,78
+NEOGNATHAE,CAPRIMULGIFORMES,Caprimulgidae,Nightjars,Caprimulgus aegyptius,Caprimulgus rufus,70
+NEOGNATHAE,CAPRIMULGIFORMES,Caprimulgidae,Nightjars,Caprimulgus indicus,Caprimulgus rufus,76
+NEOGNATHAE,CAPRIMULGIFORMES,Caprimulgidae,Nightjars,Chordeiles pusillus,Caprimulgus rufus,68
+NEOGNATHAE,CAPRIMULGIFORMES,Caprimulgidae,Nightjars,Hydropsalis torquata,Hydropsalis brasiliana,74
+NEOGNATHAE,CAPRIMULGIFORMES,Caprimulgidae,Nightjars,Lurocalis semitorquatus,Hydropsalis brasiliana,82
+NEOGNATHAE,CAPRIMULGIFORMES,Caprimulgidae,Nightjars,Nyctidromus albicollis,Hydropsalis brasiliana,78
+NEOGNATHAE,CAPRIMULGIFORMES,Caprimulgidae,Nightjars,Setopagis parvula,Caprimulgus parvulus,72
+NEOGNATHAE,CAPRIMULGIFORMES,Nyctibiidae,Potoos,Nyctibius griseus,Caprimulgus parvulus,86
+NEOGNATHAE,CAPRIMULGIFORMES,Podargidae,Frogmouths,Podargus strigoides,Caprimulgus parvulus,78
+NEOGNATHAE,APODIFORMES,Apodidae,Swifts,Apus affinis,Caprimulgus parvulus,70
+NEOGNATHAE,APODIFORMES,Apodidae,Swifts,Apus apus,Caprimulgus parvulus,78
+NEOGNATHAE,APODIFORMES,Apodidae,Swifts,Apus pacificus,Caprimulgus parvulus,62
+NEOGNATHAE,APODIFORMES,Apodidae,Swifts,Hirundapus caudacutus,Caprimulgus parvulus,64
+NEOGNATHAE,APODIFORMES,Apodidae,Swifts,Streptoprocne biscutata,Caprimulgus parvulus,64
+NEOGNATHAE,APODIFORMES,Apodidae,Swifts,Streptoprocne zonaris,Caprimulgus parvulus,66
+NEOGNATHAE,APODIFORMES,Trochilidae,Hummingbirds,Calypte anna,Caprimulgus parvulus,74
+NEOGNATHAE,APODIFORMES,Trochilidae,Hummingbirds,Amazilia lactea,Caprimulgus parvulus,82
+NEOGNATHAE,APODIFORMES,Trochilidae,Hummingbirds,Colibri serrirostris,Caprimulgus parvulus,82
+NEOGNATHAE,APODIFORMES,Trochilidae,Hummingbirds,Lephornis magnifica,Caprimulgus parvulus,82
+NEOGNATHAE,APODIFORMES,Trochilidae,Hummingbirds,Chlorestes notatus ,Caprimulgus parvulus,82
+NEOGNATHAE,COLIIFORMES,Coliidae,Mousebirds,Colius macrourus,Caprimulgus parvulus,78
+NEOGNATHAE,TROGONIFORMES,Trogonidae,Trogons,Harpactes erythrocephalus,Caprimulgus parvulus,76
+NEOGNATHAE,TROGONIFORMES,Trogonidae,Trogons,Trogon surrucura,Caprimulgus parvulus,82
+NEOGNATHAE,CORACIIFORMES,Alcedinidae,Kingfishers,Alcedo atthis,Caprimulgus parvulus,132
+NEOGNATHAE,CORACIIFORMES,Alcedinidae,Kingfishers,Ceryle rudis,Caprimulgus parvulus,82
+NEOGNATHAE,CORACIIFORMES,Alcedinidae,Kingfishers,Ceyx azureus,Caprimulgus parvulus,122
+NEOGNATHAE,CORACIIFORMES,Alcedinidae,Kingfishers,Chloroceryle americana,Caprimulgus parvulus,94
+NEOGNATHAE,CORACIIFORMES,Alcedinidae,Kingfishers,Dacelo novaeguineae,Dacelo gigas,76
+NEOGNATHAE,CORACIIFORMES,Alcedinidae,Kingfishers,Halcyon pileata,Dacelo gigas,84
+NEOGNATHAE,CORACIIFORMES,Alcedinidae,Kingfishers,Halcyon smyrnensis,Dacelo gigas,76
+NEOGNATHAE,CORACIIFORMES,Alcedinidae,Kingfishers,Megaceryle torquata,Dacelo gigas,84
+NEOGNATHAE,CORACIIFORMES,Bucerotidae,Hornbills,Bycanistes bucinator,Ceratogymna bucinator,40
+NEOGNATHAE,CORACIIFORMES,Bucerotidae,Hornbills,Bycanistes subcylindricus,Ceratogymna subcylindricus,42
+NEOGNATHAE,CORACIIFORMES,Coraciidae,Rollers,Coracias benghalensis,Ceratogymna subcylindricus,78
+NEOGNATHAE,CORACIIFORMES,Coraciidae,Rollers,Coracias garrulus,Ceratogymna subcylindricus,90
+NEOGNATHAE,CORACIIFORMES,Meropidae,Bee-eaters,Merops orientalis,Ceratogymna subcylindricus,78
+NEOGNATHAE,BUCEROTIFORMES,Bucerotidae,Hornbills,Rhyticeros undulatus,Aceros undulatus,68
+NEOGNATHAE,BUCEROTIFORMES,Bucerotidae,Hornbills,Buceros bicornis,Aceros undulatus,70
+NEOGNATHAE,BUCEROTIFORMES,Bucerotidae,Hornbills,Lophoceros fasciatus,Tockus fasciatus,68
+NEOGNATHAE,BUCEROTIFORMES,Bucorvidae,Ground Hornbills,Bucorvus abyssinicus,Tockus fasciatus,90
+NEOGNATHAE,BUCEROTIFORMES,Bucorvidae,Ground Hornbills,Bucorvus leadbeateri,Tockus fasciatus,88
+NEOGNATHAE,BUCEROTIFORMES,Upupidae,Hoopoes,Upupa epops,Tockus fasciatus,126
+NEOGNATHAE,PICIFORMES,Megalaimidae,Asian Barbets,Psilopogon haemacephalus,Megalaima haemacephala,90
+NEOGNATHAE,PICIFORMES,Megalaimidae,Asian Barbets,Psilopogon zeylanicus,Megalaima zeylanicus,96
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Colaptes auratus,Megalaima zeylanicus,90
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Colaptes campestris,Megalaima zeylanicus,84
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Colaptes melanochloros,Megalaima zeylanicus,84
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Dendrocopos hyperythrus,Megalaima zeylanicus,92
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Dendrocopos leucotos,Megalaima zeylanicus,90
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Dendrocopos major,Megalaima zeylanicus,108
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Dinopium benghalense,Megalaima zeylanicus,92
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Dryobates minor,Dendrocopos minor,108
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Dryobates pubescens,Picoides pubescens,92
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Dryocopus martius,Picoides pubescens,88
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Jynx torquilla,Picoides pubescens,90
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Leiopicus mahrattensis,Picoides mahrattensis,84
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Leuconotopicus villosus,Picoides villosus,92
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Melanerpes candidus,Picoides villosus,64
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Picumnus cirratus,Picoides villosus,70
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Picus canus,Picoides villosus,92
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Picus viridis,Picoides villosus,94
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Sphyrapicus varius,Picoides villosus,92
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Veniliornis spilogaster,Picoides villosus,80
+NEOGNATHAE,PICIFORMES,Picidae,Woodpeckers,Yungipicus kizuki,Dendrocopos kizuki,92
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Andigena laminirostris,Dendrocopos kizuki,108
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Pteroglossus aracari,Dendrocopos kizuki,62
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Pteroglossus bailloni,Dendrocopos kizuki,92
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Pteroglossus castanotis,Dendrocopos kizuki,86
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Ramphastos dicolorus,Dendrocopos kizuki,94-98
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Ramphastos toco,Dendrocopos kizuki,114
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Ramphastos tucanus cuvieri,Dendrocopos kizuki,88
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Ramphastos vitellinus,Dendrocopos kizuki,102
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Ramphastos vitellinus ariel,Ramphastos ariel,106
+NEOGNATHAE,PICIFORMES,Ramphastidae,Toucans,Selenidera maculirostris,Ramphastos ariel,98
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Caracara plancus,Polyborus plancus,92
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco biarmicus,Polyborus plancus,52
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco columbarius,Polyborus plancus,40
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco chicquera,Polyborus plancus,52
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco cherrug,Polyborus plancus,52
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco jugger,Polyborus plancus,50
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco mexicanus,Polyborus plancus,48
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco peregrinus,Polyborus plancus,48
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco rusticolus,Falco rusticolis,52
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco sparverius,Falco rusticolis,48
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco subbuteo,Falco rusticolis,50
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Falco tinnunculus,Falco rusticolis,52
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Milvago chimachima,Falco rusticolis,92
+NEOGNATHAE,FALCONIFORMES,Falconidae,"Caracaras, Falcons",Phalcoboenus megalopterus,Falco rusticolis,90
+NEOGNATHAE,PSITTACIFORMES,Cacatuidae,Cockatoos,Cacatua galerita,Falco rusticolis,82
+NEOGNATHAE,PSITTACIFORMES,Cacatuidae,Cockatoos,Cacatua goffiniana,Falco rusticolis,74
+NEOGNATHAE,PSITTACIFORMES,Cacatuidae,Cockatoos,Cacatua moluccensis,Falco rusticolis,76
+NEOGNATHAE,PSITTACIFORMES,Cacatuidae,Cockatoos,Cacatua sanguinea,Falco rusticolis,74
+NEOGNATHAE,PSITTACIFORMES,Cacatuidae,Cockatoos,Callocephalon fimbriatum,Falco rusticolis,92
+NEOGNATHAE,PSITTACIFORMES,Cacatuidae,Cockatoos,Calyptorhynchus banksii,Calyptorhynchus magnificus,72
+NEOGNATHAE,PSITTACIFORMES,Cacatuidae,Cockatoos,Eolophus roseicapilla,Cacatua roseicapilla,76
+NEOGNATHAE,PSITTACIFORMES,Cacatuidae,Cockatoos,Nymphicus hollandicus,Cacatua roseicapilla,72
+NEOGNATHAE,PSITTACIFORMES,Cacatuidae,Cockatoos,Probosciger aterrimus,Cacatua roseicapilla,74
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Alipiopsitta xanthops,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona aestiva,Salvatoria xanthops,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona amazonica,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona autumnalis,Salvatoria xanthops,68-72
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona brasiliensis,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona farinosa,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona festiva,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona kawalli,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona ochrocephala,Salvatoria xanthops,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona pretrei,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona rhodocorytha,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona vinacea,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Amazona viridigenalis,Salvatoria xanthops,72
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Anodorhynchus hyacinthinus,Salvatoria xanthops,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Anodorhynchus leari,Salvatoria xanthops,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Ara ararauna,Salvatoria xanthops,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Ara chloropterus,Salvatoria xanthops,68-70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Ara macao,Salvatoria xanthops,62–64
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Ara militaris,Salvatoria xanthops,66
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Aratinga auricapillus,Salvatoria xanthops,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Aratinga jandaya,Salvatoria xanthops,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Aratinga nenday,Nandayus nenday,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Aratinga solstitialis,Nandayus nenday,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Brotogeris sanctithomae,Nandayus nenday,72
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Brotogeris versicolurus,Nandayus nenday,82
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Cyanopsitta spixii,Nandayus nenday,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Deroptyus accipitrinus,Nandayus nenday,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Eupsittula aurea,Aratinga aurea,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Eupsittula cactorum,Aratinga cactorum,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Forpus xanthopterygius,Aratinga cactorum,86
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Graydidascalus brachyurus,Aratinga cactorum,64
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Guaruba guarouba,Aratinga cactorum,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Myiopsitta monachus,Aratinga cactorum,48
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Pionites leucogaster,Aratinga cactorum,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Pionopsitta pileata,Aratinga cactorum,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Pionus maximiliani,Aratinga cactorum,72
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Pionus menstruus,Aratinga cactorum,72
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Pionus senilis,Aratinga cactorum,72
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Pionus seniloides,Aratinga cactorum,72
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Poicephalus robustus,Aratinga cactorum,60
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Poicephalus senegalus,Aratinga cactorum,68
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Primolius maracana,Aratinga cactorum,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Psittacara finschi,Aratinga finschi,50
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Psittacara leucophthalmus,Aratinga leucophthalma ,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Psittacus erithacus,Aratinga leucophthalma ,62-64
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Pyrrhura frontalis,Aratinga leucophthalma ,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Pyrrhura molinae,Aratinga leucophthalma ,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Thectocercus acuticaudatus,Aratinga acuticaudata,70
+NEOGNATHAE,PSITTACIFORMES,Psittacidae,African & New World Parrots,Triclaria malachitacea,Aratinga acuticaudata,54
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Agapornis roseicollis,Aratinga acuticaudata,48
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Alisterus scapularis,Aratinga acuticaudata,76
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Barnardius zonarius macgillivrayi,Barnardius barnardi macgillivrayi,62
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Charmosyna josefinae,Barnardius barnardi macgillivrayi,64
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Loriculus vernalis,Barnardius barnardi macgillivrayi,72
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Lorius hypoinochorus,Barnardius barnardi macgillivrayi,72
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Lorius lory,Barnardius barnardi macgillivrayi,72
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Melopsittacus undulatus,Barnardius barnardi macgillivrayi,62
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Phigys solitarius,Barnardius barnardi macgillivrayi,70
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Platycercus elegans,Barnardius barnardi macgillivrayi,68
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Polytelisvalexandrae,Barnardius barnardi macgillivrayi,70
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Prioniturus discurus,Barnardius barnardi macgillivrayi,60
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Psephotellus chrysopterygius,Psephotus chrysopterygius,62
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Psephotellus varius,Psephotus varius,66
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Psittacula alexandri,Psephotus varius,70
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Psittacula cyanocephala,Psephotus varius,66
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Psittacula krameri,Psittacula krameri borealis,68
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Psittrichas fulgidus,Psittrichas fulgidens,72
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Purpureicephalus spurius,Psittrichas fulgidens,62
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Tanygnathus lucionensis talautensis,Psittrichas fulgidens,56-62
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Tanygnathus megalorynchos,Psittrichas fulgidens,56-62
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Trichoglossus flavoviridis,Psittrichas fulgidens,46
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Trichoglossus haematodus,Psittrichas fulgidens,58
+NEOGNATHAE,PSITTACIFORMES,Psittaculidae,Old World Parrots,Trichoglossus haematodus massena,Psittrichas fulgidens,48
+NEOGNATHAE,PSITTACIFORMES,Strigopidae,New Zealand Parrots,Nestor notabilis,Psittrichas fulgidens,60
+NEOGNATHAE,PASSERIFORMES,Acrocephalidae,Reed Warblers and allies,Acrocephalus agricola,Psittrichas fulgidens,76
+NEOGNATHAE,PASSERIFORMES,Acrocephalidae,Reed Warblers and allies,Acrocephalus arundinaceus,Psittrichas fulgidens,80
+NEOGNATHAE,PASSERIFORMES,Acrocephalidae,Reed Warblers and allies,Acrocephalus bistrigiceps,Psittrichas fulgidens,78
+NEOGNATHAE,PASSERIFORMES,Acrocephalidae,Reed Warblers and allies,Hippolais languida,Psittrichas fulgidens,78
+NEOGNATHAE,PASSERIFORMES,Acrocephalidae,Reed Warblers and allies,Iduna caligata,Hippolais caligata,80
+NEOGNATHAE,PASSERIFORMES,Aegithalidae,Bushtits,Aegithalos caudatus,Hippolais caligata,80
+NEOGNATHAE,PASSERIFORMES,Aegithalidae,Bushtits,Aegithalos concinnus,Hippolais caligata,76
+NEOGNATHAE,PASSERIFORMES,Aegithalidae,Bushtits,Aegithina tiphia,Hippolais caligata,80
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Alauda arvensis,Hippolais caligata,76
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Alauda gulgula,Hippolais caligata,76
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Alaudala rufescens,Calandrella rufescens,74
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Calandrella cinerea,Calandrella rufescens,80
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Eremophila alpestris,Calandrella rufescens,76
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Eremopterix griseus,Calandrella rufescens,78
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Galerida cristata,Calandrella rufescens,74
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Melanocorypha bimaculata,Calandrella rufescens,78
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Melanocorypha mongolica,Calandrella rufescens,76
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Miafra assamica,Calandrella rufescens,76
+NEOGNATHAE,PASSERIFORMES,Alaudidae,Larks,Miafra erythroptera,Calandrella rufescens,74
+NEOGNATHAE,PASSERIFORMES,Bombycillidae,Waxwings,Bombycilla garrulus,Calandrella rufescens,78
+NEOGNATHAE,PASSERIFORMES,Bombycillidae,Waxwings,Bombycilla japonica,Calandrella rufescens,78
+NEOGNATHAE,PASSERIFORMES,Buphagidae,Oxpeckers,Coracina melanoptera,Calandrella rufescens,74
+NEOGNATHAE,PASSERIFORMES,Campephagidae,Cuckooshrikes,Buphagus erythrorhynchus,Calandrella rufescens,68
+NEOGNATHAE,PASSERIFORMES,Campephagidae,Cuckooshrikes,Pericrocotus cinnamomeus,Calandrella rufescens,60
+NEOGNATHAE,PASSERIFORMES,Campephagidae,Cuckooshrikes,Pericrocotus divaricatus,Calandrella rufescens,80
+NEOGNATHAE,PASSERIFORMES,Cardinalidae,"Cardinals, Grosbeaks and allies",Cardinalis cardinalis,Calandrella rufescens,84
+NEOGNATHAE,PASSERIFORMES,Cardinalidae,"Cardinals, Grosbeaks and allies",Cardinalis sinuatus,Cardinalis sinuata,78-80
+NEOGNATHAE,PASSERIFORMES,Cardinalidae,"Cardinals, Grosbeaks and allies",Cyanocompsa brissonii,Cardinalis sinuata,76
+NEOGNATHAE,PASSERIFORMES,Cardinalidae,"Cardinals, Grosbeaks and allies",Pheucticus aureoventris,Cardinalis sinuata,78
+NEOGNATHAE,PASSERIFORMES,Cardinalidae,"Cardinals, Grosbeaks and allies",Pheucticus melanocephalus,Cardinalis sinuata,80-82
+NEOGNATHAE,PASSERIFORMES,Cardinalidae,"Cardinals, Grosbeaks and allies",Piranga flava,Cardinalis sinuata,78
+NEOGNATHAE,PASSERIFORMES,Cardinalidae,"Cardinals, Grosbeaks and allies",Piranga rubra,Cardinalis sinuata,78
+NEOGNATHAE,PASSERIFORMES,Certhiidae,Treecreepers,Certhia familiaris,Cardinalis sinuata,80
+NEOGNATHAE,PASSERIFORMES,Cettiidae,Cettia Bush Warblers and allies,Horornis diphone,Cettia diphone,78
+NEOGNATHAE,PASSERIFORMES,Chloropseidae,Leafbirds,Chloropsis aurifrons,Cettia diphone,78
+NEOGNATHAE,PASSERIFORMES,Chloropseidae,Leafbirds,Chloropsis cochinchinensis,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Cinclidae,Dippers,Cinclus pallasii,Cettia diphone,78
+NEOGNATHAE,PASSERIFORMES,Cisticolidae,Cisticolas and allies,Orthotomus sutorius,Cettia diphone,84
+NEOGNATHAE,PASSERIFORMES,Cisticolidae,Cisticolas and allies,Prinia socialis,Cettia diphone,72
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus brachyrhynchos,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus corax,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus cornix,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus corone corone,Cettia diphone,72
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus corone orientalis,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus culminatus,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus macrorhynchos,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus monedula,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus ruficollis,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Corvus splendens,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Cyanocitta cristata,Cettia diphone,78
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Cyanopica cyanus,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Dendrocitta vagabunda,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Garrulus glandarius,Cettia diphone,78
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Pica pica,Cettia diphone,82
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Pyrrhocorax pyrrhocorax,Cettia diphone,76
+NEOGNATHAE,PASSERIFORMES,Corvidae,"Crows, Jays",Urocissa erythrorhyncha,Cettia diphone,78
+NEOGNATHAE,PASSERIFORMES,Cotingidae,Cotingas,Cephalopterus penduliger,Cettia diphone,82
+NEOGNATHAE,PASSERIFORMES,Dicruridae,Drongos,Dicrurus adsimilis,Cettia diphone,68
+NEOGNATHAE,PASSERIFORMES,Dicruridae,Drongos,Dicrurus caerulescens,Cettia diphone,68
+NEOGNATHAE,PASSERIFORMES,Dicruridae,Drongos,Dicrurus macrocercus,Cettia diphone,68
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza aureola,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza bruniceps,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza chrysophrys,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza cia,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza cioides,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza citrinella,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza elegans,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza flaviventris,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza fucata,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza hortulana,Cettia diphone,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza lathami,Melophus lathami,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza leucocephalos,Melophus lathami,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza melanocephala,Melophus lathami,82
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza pusilla,Melophus lathami,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza rustica,Melophus lathami,74
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza rutila,Melophus lathami,80
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza schoeniclus,Melophus lathami,74
+NEOGNATHAE,PASSERIFORMES,Emberizidae,Buntings,Emberiza spodocephala,Melophus lathami,80
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Amadina erythrocephala,Melophus lathami,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Amadina fasciata,Melophus lathami,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Amandava amandava,Estrilda amandava,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Amandava subflava,Estrilda amandava,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Emblema pictum,Estrilda amandava,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Erythrura gouldiae,Estrilda amandava,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Erythrura trichroa,Estrilda amandava,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Estrilda astrild,Estrilda amandava,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Euodice cantans,Lonchura cantans ,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Euodice malabarica,Lonchura malabarica,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Heteromunia pectoralis,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Lagonosticta senegala,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Lonchura atricapilla,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Lonchura castaneothorax,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Lonchura flaviprymna,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Lonchura maja,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Lonchura malacca,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Lonchura oryzivora,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Lonchura punctulata,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Lonchura striata,Lonchura pectoralis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Neochmia modesta,Aidemosyne modesta,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Neochmia phaeton,Aidemosyne modesta,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Neochmia ruficauda,Bathilda ruficauda,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Neochmia temporalis,Aegintha temporalis,80
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Poephila acuticauda,Aegintha temporalis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Poephila cincta,Aegintha temporalis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Poephila personata,Aegintha temporalis,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Pytilia melba,Aegintha temporalis,76
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Pytilia phoenicoptera,Aegintha temporalis,56
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Spermestes bicolor,Lonchura bicolor,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Stagonopleura guttata,Emblema guttata,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Taeniopygia bichenovii,Emblema guttata,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Taeniopygia guttata,Emblema guttata,78
+NEOGNATHAE,PASSERIFORMES,Estrildidae,"Waxbills, Munias and allies",Uraeginthus bengalus,Emblema guttata,80
+NEOGNATHAE,PASSERIFORMES,Eurylaimidae,Broadbills,Psarisomus dalhousiae,Emblema guttata,76
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Acanthis flammea,Carduelis flammea,78
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Bucanetes githagineus,Rhodopechys githaginea,78
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Bucanetes mongolicus,Rhodopechys mongolica,80
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Carduelis carduelis,Rhodopechys mongolica,82
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Carpodacus erythrinus,Rhodopechys mongolica,80
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Carpodacus roseus,Rhodopechys mongolica,82
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Chloris ambigua,Carduelis ambigua,80
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Chloris chloris,Carduelis chloris,80
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Chloris sinica,Carduelis sinica,80
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Coccothraustes coccothraustes,Carduelis sinica,78
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Eophona migratoria,Coccothraustes migratorius,78
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Eophona personata,Coccothraustes migratorius,78
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Fringilla coelebs,Coccothraustes migratorius,80
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Fringilla montifringilla,Coccothraustes migratorius,78
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Haemorhous mexicanus,Carpodacus mexicanus,80
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Linaria cannabina,Carduelis cannabina,82
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Loxia curvirostra,Carduelis cannabina,76
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Pyrrhula pyrrhula,Carduelis cannabina,78
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Serinus canaria,Carduelis cannabina,80
+NEOGNATHAE,PASSERIFORMES,Fringillidae,"Finches, Euphonias",Spinus spinus,Carduelis spinus,78
+NEOGNATHAE,PASSERIFORMES,Furnariidae,Ovenbirds,Lepidocolaptes angustirostris,Carduelis spinus,82
+NEOGNATHAE,PASSERIFORMES,Furnariidae,Ovenbirds,Glyphorynchus spirurus,Carduelis spinus,80
+NEOGNATHAE,PASSERIFORMES,Furnariidae,Ovenbirds,Sittasomus griseicapillus,Carduelis spinus,82
+NEOGNATHAE,PASSERIFORMES,Furnariidae,Ovenbirds,Synallaxis frontalis,Carduelis spinus,82
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Cecropis daurica,Hirundo daurica,78
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Hirundo rustica,Hirundo daurica,80
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Hirundo smithii,Hirundo daurica,72
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Notiochelidon cyanoleuca,Hirundo daurica,82
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Progne chalybea,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Progne tapera,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Pygochelidon cyanoleuca,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Riparia diluta,Hirundo daurica,72
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Riparia riparia,Hirundo daurica,80
+NEOGNATHAE,PASSERIFORMES,Hirundinidae,"Swallows, Martins",Stelgidopteryx ruficollis,Hirundo daurica,80
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Agelaius phoeniceus,Hirundo daurica,80
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Icteria virens,Hirundo daurica,80
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Icterus graduacauda,Hirundo daurica,78
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Molothrus ater,Hirundo daurica,80
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Molothrus bonariensis,Hirundo daurica,80
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Quiscalus mexicanus,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Quiscalus quiscula,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Sturnella magna,Hirundo daurica,78
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Sturnella militaris,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Icteridae,"Oropendolas, Orioles and Blackbirds",Xanthocephalus xanthocephalus,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius bucephalus,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius collurio,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius cristatus,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius excubitor,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius minor,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius phoenicuroides,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius schach erythronotus,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius schach tricolor,Hirundo daurica,72
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius tephronotus,Hirundo daurica,74
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius tigrinus,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Laniidae,Shrikes,Lanius vittatus,Hirundo daurica,72
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Actinodura cyanouroptera,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Babax lanceolatus,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Garrulax canorus,Hirundo daurica,78
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Garrulax cineraceus,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Garrulax pectoralis,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Garrulax poecilorhynchus,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Garrulax sannio,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Heterophasia melanoleuca,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Heterophasia pulchella,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Ianthocincla albogularis,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Leiothrix lutea,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Minla cyanouroptera,Hirundo daurica,76
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Trochalopteron formosum,Hirundo daurica,78
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Turdoides malcolmi,Hirundo daurica,70
+NEOGNATHAE,PASSERIFORMES,Leiothrichidae,Laughingthrushes & allies,Turdoides striata,Turdoides striatus striatus,70
+NEOGNATHAE,PASSERIFORMES,Locustellidae,Grassbirds and allies,Locustella fasciolata,Turdoides striatus striatus,80
+NEOGNATHAE,PASSERIFORMES,Locustellidae,Grassbirds and allies,Locustella fluviatilis,Turdoides striatus striatus,72
+NEOGNATHAE,PASSERIFORMES,Locustellidae,Grassbirds and allies,Locustella lanceolata,Turdoides striatus striatus,80
+NEOGNATHAE,PASSERIFORMES,Locustellidae,Grassbirds and allies,Locustella thoracia,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Mimidae,"Mockingbirds, Thrashers",Mimus saturninus,Bradypterus thoracicus,76
+NEOGNATHAE,PASSERIFORMES,Mimidae,"Mockingbirds, Thrashers",Toxostoma rufum,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Monarchidae,Monarchs,Grallina cyanoleuca,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Monarchidae,Monarchs,Terpsiphone paradisi,Bradypterus thoracicus,80
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Anthus hodgsoni,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Anthus novaeseelandiae,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Anthus rufulus,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Anthus spinoletta,Bradypterus thoracicus,86
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Anthus trivialis,Bradypterus thoracicus,82
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Motacilla alba,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Motacilla cinerea,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Motacilla flava,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Motacilla grandis,Bradypterus thoracicus,78
+NEOGNATHAE,PASSERIFORMES,Motacillidae,"Wagtails, Pipits",Motacilla maderaspatensis,Bradypterus thoracicus,80
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Calliope calliope,Erithacus calliope,84
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Calliope pectoralis,Erithacus calliope,84
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Copsychus fulicatus,Erithacus calliope,64
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Cyanoptila cumatilis,Erithacus calliope,80
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Cyanoptila cyanomelana,Erithacus calliope,84
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Enicurus leschenaulti,Erithacus calliope,78
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Ficedula mugimaki,Erithacus calliope,80
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Ficedula narcissina,Erithacus calliope,80
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Ficedula parva,Erithacus calliope,80
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Ficedula zanthopygia,Erithacus calliope,76
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Larvivora akahige,Erithacus calliope,78
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Larvivora cyane,Erithacus calliope,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Larvivora komadori,Erithacus calliope,78
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Larvivora sibilans,Erithacus calliope,80
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Luscinia megarhynchos,Erithacus calliope,84
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Luscinia svecica,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Luscinia svecica prevalskii,Erithacus svecicus,76
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Monticola cinclorhynchus,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Monticola saxatilis,Erithacus svecicus,86
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Monticola solitarius,Erithacus svecicus,86
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Muscicapa sibirica,Erithacus svecicus,78
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Muscicapa striata,Erithacus svecicus,80
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Myiomela leucura,Erithacus svecicus,78
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe chrysopygia,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe deserti,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe finschii,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe hispanica,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe isabellina,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe melanoleuca,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe oenanthe,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe picata,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe pleschanka,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Oenanthe xanthoprymna,Erithacus svecicus,82
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Phoenicurus auroreus,Erithacus svecicus,78
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Phoenicurus phoenicurus,Erithacus svecicus,76
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Saxicola insignis,Erithacus svecicus,80
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Saxicola torquatus,Erithacus svecicus,80
+NEOGNATHAE,PASSERIFORMES,Muscicapidae,"Chats, Old World Flycatchers",Tarsiger cyanurus,Erithacus svecicus,78
+NEOGNATHAE,PASSERIFORMES,Monarchidae,Monarchs,Terpsiphone paradisi,Erithacus svecicus,80
+NEOGNATHAE,PASSERIFORMES,Nectariniidae,Sunbirds,Cinnyris asiaticus,Erithacus svecicus,72
+NEOGNATHAE,PASSERIFORMES,Nectariniidae,Sunbirds,Leptocoma zeylonica,Nectarinia zeylonica,82
+NEOGNATHAE,PASSERIFORMES,Oriolidae,"Figbirds, Orioles & Turnagra",Chalcomitra amethystina,Nectarinia zeylonica,96-100
+NEOGNATHAE,PASSERIFORMES,Oriolidae,"Figbirds, Orioles & Turnagra",Oriolus chinensis,Nectarinia zeylonica,80
+NEOGNATHAE,PASSERIFORMES,Oriolidae,"Figbirds, Orioles & Turnagra",Oriolus kundoo,Nectarinia zeylonica,78
+NEOGNATHAE,PASSERIFORMES,Oriolidae,"Figbirds, Orioles & Turnagra",Oriolus oriolus,Nectarinia zeylonica,80
+NEOGNATHAE,PASSERIFORMES,Oriolidae,"Figbirds, Orioles & Turnagra",Oriolus xanthornus,Nectarinia zeylonica,80
+NEOGNATHAE,PASSERIFORMES,Paridae,"Tits, Chickadees",Pardaliparus venustulus,Nectarinia zeylonica,80
+NEOGNATHAE,PASSERIFORMES,Paridae,"Tits, Chickadees",Parus major,Nectarinia zeylonica,80
+NEOGNATHAE,PASSERIFORMES,Paridae,"Tits, Chickadees",Parus minor,Nectarinia zeylonica,80
+NEOGNATHAE,PASSERIFORMES,Paridae,"Tits, Chickadees",Periparus ater,Parus ater,80
+NEOGNATHAE,PASSERIFORMES,Paridae,"Tits, Chickadees",Poecile atricapillus,Parus atricapillus,80
+NEOGNATHAE,PASSERIFORMES,Paridae,"Tits, Chickadees",Poecile montanus,Parus atricapillus,80
+NEOGNATHAE,PASSERIFORMES,Paridae,"Tits, Chickadees",Poecile palustris,Parus palustris,80
+NEOGNATHAE,PASSERIFORMES,Paridae,"Tits, Chickadees",Sittiparus varius,Parus palustris,80
+NEOGNATHAE,PASSERIFORMES,Parulidae,New World Warblers,Cardellina rubrifrons,Parus palustris,78-80
+NEOGNATHAE,PASSERIFORMES,Parulidae,New World Warblers,Leiothlypis luciae,Vermivora luciae,78-80
+NEOGNATHAE,PASSERIFORMES,Parulidae,New World Warblers,Leiothlypis ruficapilla,Vermivora ruficapilla,80
+NEOGNATHAE,PASSERIFORMES,Parulidae,New World Warblers,Leiothlypis virginiae,Vermivora virginae,80
+NEOGNATHAE,PASSERIFORMES,Parulidae,New World Warblers,Myioborus pictus,Vermivora virginae,78-80
+NEOGNATHAE,PASSERIFORMES,Parulidae,New World Warblers,Myiothlypis leucoblephara,Basileuterus leucoblepharus,76
+NEOGNATHAE,PASSERIFORMES,Parulidae,New World Warblers,Setophaga coronata,Dendroica coronata,78
+NEOGNATHAE,PASSERIFORMES,Parulidae,New World Warblers,Setophaga graciae,Dendroica graciae,78-80
+NEOGNATHAE,PASSERIFORMES,Parulidae,New World Warblers,Setophaga petechia,Dendroica petechia,80
+NEOGNATHAE,PASSERIFORMES,Pipridae,Manakins,Pipra fasciicauda,Dendroica petechia,78
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Ammodramus aurifrons,Dendroica petechia,76
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Ammodramus humeralis,Dendroica petechia,80
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Amphispiza bilineata,Dendroica petechia,78
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Amphispiza quinquestriata,Dendroica petechia,76-80
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Artemisiospiza belli,Amphispiza belli,78-82
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Junco hyemalis,Amphispiza belli,82
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Junco insularis,Amphispiza belli,82
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Junco phaeonotus,Amphispiza belli,82
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Junco vulcani,Amphispiza belli,82
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Melozone aberti,Pipilo aberti,78-80
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Melozone fusca,Pipilo fuscus,78-80
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Passerculus sandwichensis,Pipilo fuscus,74
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Passerella iliaca,Pipilo fuscus,78
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Peucaea botterii,Aimophila botterii ,78-80
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Peucaea carpalis,Aimophila carpalis,78-80
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Peucaea cassinii,Aimophila cassinii,78-80
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Pipilo erythrophthalmus,Aimophila cassinii,84
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Zonotrichia albicollis,Aimophila cassinii,82
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Zonotrichia atricapilla,Aimophila cassinii,82
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Zonotrichia capensis,Aimophila cassinii,82
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Zonotrichia leucophrys,Aimophila cassinii,82
+NEOGNATHAE,PASSERIFORMES,Passerellidae,New World Sparrows,Zonotrichia querula,Aimophila cassinii,82
+NEOGNATHAE,PASSERIFORMES,Passeridae,"Old World Sparrows, Snowfinches",Gymnoris xanthocollis,Aimophila cassinii,72
+NEOGNATHAE,PASSERIFORMES,Passeridae,"Old World Sparrows, Snowfinches",Montifringilla davidiana,Aimophila cassinii,70
+NEOGNATHAE,PASSERIFORMES,Passeridae,"Old World Sparrows, Snowfinches",Montifringilla nivalis,Aimophila cassinii,80
+NEOGNATHAE,PASSERIFORMES,Passeridae,"Old World Sparrows, Snowfinches",Passer domesticus,Aimophila cassinii,76
+NEOGNATHAE,PASSERIFORMES,Passeridae,"Old World Sparrows, Snowfinches",Passer hispaniolensis,Aimophila cassinii,76
+NEOGNATHAE,PASSERIFORMES,Passeridae,"Old World Sparrows, Snowfinches",Passer montanus,Aimophila cassinii,78
+NEOGNATHAE,PASSERIFORMES,Passeridae,"Old World Sparrows, Snowfinches",Passer montanus malaccensis,Aimophila cassinii,74
+NEOGNATHAE,PASSERIFORMES,Passeridae,"Old World Sparrows, Snowfinches",Petronia petronia,Aimophila cassinii,82
+NEOGNATHAE,PASSERIFORMES,Passeridae,"Old World Sparrows, Snowfinches",Pyrgilauda davidiana,Aimophila cassinii,78
+NEOGNATHAE,PASSERIFORMES,Pellorneidae,"Fulvettas, Ground Babblers",Alcippe morrisonia,Aimophila cassinii,76
+NEOGNATHAE,PASSERIFORMES,Pellorneidae,"Fulvettas, Ground Babblers",Alcippe nipalensis,Aimophila cassinii,76
+NEOGNATHAE,PASSERIFORMES,Pellorneidae,"Fulvettas, Ground Babblers",Schoeniparus dubius,Alcippe dubia,76
+NEOGNATHAE,PASSERIFORMES,Peucedramidae,Olive Warbler,Peucedramus taeniatus,Alcippe dubia,80
+NEOGNATHAE,PASSERIFORMES,Phylloscopidae,Leaf Warblers and allies,Phylloscopus affinis,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Phylloscopidae,Leaf Warblers and allies,Phylloscopus borealis,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Phylloscopidae,Leaf Warblers and allies,Phylloscopus fuscatus,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Phylloscopidae,Leaf Warblers and allies,Phylloscopus inornatus,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Phylloscopidae,Leaf Warblers and allies,Phylloscopus proregulus,Alcippe dubia,80
+NEOGNATHAE,PASSERIFORMES,Phylloscopidae,Leaf Warblers and allies,Phylloscopus pulcher,Alcippe dubia,76
+NEOGNATHAE,PASSERIFORMES,Phylloscopidae,Leaf Warblers and allies,Phylloscopus schwarzi,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Phylloscopidae,Leaf Warblers and allies,Phylloscopus tenellipes,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Phylloscopidae,Leaf Warblers and allies,Phylloscopus trochiloides,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Picathartidae,Rockfowl,Picathartes gymnocephalus,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Ploceidae,"Weavers, Widowbirds",Foudia madagascariensis,Alcippe dubia,72
+NEOGNATHAE,PASSERIFORMES,Ploceidae,"Weavers, Widowbirds",Plocepasser mahali,Alcippe dubia,74-78
+NEOGNATHAE,PASSERIFORMES,Ploceidae,"Weavers, Widowbirds",Ploceus intermedius,Alcippe dubia,74-78
+NEOGNATHAE,PASSERIFORMES,Ploceidae,"Weavers, Widowbirds",Ploceus philippinus,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Ploceidae,"Weavers, Widowbirds",Ploceus velatus,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Prunellidae,Accentors,Prunella montanella,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Prunellidae,Accentors,Prunella rubida,Alcippe dubia,84
+NEOGNATHAE,PASSERIFORMES,Pycnonotidae,Bulbuls,Ixos mcclellandi,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Pycnonotidae,Bulbuls,Pycnonotus cafer,Alcippe dubia,80
+NEOGNATHAE,PASSERIFORMES,Pycnonotidae,Bulbuls,Pycnonotus jocosus,Alcippe dubia,82
+NEOGNATHAE,PASSERIFORMES,Pycnonotidae,Bulbuls,Pycnonotus leucogenys,Alcippe dubia,82
+NEOGNATHAE,PASSERIFORMES,Pycnonotidae,Bulbuls,Pycnonotus sinensis,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Pycnonotidae,Bulbuls,Pycnonotus xanthorrhous,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Pycnonotidae,Bulbuls,Spizixos canifrons,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Pycnonotidae,Bulbuls,Spizixos semitorques,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Regulidae,"Goldcrests, Kinglets",Regulus regulus,Alcippe dubia,78
+NEOGNATHAE,PASSERIFORMES,Remizidae,Penduline Tits,Remiz pendulinus,Alcippe dubia,76
+NEOGNATHAE,PASSERIFORMES,Sittidae,Nuthatches,Sitta europaea,Alcippe dubia,80
+NEOGNATHAE,PASSERIFORMES,Sittidae,Nuthatches,Sitta frontalis,Alcippe dubia,76
+NEOGNATHAE,PASSERIFORMES,Sittidae,Nuthatches,Sitta neumayer,Alcippe dubia,94
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Acridotheres fuscus,Alcippe dubia,80
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Acridotheres ginginianus,Alcippe dubia,76
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Acridotheres tristis,Alcippe dubia,80
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Agropsar sturninus,Sturnus sturninus,80
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Gracupica contra,Sturnus contra,82
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Spodiopsar cineraceus,Sturnus cineraceus,80
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Sturnia malabarica,Sturnus cineraceus,80
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Sturnia pagodarum,Sturnus pagodrum,80-82
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Sturnus vulgaris,Sturnus pagodrum,80
+NEOGNATHAE,PASSERIFORMES,Sturnidae,"Starlings, Rhabdornis",Temenuchus pagodarum,Sturnus pagodrum,80-82
+NEOGNATHAE,PASSERIFORMES,Sylviidae,Sylviid Babblers,Chrysomma sinense,Sturnus pagodrum,76
+NEOGNATHAE,PASSERIFORMES,Sylviidae,Sylviid Babblers,Fulvetta ruficapilla,Alcippe ruficapilla,76
+NEOGNATHAE,PASSERIFORMES,Sylviidae,Sylviid Babblers,Paradoxornis flavirostris,Alcippe ruficapilla,76
+NEOGNATHAE,PASSERIFORMES,Sylviidae,Sylviid Babblers,Sinosuthora webbiana,Paradoxornis webbiana,76
+NEOGNATHAE,PASSERIFORMES,Sylviidae,Sylviid Babblers,Sylvia atricapilla,Paradoxornis webbiana,74
+NEOGNATHAE,PASSERIFORMES,Sylviidae,Sylviid Babblers,Sylvia communis,Paradoxornis webbiana,84
+NEOGNATHAE,PASSERIFORMES,Tephrodornithidae,Woodshrikes and allies,Tephrodornis pondicerianus,Paradoxornis webbiana,62
+NEOGNATHAE,PASSERIFORMES,Thamnophilidae,Antbirds,Dysithamnus mentalis,Paradoxornis webbiana,76
+NEOGNATHAE,PASSERIFORMES,Thamnophilidae,Antbirds,Isleria hauxwelli,Myrmotherula bauxwelli,80
+NEOGNATHAE,PASSERIFORMES,Thamnophilidae,Antbirds,Pyriglena leucoptera,Myrmotherula bauxwelli,82
+NEOGNATHAE,PASSERIFORMES,Thamnophilidae,Antbirds,Thamnophilus doliatus,Myrmotherula bauxwelli,82
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Cactospiza pallida,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Camarhynchus parvulus,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Camarhynchus pauper,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Camarhynchus psittacula,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Certhidea olivacea,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Charitospiza eucosma,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Coereba flaveola,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Coryphospingus cucullatus,Myrmotherula bauxwelli,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Coryphospingus pileatus,Myrmotherula bauxwelli,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Dacnis cayana,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Emberizoides herbicola,Myrmotherula bauxwelli,82
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Geospiza conirostris,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Geospiza difficlis,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Geospiza fortis,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Geospiza fuliginosa,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Geospiza magnirostris,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Geospiza scandens,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Haplospiza unicolor,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Neothraupis fasciata,Myrmotherula bauxwelli,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Oryzoborus maximiliani,Myrmotherula bauxwelli,72
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Paroaria coronata,Myrmotherula bauxwelli,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Pipraeidea bonariensis,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Platyspiza crassirostris,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Porphyrospiza caerulescens,Thraupis bonariensis,82
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Ramphocelus carbo,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Saltator aurantiirostris,Thraupis bonariensis,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Saltator coerulescens,Thraupis bonariensis,88
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Saltator maximus,Thraupis bonariensis,82
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Saltator similis,Thraupis bonariensis,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Schistochlamys melanopis,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Schistochlamys ruficapillus,Thraupis bonariensis,84
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Sicalis flaveola,Thraupis bonariensis,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Sporophila americana,Thraupis bonariensis,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Sporophila caerulescens,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Sporophila leucoptera,Thraupis bonariensis,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Sporophila lineola,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Sporophila nigricollis,Thraupis bonariensis,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Stephanophorus diadematus,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Tachyphonus rufus,Thraupis bonariensis,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Tangara cayana,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Tangara preciosa,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Thraupis palmarum,Thraupis bonariensis,80
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Thraupis sayaca,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Tiaris canora,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Thraupidae,Tanagers and allies,Volatinia jacarina,Thraupis bonariensis,78
+NEOGNATHAE,PASSERIFORMES,Timaliidae,"Babblers, Scimitar Babblers",Cyanoderma ruficeps,Stuchvris ruficeps,74
+NEOGNATHAE,PASSERIFORMES,Timaliidae,"Babblers, Scimitar Babblers",Pomatorhinus erythrogenys,Stuchvris ruficeps,74
+NEOGNATHAE,PASSERIFORMES,Timaliidae,"Babblers, Scimitar Babblers",Pomatorhinus ruficollis,Stuchvris ruficeps,76
+NEOGNATHAE,PASSERIFORMES,Tityridae,"Tityras, Becards, Sharpbill",Pachyramphus castaneus,Stuchvris ruficeps,76
+NEOGNATHAE,PASSERIFORMES,Troglodytidae,Wrens,Campylorhynchus brunneicapillus,Stuchvris ruficeps,74
+NEOGNATHAE,PASSERIFORMES,Troglodytidae,Wrens,Cantorchilus leucotis,Stuchvris ruficeps,78
+NEOGNATHAE,PASSERIFORMES,Troglodytidae,Wrens,Catherpes mexicanus,Stuchvris ruficeps,80
+NEOGNATHAE,PASSERIFORMES,Troglodytidae,Wrens,Cistothorus palustris,Stuchvris ruficeps,76
+NEOGNATHAE,PASSERIFORMES,Troglodytidae,Wrens,Cistothorus platensis,Stuchvris ruficeps,76
+NEOGNATHAE,PASSERIFORMES,Troglodytidae,Wrens,Salpinctes obsoletus,Stuchvris ruficeps,80
+NEOGNATHAE,PASSERIFORMES,Troglodytidae,Wrens,Thryomanes bewickii,Stuchvris ruficeps,76
+NEOGNATHAE,PASSERIFORMES,Troglodytidae,Wrens,Thryothorus ludovicianus,Stuchvris ruficeps,76
+NEOGNATHAE,PASSERIFORMES,Troglodytidae,Wrens,Troglodytes aedon,Stuchvris ruficeps,68
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Geokichla sibirica,Zoothera sibirica,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Troglodytes troglodytes,Zoothera sibirica,86
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus albicollis,Zoothera sibirica,78
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus amaurochalinus,Zoothera sibirica,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus cardis,Zoothera sibirica,84
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus celaenops,Zoothera sibirica,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus chrysolaus,Zoothera sibirica,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus eunomus,Zoothera sibirica,78
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus hortulorum,Zoothera sibirica,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus iliacus,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus leucomelas,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus merula,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus migratorius,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus naumanni,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus obscurus,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus pallidus,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus philomelos,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus pilaris,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus ruficollis,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Turdus rufiventris,Turdus musicus,78
+NEOGNATHAE,PASSERIFORMES,Turdidae,Thrushes,Zoothera dauma,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Cnemotriccus fuscatus,Turdus musicus,84
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Elaenia parvirostris,Turdus musicus,78
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Elaenia spectabilis,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Empidonax alnorum,Turdus musicus,82
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Empidonax flaviventris,Turdus musicus,82
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Empidonax hammondii,Turdus musicus,82
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Empidonax minimus,Turdus musicus,82
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Empidonax traillii,Turdus musicus,82
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Knipolegus cyanirostris,Turdus musicus,78
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Legatus leucophaius,Turdus musicus,82
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Megarynchus pitangua,Turdus musicus,82
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Myiarchus ferox,Turdus musicus,76
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Myiodynastes maculatus,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Myiozetetes similis,Turdus musicus,78
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Pitangus sulphuratus,Turdus musicus,78
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Platyrinchus mystaceus,Turdus musicus,60
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Satrapa icterophrys,Turdus musicus,82
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Serpophaga subcristata,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Tyrannus melancholicus,Turdus musicus,78
+NEOGNATHAE,PASSERIFORMES,Tyrannidae,"Tyrant Flycatchers, Calyptura",Tyrannus savana,Turdus musicus,78
+NEOGNATHAE,PASSERIFORMES,Vireonidae,"Vireos, Greenlets & Shrike-babblers",Vireo flavifrons,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Vireonidae,"Vireos, Greenlets & Shrike-babblers",Vireo gilvus,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Vireonidae,"Vireos, Greenlets & Shrike-babblers",Vireo olivaceus,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Vireonidae,"Vireos, Greenlets & Shrike-babblers",Vireo solitarius,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Vireonidae,"Vireos, Greenlets & Shrike-babblers",Xolmis cinereus,Turdus musicus,80
+NEOGNATHAE,PASSERIFORMES,Zosteropidae,White-eyes,Yuhina diademata,Turdus musicus,76
+NEOGNATHAE,PASSERIFORMES,Zosteropidae,White-eyes,Zosterops erythropleurus,Zosterops erythropleura,78
+NEOGNATHAE,PASSERIFORMES,Zosteropidae,White-eyes,Zosterops japonicus,Zosterops erythropleura,78
+NEOGNATHAE,PASSERIFORMES,Zosteropidae,White-eyes,Zosterops lateralis,Zosterops erythropleura,78
+NEOGNATHAE,PASSERIFORMES,Zosteropidae,White-eyes,Zosterops palpebrosus,Zosterops erythropleura,78

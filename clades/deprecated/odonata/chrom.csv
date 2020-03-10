@@ -1,0 +1,421 @@
+Kingdom,Higher.taxonomic.group,Order,Family,Genus,species,Sexual.System,Karyotype,notes..Karyotype,Genotypic,Haplodiploidy,notes..Haplodiploidy,Predicted.ploidy,Chromosome.number..female..2N,notes..Chromosome.number..female..2N,Chromosome.number..male..2N,notes..Chromosome.number..male..2N,notes..comments,entry.name,cite.key
+Animal,Arthropoda,Odonata,Aeshnidae,Acanthaeschna,anacantha,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Acanthaeschna,multipunctata,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,canadensis ,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,umbrosa occidentalis,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,umbrosa umbrosa,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,walkeri,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,mixta ,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,cf. unicolor,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,clepsydra,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,crenata,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,cyanea,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,diffinis diffinis,gonochorous,XO,,male heterogametic,,,,22,,21,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,intricata,gonochorous,XO,,male heterogametic,,,,20,,19,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,juncea,gonochorous,XO|XY,,male heterogametic,,,,27,"28,26",27,"27,26",micro chromosomes present - XY = neo XY,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,palmate,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,peralta,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,serrata fennica,gonochorous,XY,,male heterogametic,,,,26,,26,,micro chromosomes present - neo XY,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,subartica elisabethae,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,verticalis,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,virdis,gonochorous,XY,,male heterogametic,,,,26,,26,,micro chromosomes present - neo XY,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,bonariensis ,gonochorous,XY,large neo XY,male heterogametic,,,,26,,26,,,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,coerulea,gonochorous,XY,NeoXY,male heterogametic,,,,24,,24,,neo XY,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,confusa ,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,cornigera planaltica ,gonochorous,XY,small neo XY,male heterogametic,,,,16,,16,,,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,grandis ,gonochorous,XY,neo XY - large neo-XY micro chromosomes present,male heterogametic,,,,26,,26,,,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,juncea,gonochorous,XY,neo XY - heteropynosis of neo-Y,male heterogametic,,,,26,,26,,,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,squamata,gonochorous,XY,NeoXY,male heterogametic,,,,24,,24,,neo XY,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Aeshnidae,Aeshna,grandis ,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,nokkala2002mitotic
+Animal,Arthropoda,Odonata,Aeshnidae,Anax,imperator,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Aeshnidae,Anax,junius,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Aeshnidae,Anax,longipes,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Aeshnidae,Anax,parthenope,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Basiashna,janata,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Aeshnidae,Boyeria,vionsa,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Aeshnidae,Boyeria,maclachlani,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Castoraeschna,castor,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Coryphaeschna,adnexa,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Gynacantha,japonica,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Hemianax,ephippiger,gonochorous,XO,,male heterogametic,,,,14,,13,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Hemianax ,papuensis ,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Aeshnidae,Oplonaeshna,armata,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Aeshnidae,Planaeschna ,milnei ,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Agrionidae,Agrion,aequabile,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Agrionidae,Agrion,maculatum,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Agrionidae,Hetaerina ,americana,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Calopterygidae,Anaciagrion,cornelia,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Calopteryx,aequabile,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Calopteryx,atrata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Calopteryx,maculata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Calopteryx,splendens caprai,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Calopteryx,splendens splendens,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Calopteryx,virgo japonica,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Calopteryx,virgo meridionalis,gonochorous,XO,,male heterogametic,,,,27,"26,28",26,"25,27",micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Calopteryx,virgo padana,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Calopteryx,virgo virgo,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Matrona,basalaris,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Mnais,costalis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Calopterygidae,Mnais,strigata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Acanthagrion,ascendens,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Acanthagrion,chacoense,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Aeolagrion,foliaceum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Agrion,funebris,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Agrion,sedula,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Agrion,violacea,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Agrion,vivida,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Amphiagrion,abbreviatum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Argia,violacea ,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Argia,vivida ,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Ceratura,capreola,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Cercion,lindeni,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Ceriagrion,coromandeliamum,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Ceriagrion,cerinorubellum,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Ceriagrion,fallax,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Ceriagrion,rubiae,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Ceriagrion,tenellum tenellum,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Chromagrion,conditum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Coenagrion,resolutum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Coenagrion,armatum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Coenagrion,hastulatum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Coenagrion,hieroglyphicum,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Coenagrion,pulchellum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Coenagrion,sp.,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Diceratobasis,macrogaster,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Enallagma,aspersum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Enallagma,boreale,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Enallagma,carunculatum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Enallagma,civile,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Enallagma,cyathigerum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Enallagma,cyathigerum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Enallagma,ebrium,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Enallagma,praevarum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Erythromma,najas,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Ischnura,cervula,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Ischnura,denticollis,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Ischnura,perparva,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Ischnura,verticalis,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Ischnura,cf. ultima,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Ischnura,elegans,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Ischnura,fluviatilis,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Ischnura,senegalensis,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Leptagrion,macrurum,gonochorous,XY,NeoXY,male heterogametic,,,,30,,30,,neo XY,Bachtrog/Blackmon,kiauta1972leptagrion
+Animal,Arthropoda,Odonata,Coenagrionidae,Magalagrion,oahuense,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Mortonagrion,selenion,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Nehalennia,irene,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Coenagrionidae,Nehalennia,speciosa,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Pseudagrion,australasiae,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Pseudagrion,decorum,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Pseudagrion,microcephalum,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Pseudagrion,rubriceps,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Pseudagrion,spencei,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Pyrrhosoma,nymphula,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Tigriagrion,aurantinigrum,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Coenagrionidae,Zoniagrion,exclamationis,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulegasteridae,Antogaster,sieboldii,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Cordulegasteridae,Cordulegaster,diastatops ,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulegasteridae,Cordulegaster,dorsalis ,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulegasteridae,Cordulegaster,maculatus,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulegasteridae,Cordulegaster,boltoni,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Cordulegasteridae,Cordulegaster,deserticola,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Cordulegasteridae,Cordulegaster,diastatops,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Cordulidae,Cordulia,shurtleffi ,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulidae,Didymops,transversa,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulidae,Dorocordulia,libera,gonochorous,XO,,male heterogametic,,,,14,,13,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulidae,Ephitheca,canis,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulidae,Ephitheca,cynosura,gonochorous,XO,,male heterogametic,,,,22,,21,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulidae,Ephitheca,semiaquea,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulidae,Ephitheca,spinigera,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulidae,Macromia,magnifica,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulidae,Somatochlora,semicircularis,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Cordulidae,Somatochlora ,metallica ,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,nokkala2002mitotic
+Animal,Arthropoda,Odonata,Corduliidae,Cordulia,aenea,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Epicodulia,princeps,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Epitheca,canis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Epitheca,cynosura,gonochorous,XO,,male heterogametic,,,,21,"20,22",20,"19,21",,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Epitheca,semiaqua,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Epitheca,spinigera,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Epopthalmia,frontalis frontalis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Somatochlora,flavomaculata,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Somatochlora,metallica,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Somatochlora,uchidai,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Somatochlora,viridiaenea,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Tetragoneuria,petechialis,gonochorous,XO,,male heterogametic,,,,22,,21,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Corduliidae,Tetragoneuria,spinigera,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Epallagidae,Epallage,fatime,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1970karyotype
+Animal,Arthropoda,Odonata,Epiophlebiidae,Epiophlebia,superstes,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Gomphidae,Anisogomphus,bivittatus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Aphylla,edentata,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Aphylla,producta,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Dromogomphus,spinosus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Dromogomphus,spoliatus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Epigomphus,llama,gonochorous,XO,,male heterogametic,,,,20,,19,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Erpetogomphus,ophibolus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Gomphidae,Gomphoides,sp.,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus,confraternus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus,exilis,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus,lentulus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus,lividus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus,militaris,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus,plagiatus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus,scudderi,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus,spicatus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus,submedianus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Gomphus ,graslini ,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Ictinogomphus,rapax,gonochorous,XO,large X micro chromosomes present,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Octogomphus,specularis,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Onychogomphus,forcipatus,gonochorous,XO|XY,XY = neo XY,male heterogametic,,,,NA,,NA,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Gomphidae,Onychogomphus ,forcipatus ,gonochorous,XO,,male heterogametic,,,,24,,24,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Ophiogomphus,bison,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Ophiogomphus,colubrinus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Ophiogomphus,rupinsulensis,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Ophiogomphus,bison,gonochorous,XO,,male heterogametic,,,,25,"24,26",24,"23,25",,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Gomphidae,Ophiogomphus,serpentinus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Gomphidae,Phyllocycla,sp.,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Progomphus,borealis,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Progomphus,obscurus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Gomphidae,Progomphus,borealis,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Progomphus,intricatus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Progomphus,obscurus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Progomphus,phyllochromus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Sieboldius,albardae,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Trigolnphus,melampus bifasciatus,gonochorous,XO,,male heterogametic,,,,20,,19,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Trigomphus,melampus,gonochorous,XO,large X,male heterogametic,,,,20,,19,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Gomphidae,Trigomphus,citimus tabei,gonochorous,XO,,male heterogametic,,,,22,,21,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Gomphidae,Trigomphus,interruptus,gonochorous,XO,,male heterogametic,,,,20,,19,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Gomphidae,Trigomphus,unifasciatus,gonochorous,XO,,male heterogametic,,,,22,,21,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Davidius,nanus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Dromogomphus,spinosus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Dromogomphus,spoliatus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Erpetogomphus,designatus,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Erpetogomphus,diadophis,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,confraternus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,exilis,gonochorous,XY,NeoXY,male heterogametic,,,,24,,23,,neo XY,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,graslini,gonochorous,XO,large X micro chromosomes present,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,lentulus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,lividus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,melaenops,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,militaris,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,pallidus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,plagiatus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,postocularis,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,scudderi,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,spicatus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Gomphus,submedianus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Nihonogomphus,viridis,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Octogomphus,specularis,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Onychogomphus,forcipatus,gonochorous,XY,"neo XY - large neoX, small neoY",male heterogametic,,,,24,,25,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Ophiogolnphus,serpentinus,gonochorous,XO,large X,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Ophiogomphus,colubrinus,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Ophiogomphus,occidentalis,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Ophiogomphus,rupinsulensis,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Ophiogonlphus,bison,gonochorous,XY,NeoXY,male heterogametic,,,,24,,25,,neo XY,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Stylogomphus,suzukii,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,GOMPHIDAE ,Trigomphus,citimus tabei,gonochorous,XO,large X micro chromosomes present,male heterogametic,,,,22,,21,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Hetaerinidae,Hetaerina,americana,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Hetaerinidae,Hetaerina,charca,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Hetaerinidae,Hetaerina,rosea,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Hetaerinidae,Hetaerina,sanguinea,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Hetaerinidae,Hetaerina,titia,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Hetaerinidae,Hetaerina,tricolor,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Hetaerinidae,Hetaerina,vulnerata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Lestidae,Chalcolestes,viridis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Lestidae,Lestes,congener,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Lestidae,Lestes,disjunctus,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Lestidae,Lestes,dryas,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Lestidae,Lestes,forcipatus,gonochorous,XO,,male heterogametic,,,,22,,21,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Lestidae,Lestes,rectangularis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Lestidae,Lestes,stultus,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Lestidae,Lestes,forficula,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Lestidae,Lestes,simulatrix,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Lestidae,Lestes,sponsa,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Lestidae,Lestes,vidua,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Lestidae,Lestes,virens vestallis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Lestidae,Lestes ,virens ,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Lestidae,Lestes ,viridis ,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1969sex
+Animal,Arthropoda,Odonata,Lestidae,Sympecma,fusca,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Acisoma,panorpoides panorpoides,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Brachydiplax,chalybea,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Brachydiplax,farinosa,gonochorous,XY,,male heterogametic,,,,26,,26,,micro chromosomes present - neo XY,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Brachydiplax,sobrina,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Brachythemis,contaminata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Bradinopyga,geminata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Brechmorhoga,mendax,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Brechmorrhoga,nubecula,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Brechmorrhoga,pertinax peruviana,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Canaphila,vibex,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Cannacria,gravida ,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Cannacria,elisa,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Cannacria,fasciata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Cannacria,herbida,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Celithemis,elisa,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Celithemis,fasciata,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Crocothemis,erythraea,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Crocothemis,servilia,gonochorous,XO|XY,,male heterogametic,,,,25,"24,26",25,"23,26",micro chromosomes present - XY = neo XY,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Dasythemis,esmeralda,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Dasythemis,venosa,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Diastatops,intensa,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Diastatops,obscura,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Diplacodes,bipunctata,gonochorous,XO,,male heterogametic,,,,28,"26,30",27,"25,29",micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Diplacodes,haematodes,gonochorous,XO,,male heterogametic,,,,25,"24,26",24,"23,25",micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Diplacodes,leferbvrei,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Diplacodes,nebulosa,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Diplacodes,trivialis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Dythemis,fugax,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Dythemis,cannacroides,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Dythemis,rufinervis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Dythemis,velox,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythemis,collocata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Erythemis,simplicicollis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Erythemis,attala,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythemis,plebeja,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,berenice,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,connata fusca,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,umbrata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,basalis basalis,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,castanea,gonochorous,XO,,male heterogametic,,,,25,"24,26",24,"23,25",variation in chromosome number prob. printing error,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,connata connata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,fervida,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,justiniana,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,media,gonochorous,XO,,male heterogametic,,,,22,,21,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,melanorubra,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,paraguayensis,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Erythrodiplax,unimaculata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Ladona,julia,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Lathrecista,asiatica,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Lepthemis,vesiculosa,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,frigida,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,glacialis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,hudsonica,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,intacta,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,proxima,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,albifrons,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,dubia,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,frigida,gonochorous,XO,,male heterogametic,,,,23,"22,24",22,"21,23",micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,pectoralis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Leucorrhinia,rubicunda,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,composita,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,croceipennis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,cyanea,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,flavida,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,florensis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,incesta,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,pulchella,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,quadrimaculata,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,saturata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,semifasciata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,vibrans,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,angelina,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,axilena,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,depressa,gonochorous,XO,,male heterogametic,,,,25,"24,26",24,"23,25",micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,luctuosa,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Libellula,quadrimaculata quadrimaculata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Lyriothemis,pachygastra,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Macrothemis,declivata,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Macrothemis,imitans imitans,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Macrothemis ,hemichlora,gonochorous,XY,NeoXY,male heterogametic,,,,6,,6,,neo XY,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Libellulidae,Macrothemis ,mortoni,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Libellulidae,Macrothemis ,musiva,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,mola1994karyotype
+Animal,Arthropoda,Odonata,Libellulidae,Miathyria,marcella,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Micrathyria,atra,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Micrathyria,cf. eximia,gonochorous,XO,,male heterogametic,,,,22,,21,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Micrathyria,didyma,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Micrathyria,hageni,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Micrathyria,iheringi,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Micrathyria,laevigata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Micrathyria,ocellata dentiens,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Micrathyria,sp.,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Micrathyria,spuria,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Nannothemis,bella,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Nesciothemis,farinosum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Nesogonia,blackburni,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Neurothemis,tullia tullia,gonochorous,XY,,male heterogametic,,,,28,,28,,micro chromosomes present - neo XY,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthemis,ferruginea,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Orthemis,biolleyi,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthemis,cultiformis,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthemis,ferruginea,gonochorous,XY,,male heterogametic,,,,10,,10,,micro chromosomes present - Bolivia - neo XY,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthemis,ferruginea,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,albistylum albistylum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,albistylum speciosum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,azureum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,brachiale,gonochorous,XO,,male heterogametic,,,,22,,21,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,brunneum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,cancellatum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,coerulescens,gonochorous,XO,,male heterogametic,,,,26,"24,26,28",25,"23,25,27",micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,glaucum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,japonicum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,pruinosum neglectum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,sabina,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,taeniolatum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,triangulare melania,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Orthetrum,triangulare triangulare,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Pachydiplax,longipennis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Pantala,hymenea,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Pantala,flavescens,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Perithemis,cornelia,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Perithemis,domitia,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Perithemis,electra,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Perithemis,lais,gonochorous,XO,,male heterogametic,,,,18,,17,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Perithemis,mooma,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Perithemis,seminole,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Perithemis,sp.,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Planiplax,sanguineventris,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Plathemis,lydia,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Potamarcha,obscura,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Pseudothemis,zonata,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Rhodopygia,cardinalis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Rhyothemis,variegata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Scapanea,frontalis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,costiferum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,danae,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,madidum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,obtrusum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,robicundulum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,semicinctum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,vicinum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,eroticum eroticum,gonochorous,XO,,male heterogametic,,,,22,,21,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,flaveolum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,frequens frequens,gonochorous,XO,,male heterogametic,,,,24,,23,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,meridionale,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,parvulum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,pedemontanum elatum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,sanguineum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,striolatum,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Sympetrum,vulgatum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Tarnetrum,corruptum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Tarnetrum,illotum,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Tauriphila,azteca,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Tauriphila,australis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Tramea,basilaris,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Tramea,carolina,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Tramea,lacerata,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Tramea,abdominalis,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Tramea,burmeisteri,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Tramea,cophysa,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Tramea,limbata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Tramea,virginia,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Trithemis,aurora,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Trithemis,pallidinervis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Libellulidae,Urothemis,signata signata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Libellulidae,Zenithoptera,viola,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Macrodiplactidae,Aethriamanta,brevipennis,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Megapodagrionidae,Heteragrion,flavidorsum,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Megapodagrionidae,Heteragrion,inca,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Megapodagrionidae,Megapodagrion,contortum,gonochorous,XO,,male heterogametic,,,,27,"26,28",26,"25,27",micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Megapodagrionidae,Megapodagrion,macropus,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Megapodagrionidae,Megapodagrion,setigerum,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Megapodagrionidae,Philogenia,carrilica,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Petaluridae,Tachopteryx,thoreyi,gonochorous,XO,,male heterogametic,,,,20,,19,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Petaluridae,Tanypteryx,hageni,gonochorous,XO,,male heterogametic,,,,18,,17,,micro chromosomes present,Bachtrog/Blackmon,cruden1968chromosome
+Animal,Arthropoda,Odonata,Petaluridae,Tanypteryx,pryeri,gonochorous,XO,,male heterogametic,,,,18,,17,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Petaluridae,Uropetala,carovei,gonochorous,XO,,male heterogametic,,,,18,,17,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Platycnemididae,Copera,annulata,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Platycnemididae,Platycnemis,pennipes,gonochorous,XO,,male heterogametic,,,,26,,25,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Platystictidae,Palaemnema,paulina,gonochorous,XO,,male heterogametic,,,,26,,25,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Polythoridae,Cora,irene,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Polythoridae,Polythore,boliviana,gonochorous,XO,,male heterogametic,,,,24,,23,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Protoneuridae,Epipleoneura,sp.,gonochorous,XO,,male heterogametic,,,,28,,27,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Protoneuridae,Neoneura,rubiventris,gonochorous,XO,,male heterogametic,,,,28,,27,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Pseudolestidae,Hypolestes,clara,gonochorous,XO,,male heterogametic,,,,18,,17,,,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Pseudostigmatidae,Mecistogaster,sp. 1,gonochorous,XO,,male heterogametic,,,,30,,29,,micro chromosomes present,Bachtrog/Blackmon,kiauta1972synopsis
+Animal,Arthropoda,Odonata,Pseudostigmatidae,Mecistogaster,sp. 2,gonochorous,XY,NeoXY,male heterogametic,,,,12,,12,,neo XY,Bachtrog/Blackmon,kiauta1972synopsis
