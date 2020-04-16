@@ -1,12 +1,14 @@
 library(phytools)
+library(evobiR)
+
+
 library(chromePlus)
 library(geiger)
 library(diversitree)
 library(viridis)
 
 # helper functions
-source("pfsa.qmat.builder.R")
-source("pfsa.equation.R")
+source("functions.R")
 
 # make a random tree
 #set.seed(1)
@@ -24,46 +26,18 @@ tree$edge.length <- tree$edge.length / max(branching.times(tree))
 # col 2 - chromosome number (haploid)
 # col 3 - sex chromosome system state 0 - XO, 1 - XY
 # col 4 - position of the q matrix
-dat <- matrix(data = NA,
+dat <- as.data.frame(matrix(data = NA,
               nrow = length(tree$tip.label),
-              ncol = 4)
+              ncol = 3))
 
 # lable columns
-colnames(dat) <- c("species", "chroms", "scs", "qmatState")
-
-# convert to data frame for easy operations
-dat <- as.data.frame(dat)
+colnames(dat) <- c("species", "chroms", "scs")
 
 # fill the data frame
 dat$species <- tree$tip.label
 dat$chroms <- c(10,9,11)
-dat$scs <- c(1,1,0)
+dat$scs <- c("XY","XO","XY")
 
-# number of chromosomes
-maxChromValue <- 11 
-nChroms <- (maxChromValue - 1) * 2
-
-# get the max chrom number at XO state
-nChromsXO <- length(dat$chroms[dat$scs==1]) 
-
-# fill in the states of the qmat
-# XO
-dat$qmatState[dat$scs==0] <- dat$chroms[dat$scs==0] - 1
-
-#XY
-dat$qmatState[dat$scs==1] <- dat$chroms[dat$scs==1] - 1 + (nChroms/2)
-
-# get the range of chromosome number at each sex chromosome state
-rngXO <- range(dat$qmatState[dat$scs == 0])
-rngXY <- range(dat$qmatState[dat$scs == 1])
-
-# define the miargin
-# this is basically by how much you change the min and max chromosome number
-margin <- 1
-
-# get the full range of chromosome numbers icluding all sex chromosome systems 
-rng <- c(c((rngXO[1] - margin):(rngXO[2] + margin)),
-         c((rngXY[1] - margin):(rngXY[2] + margin)))
 
 # get the probability matrix
 probMat <- matrix(data = 0,
@@ -96,17 +70,17 @@ qmat <- qmatGen(maxChromValue)
 # make a table that gives the qmat state respective diploid count and
 # the respective sex chromosome system
 qmatStates <- matrix(data = NA,
-                     nrow = nChroms, 
+                     nrow = nChroms,
                      ncol = 3)
 # fill in qmat states
 qmatStates[,1] <- colnames(qmat)
 
 # fill in chromosome numners
 qmatStates[(1:(nChroms/2)) ,2] <- (1:(nChroms/2)) + 1
-qmatStates[((nChroms/2) + 1):(nChroms) ,2] <- (1:(nChroms/2)) + 1 
+qmatStates[((nChroms/2) + 1):(nChroms) ,2] <- (1:(nChroms/2)) + 1
 
 # fill in sex chromosome systems
-qmatStates[(1:(nChroms/2)) ,3] <- "XO" 
+qmatStates[(1:(nChroms/2)) ,3] <- "XO"
 qmatStates[((nChroms/2) + 1):(nChroms) ,3] <- "XY"
 
 
@@ -168,7 +142,7 @@ for(i in 1:length(sa.hit)){
   if(length(which(colnames(simmapSummary$count) == paste(unlist(sa.hit[[i]])[1],",", unlist(sa.hit[[i]])[2], sep = ""))) != 0){
     sa.col.hit[i] <- which(colnames(simmapSummary$count) == paste(unlist(sa.hit[[i]])[1],",", unlist(sa.hit[[i]])[2], sep = ""))
   }
-} 
+}
 
 #get the columns that represent autosome autosome fusions
 aa.col.hit <- vector(mode = "numeric", length = length(aa.hit))
@@ -179,7 +153,7 @@ for(i in 1:length(aa.hit)){
   }
 }
 
-# if zeros are present remove them 
+# if zeros are present remove them
 sa.col.hit <- sa.col.hit[sa.col.hit != 0]
 aa.col.hit <- aa.col.hit[aa.col.hit != 0]
 
@@ -204,30 +178,30 @@ pfsaExpected <- matrix(data = NA,
 pfsaExpected[,1] <- 1:100
 
 for(j in 1:100){
-  
+
   totalColumn <- which(colnames(simmapSummary$times) == "total")
-  
+
   # get the weighted pfsa for each tree
   weightedPfsa <- matrix(data = NA,
                          nrow = ncol(simmapSummary$times) - 1,
-                         ncol = 5) 
-  
+                         ncol = 5)
+
   colnames(weightedPfsa) <- c("qmatState",
                               "DiploidCount",
                               "SCS",
                               "timeSpendinTree",
                               "weightedPfsa")
-  
+
   weightedPfsa[,1] <- colnames(simmapSummary$times)[1:(ncol(simmapSummary$times) - 1)]
   weightedPfsa[,2] <- as.numeric(qmatStates[c(as.numeric(weightedPfsa[,1])),2]) * 2
   weightedPfsa[,3] <- qmatStates[c(as.numeric(weightedPfsa[,1])),3]
   weightedPfsa[,4] <- simmapSummary$times[j,1:(ncol(simmapSummary$times) - 1)] / simmapSummary$times[j,totalColumn]
-  
+
   for(i in 1:nrow(weightedPfsa)){
     weightedPfsa[i,5] <-  Pfsa(Da = as.numeric(weightedPfsa[i,2]),
                                scs = weightedPfsa[i,3]) * as.numeric(weightedPfsa[i,4])
   }
-  
+
   pfsaExpected[j,2] <- sum(as.numeric(weightedPfsa[,5]))
 }
 
@@ -247,6 +221,34 @@ polygon(density(pfsaExpected[,2]))
 
 
 
+############ snippets ###############
+
+
+# haploid autosome count
+maxChromValue <- max(dat$chroms)
+nChroms <- (maxChromValue - 1) * 2
+
+# get the max chrom number at XO state
+nChromsXO <- length(dat$chroms[dat$scs==1])
+
+# fill in the states of the qmat
+# XO
+dat$qmatState[dat$scs==0] <- dat$chroms[dat$scs==0] - 1
+
+#XY
+dat$qmatState[dat$scs==1] <- dat$chroms[dat$scs==1] - 1 + (nChroms/2)
+
+# get the range of chromosome number at each sex chromosome state
+rngXO <- range(dat$qmatState[dat$scs == 0])
+rngXY <- range(dat$qmatState[dat$scs == 1])
+
+# define the miargin
+# this is basically by how much you change the min and max chromosome number
+margin <- 1
+
+# get the full range of chromosome numbers icluding all sex chromosome systems
+rng <- c(c((rngXO[1] - margin):(rngXO[2] + margin)),
+         c((rngXY[1] - margin):(rngXY[2] + margin)))
 
 
 
