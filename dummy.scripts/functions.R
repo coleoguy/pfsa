@@ -100,7 +100,7 @@ getProbMatrix <- function(dat){
     # combine the new matrix with the pmat
     pmat <- rbind(pmat, temp.mat)
     
-    # fill out the pmat
+        # fill out the pmat
     for(i in 1:nrow(dat)){
       if(dat$scs[i] == "XO"){
         pmat[i, dat$chroms[i] - 1] <- 1
@@ -109,6 +109,10 @@ getProbMatrix <- function(dat){
         pmat[i, (hp + dat$chroms[i] - 2)] <- 1
       }
     }
+    
+    drops <- c(1:(minChroms-2), hp:(hp + minChroms-3))
+    pmat <- pmat[, -drops]
+    
     return(pmat)
 }
 
