@@ -1,19 +1,13 @@
 library(phytools)
 library(evobiR)
 
-
-library(chromePlus)
-library(geiger)
-library(diversitree)
-library(viridis)
-
 # helper functions
 source("functions.R")
 
 # make a random tree
-#set.seed(1)
+# set.seed(1)
 tree <- rcoal(n = 3,
-              br = runif(n = 2))
+              br = runif(n = 100))
 
 # plot the tree without tip lables
 # plot(tree, show.tip.label = F)
@@ -25,10 +19,9 @@ tree$edge.length <- tree$edge.length / max(branching.times(tree))
 # col 1 - species names
 # col 2 - chromosome number (haploid)
 # col 3 - sex chromosome system state 0 - XO, 1 - XY
-# col 4 - position of the q matrix
 dat <- as.data.frame(matrix(data = NA,
-              nrow = length(tree$tip.label),
-              ncol = 3))
+                            nrow = length(tree$tip.label),
+                            ncol = 3))
 
 # lable columns
 colnames(dat) <- c("species", "chroms", "scs")
@@ -36,62 +29,25 @@ colnames(dat) <- c("species", "chroms", "scs")
 # fill the data frame
 dat$species <- tree$tip.label
 dat$chroms <- c(10,9,11)
-dat$scs <- c("XY","XO","XY")
-
-
-# get the probability matrix
-probMat <- matrix(data = 0,
-                  nrow = length(dat$species),
-                  ncol = length(rng))
-
-colnames(probMat) <- rng
-rownames(probMat) <- dat$species
-
-# assign tip probabilities
-for(i in 1:nrow(dat)){
-  probMat[i, which(colnames(probMat) == dat$qmatState[i])] <- 1
-}
-
-# get the named tip states
-tip.states <- dat$qmatState
-names(tip.states) <- dat$species
-
-# plot tipl tables
-tip.labs <- paste(dat$chroms, c("XO","XY")[dat$scs + 1])
-
-tiplabels(tip.labs,
-          frame = "n",
-          offset = .02,
-          cex = .7)
+dat$scs <- c("XY","XY","XO")
 
 # make the qmatrix
-qmat <- qmatGen(maxChromValue)
+qmat <- qmatGen(chrom.range = range(dat$chroms))
 
-# make a table that gives the qmat state respective diploid count and
-# the respective sex chromosome system
-qmatStates <- matrix(data = NA,
-                     nrow = nChroms,
-                     ncol = 3)
-# fill in qmat states
-qmatStates[,1] <- colnames(qmat)
-
-# fill in chromosome numners
-qmatStates[(1:(nChroms/2)) ,2] <- (1:(nChroms/2)) + 1
-qmatStates[((nChroms/2) + 1):(nChroms) ,2] <- (1:(nChroms/2)) + 1
-
-# fill in sex chromosome systems
-qmatStates[(1:(nChroms/2)) ,3] <- "XO"
-qmatStates[((nChroms/2) + 1):(nChroms) ,3] <- "XY"
-
-
-# get the subset of qmatrix
-qmat.new <- qmat[rng, rng]
+# get the probability matrix
+probMat <- getProbMatrix(dat)
 
 # stochastic mapping
+# lets assume 11XO as the root state
+# following will get the probability of each karyotype ar the root
+rootChrom <- which(colnames(probMat) == "11XO")
+rootProbs <- rep(0, length(colnames(probMat)))
+rootProbs[rootChrom] <- 1
+
 map <- make.simmap(tree = tree,
                    x = probMat,
-                   model = qmat.new,
-                   pi = c(0,1,rep(0,5)),
+                   model = qmat,
+                   pi = rootProbs,
                    nsim = 100,
                    message = TRUE,
                    Q = "mcmc")
@@ -249,6 +205,55 @@ margin <- 1
 # get the full range of chromosome numbers icluding all sex chromosome systems
 rng <- c(c((rngXO[1] - margin):(rngXO[2] + margin)),
          c((rngXY[1] - margin):(rngXY[2] + margin)))
+
+
+# get the probability matrix
+probMat <- matrix(data = 0,
+                  nrow = length(dat$species),
+                  ncol = length(rng))
+
+colnames(probMat) <- rng
+rownames(probMat) <- dat$species
+
+# assign tip probabilities
+for(i in 1:nrow(dat)){
+  probMat[i, which(colnames(probMat) == dat$qmatState[i])] <- 1
+}
+
+# get the named tip states
+tip.states <- dat$qmatState
+names(tip.states) <- dat$species
+
+# plot tipl tables
+tip.labs <- paste(dat$chroms, c("XO","XY")[dat$scs + 1])
+
+tiplabels(tip.labs,
+          frame = "n",
+          offset = .02,
+          cex = .7)
+
+# make the qmatrix
+qmat <- qmatGen(maxChromValue)
+
+# make a table that gives the qmat state respective diploid count and
+# the respective sex chromosome system
+qmatStates <- matrix(data = NA,
+                     nrow = nChroms,
+                     ncol = 3)
+# fill in qmat states
+qmatStates[,1] <- colnames(qmat)
+
+# fill in chromosome numners
+qmatStates[(1:(nChroms/2)) ,2] <- (1:(nChroms/2)) + 1
+qmatStates[((nChroms/2) + 1):(nChroms) ,2] <- (1:(nChroms/2)) + 1
+
+# fill in sex chromosome systems
+qmatStates[(1:(nChroms/2)) ,3] <- "XO"
+qmatStates[((nChroms/2) + 1):(nChroms) ,3] <- "XY"
+
+
+# get the subset of qmatrix
+qmat.new <- qmat[rng, rng]
 
 
 

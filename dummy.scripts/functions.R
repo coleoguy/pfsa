@@ -86,7 +86,34 @@ getProbMatrix <- function(dat){
                                             paste(2:maxChroms,"XY",sep=""))
     pmat <- qmat[NULL,]
     hp <- ncol(qmat)/2 + 1
+    
+    # add rows 
+    # make a new matrix. number of rows in thes new matrix is equal to the
+    # number of species in our data table. 
+    temp.mat <- matrix(data = 0,
+                       nrow = nrow(dat),
+                       ncol = ncol(pmat))
+    
+    # name the row names according to the species names in our data table
+    rownames(temp.mat) <- dat$species
 
+    # combine the new matrix with the pmat
+    pmat <- rbind(pmat, temp.mat)
+    
+        # fill out the pmat
+    for(i in 1:nrow(dat)){
+      if(dat$scs[i] == "XO"){
+        pmat[i, dat$chroms[i] - 1] <- 1
+      }
+      if(dat$scs[i] == "XY"){
+        pmat[i, (hp + dat$chroms[i] - 2)] <- 1
+      }
+    }
+    
+    drops <- c(1:(minChroms-2), hp:(hp + minChroms-3))
+    pmat <- pmat[, -drops]
+    
+    return(pmat)
 }
 
 
