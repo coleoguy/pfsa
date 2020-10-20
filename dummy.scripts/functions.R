@@ -125,7 +125,25 @@ get.Qmatrix <- function(chrom.range = NULL,
     drops <- c(1:(minChroms-2), hp:(hp + minChroms-3))
   }
   qmat <- qmat[-drops, -drops]
-  return(qmat)
+  
+  # assign numerical value for each state
+  states <-as.data.frame(matrix(data = NA,
+                                nrow = nrow(qmat),
+                                ncol = 2))
+  
+  colnames(states) <- c("sim.state", "karyotype")
+  
+  # make the state names so that they reflect 1:number of states
+  states$sim.state <- 1:nrow(qmat)
+  states$karyotype <- rownames(qmat)
+  # rename the row and colnames for qmat
+  rownames(qmat) <- colnames(qmat) <- 1:nrow(qmat)
+  
+  # store results
+  results <- list(qmat,
+                  states)
+  names(results) <- c("qmat", "states")
+  return(results)
 }
 
 # this function will generate a probability matrix given chromosome number and
@@ -234,7 +252,8 @@ get.Pmatrix <- function(dat, complex = F, sex.system = "XY"){
     drops <- c(1:(minChroms-2), hp:(hp + minChroms-3))
   }
   pmat <- pmat[, -drops]
-  
+  # rename the states of probability matrix to reflect that of qmat
+  colnames(pmat) <- 1:ncol(pmat)
   return(pmat)
 }
 
@@ -323,7 +342,5 @@ get.SpeciesMatches <- function(dat, trees){
   results <- list(finaldat.new, tree.names)
   
   names(results) <- c("chroms", "name_corrections")
-  
-  
   return(results)
 }
