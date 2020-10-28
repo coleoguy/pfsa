@@ -7,25 +7,27 @@ library(phytools)
 library(chromePlus)
 library(evobiR)
 library(coda)
+library(diversitree)
 # load helper functions
 source("helper.functions.R")
 # defininf the number of simulations that will be performed
 nsim <- 1000
 # simulate a single tree with n number of tips
-tree <- rcoal(n = 15)
+tree <- tree.bd(pars=c(3,1), max.taxa=150)
+tree$edge.length <- tree$edge.length/max(branching.times(tree))
 # simulate a trait dataset
-trait <-  simChrom(tree, pars=c(2, 1, 1, 2, 0, 0, 0, 0, 1,  1, 20, 0), 
+trait <-  simChrom(tree, pars=c(2, 1, 2, 1, 0, 0, 0, 0, .2,  .2, 20, 0),
          limits = c(10, 30), model = "ChromPlus")
 # lets make sure we have enough transitions from 1 sex chromosome system
 # to the other
 while (sum(trait$binary.state) < 3) {
-  trait <-  simChrom(tree, pars=c(.3, .6, .3, .6, 0, 0, 0, 0, .2,  .3, 20, 1), 
+  trait <-  simChrom(tree, pars=c(.3, .6, .3, .6, 0, 0, 0, 0, .2,  .3, 20, 1),
                      limits = c(10, 30), model = "ChromPlus")
 }
 # look at the trait distributution
 trait$binary.state
 trait$chrom.num
-# make a data table to hold the species names, chromosome number and 
+# make a data table to hold the species names, chromosome number and
 # sex chromosome system
 dat <-  as.data.frame(matrix(data=NA, nrow = Ntip(tree), ncol = 3))
 colnames(dat) <- c("SpecisName", "chroms", "scs")
@@ -48,12 +50,15 @@ dat <- inputs$dat
 trees <- inputs$trees
 states <- inputs$states
 # perform stochastic mappings
+colnames(pmat) <- colnames(qmat) <-
+  row.names(qmat) <- states$karyotype
 hists <- make.simmap(tree = trees,
             x = pmat,
             model = qmat,
             nsim = nsim,
             pi = "estimated")
 # lets look at a randtom stochastic map
+# add colors
 plot(hists[[sample(1:nsim, 1)]])
 # get the number of times each transision has occured
 counts <- describe.simmap(hists)$count
@@ -68,7 +73,7 @@ for(i in 1:nrow(qmat)){
     AAfusionColnames[i] <- paste(i,",",which(qmat[i,] == 2),sep = "")
   }
 }
-# remove those that are empty 
+# remove those that are empty
 SAfusionColnames <- SAfusionColnames[SAfusionColnames != ""]
 AAfusionColnames <- AAfusionColnames[AAfusionColnames != ""]
 # get the col number that represent each fusion type
@@ -118,7 +123,7 @@ for(i in 1:nrow(states)){
                                                   replacement = "")),
                              scs = "XXY")
   }
-  
+
 }
 # get the expeveted pSA
 expSA <- c()
@@ -131,7 +136,7 @@ for(i in 1:nsim){
 # clear any previous plots
 dev.off()
 plot(density(expSA, bw = .009),
-     xlim = c(-0.5, 1.5), 
+     xlim = c(-0.5, 1.5),
      ylim = c(-2,40),
      main = "",
      xlab = "Proportion sex-autosome fusion",
