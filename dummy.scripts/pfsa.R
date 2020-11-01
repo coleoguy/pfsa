@@ -8,6 +8,7 @@ library(chromePlus)
 library(evobiR)
 library(coda)
 library(diversitree)
+library(viridis)
 # load helper functions
 source("helper.functions.R")
 # defininf the number of simulations that will be performed
@@ -59,7 +60,8 @@ hists <- make.simmap(tree = trees,
             pi = "estimated")
 # lets look at a randtom stochastic map
 # add colors
-plot(hists[[sample(1:nsim, 1)]])
+cols <- setNames(object = viridis(ncol(pmat)),nm = colnames(pmat))
+plot(hists[[sample(1:nsim, 1)]], col = cols)
 # get the number of times each transision has occured
 counts <- describe.simmap(hists)$count
 # get colnames that represent SA and AA fusions
