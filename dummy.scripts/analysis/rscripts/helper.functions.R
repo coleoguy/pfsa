@@ -758,8 +758,8 @@ get.matrixes.new <- function(chrom.range = NULL,
     }
   }
   if(Haplodiploidy == F & Neo.sex == T & complex == F){
-    qmat <- qmat[-c(1:(limiter),(limiter*2 + 1):(limiter*4)),-c(1:(limiter),(limiter*2 + 1):(limiter*4))]
-    pmat <- pmat[,-c(1:(limiter),(limiter*2 + 1):(limiter*4))]
+    qmat <- qmat[-c(1:(limiter),(limiter*3 + 1):(limiter*5)),-c(1:(limiter),(limiter*3 + 1):(limiter*5))]
+    pmat <- pmat[,-c(1:(limiter),(limiter*3 + 1):(limiter*5))]
   }
   # Here we will remove the first portion of the qmatrices for each
   # type of sex chromosome system to match with the given range of chromosome number

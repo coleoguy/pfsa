@@ -155,10 +155,10 @@ SSfusioncounts <- rowSums(counts[, c(SSfusionCol)])
 SAfusioncounts <- SAfusioncounts.r3 + SAfusioncounts.r4 + SAfusioncounts.r6 + SAfusioncounts.r7
 # get the observed pfSA
 obspropSA <- SAfusioncounts/(AAfusioncounts+SAfusioncounts+SSfusioncounts)
-obspropSA <- SAfusioncounts/(AAfusioncounts+SAfusioncounts)
+# obspropSA <- SAfusioncounts/(AAfusioncounts+SAfusioncounts)
 # obspropSA <- SAfusioncounts/AAfusioncounts
 # remove entries that are either inf or NaN
-obspropSA <- obspropSA[!(is.infinite(obspropSA) | is.nan(obspropSA))]
+# obspropSA <- obspropSA[!(is.infinite(obspropSA) | is.nan(obspropSA))]
 # now we get the expected pfsa
 # make a table to hold the pfsa given scs and chrom number
 pfSA.tab <- as.data.frame(matrix(data = NA, nrow = length(karyotypes), ncol = 2))
@@ -208,7 +208,7 @@ for(i in 1:length(karyotypes)){
 # get the expeveted pSA
 expSA <- vector(mode = "numeric", length = length(karyotypes))
 for(i in 1:nsim){
-  times <- describe.simmap(hists[[i]])$times[2, -(nrow(states)+1)]
+  times <- describe.simmap(hists[[i]])$times[2, -(nrow(pfSA.tab)+1)]
   expSA[i] <- sum(times * pfSA.tab$pfsa)
 }
 # lets plot
@@ -225,7 +225,7 @@ ylim <- c(ymin, ymax)
 plot(den.exp,
      xlim = xlim,
      ylim = ylim,
-     main = "",
+     main = "Orthoptera \nnot accounting for SS fusions",
      xlab = "Proportion sex-autosome fusion",
      cex.axis = 1, cex.lab = 1)
 polygon(den.exp,

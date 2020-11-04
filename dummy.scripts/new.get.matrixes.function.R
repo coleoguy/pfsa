@@ -441,7 +441,7 @@ get.matrixes.new <- function(chrom.range = NULL,
                       "X fission - XY to XXY",
                       "Y fission - XY to XYY",
                       "Y loss - XY to XO",
-                      "X fission - XXY to XY",
+                      "X fusion - XXY to XY",
                       "Y loss - XYY to XY")
   # make a vector to hold the karyotypes
   kar <- colnames(qmat)

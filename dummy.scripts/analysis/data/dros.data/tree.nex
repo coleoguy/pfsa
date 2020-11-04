@@ -1,0 +1,320 @@
+#NEXUS
+
+BEGIN TAXA;
+	DIMENSIONS NTAX=152;
+	TAXLABELS
+	Chymomyza_amoena 
+	Chymomyza_procnemis
+	Drosophila_arizonae
+	Drosophila_mojavensis
+	Drosophila_mayaguana
+	Drosophila_navojoa 
+	Drosophila_mulleri
+	Drosophila_buzzatii
+	Drosophila_mercatorum 
+	Drosophila_repleta
+	Drosophila_limensis 
+	Drosophila_anceps
+	Drosophila_eohydei
+	Drosophila_hydei
+	Drosophila_bromeliae
+	Drosophila_acanthoptera 
+	Drosophila_pachea 
+	Drosophila_nannoptera
+	Drosophila_euronotus 
+	Drosophila_paramelanica 
+	Drosophila_melanica
+	Drosophila_micromelanica
+	Drosophila_robusta
+	Drosophila_lacertosa
+	Drosophila_sordidula 
+	Drosophila_borealis 
+	Drosophila_montana
+	Drosophila_flavomontana 
+	Drosophila_littoralis
+	Drosophila_ezoana 
+	Drosophila_kanekoi
+	Drosophila_lacicola 
+	Drosophila_lummei 
+	Drosophila_novamexicana
+	Drosophila_virilis 
+	Drosophila_polychaeta 
+	Drosophila_pseudotalamancana 
+	Scaptomyza_anomala 
+	Zaprionus_bogoriensis
+	Zaprionus_ghesquierei 
+	Zaprionus_taronus 
+	Zaprionus_lachaisei
+	Zaprionus_indianus 
+	Zaprionus_kolodkinae 
+	Zaprionus_tuberculatus 
+	Zaprionus_sepsoides
+	Zaprionus_inermis
+	Zaprionus_tsacasi
+	Drosophila_immigrans
+	Drosophila_albomicans
+	Drosophila_nasuta 
+	Drosophila_neohypocausta
+	Drosophila_kepulauana 
+	Drosophila_kohkoa
+	Drosophila_hypocausta 
+	Drosophila_rubida 
+	Drosophila_mediopictoides
+	Drosophila_guttifera
+	Drosophila_palustris 
+	Drosophila_subpalustris
+	Drosophila_phalerata 
+	Drosophila_funebris
+	Drosophila_arawakana
+	Drosophila_dunni 
+	Drosophila_polymorpha
+	Drosophila_cardini 
+	Drosophila_ornatifrons 
+	Drosophila_tripunctata
+	Drosophila_pallidipennis
+	Samoaia_leonensis
+	Hirtodrosophila_pictiventris
+	Drosophila_busckii 
+	Scaptodrosophila_latifasciaeformis
+	Drosophila_affinis 
+	Drosophila_algonquin
+	Drosophila_azteca 
+	Drosophila_tolteca
+	Drosophila_narragansett
+	Drosophila_miranda 
+	Drosophila_persimilis
+	Drosophila_pseudoobscura 
+	Drosophila_ambigua 
+	Drosophila_bifasciata 
+	Drosophila_auraria 
+	Drosophila_quadraria 
+	Drosophila_triauraria 
+	Drosophila_biauraria 
+	Drosophila_lacteicornis
+	Drosophila_rufa 
+	Drosophila_tani
+	Drosophila_pectinifera
+	Drosophila_baimaii
+	Drosophila_birchii
+	Drosophila_mayri 
+	Drosophila_barbarae
+	Drosophila_bicornuta
+	Drosophila_nikananu 
+	Drosophila_diplacantha 
+	Drosophila_vulcana
+	Drosophila_tsacasi
+	Drosophila_seguyi 
+	Drosophila_greeni
+	Drosophila_serrata
+	Drosophila_bunnanda
+	Drosophila_punjabiensis
+	Drosophila_orosa
+	Drosophila_kikkawai
+	Drosophila_jambulina
+	Drosophila_kanapiae
+	Drosophila_ficusphila
+	Drosophila_erecta 
+	Drosophila_orena
+	Drosophila_santomea
+	Drosophila_yakuba 
+	Drosophila_teissieri
+	Drosophila_mauritiana
+	Drosophila_sechellia
+	Drosophila_simulans
+	Drosophila_melanogaster
+	Drosophila_eugracilis
+	Drosophila_paralutea 
+	Drosophila_prostipennis 
+	Drosophila_lutescens 
+	Drosophila_takahashii
+	Drosophila_pseudotakahashii
+	Drosophila_mimetica
+	Drosophila_suzukii 
+	Drosophila_lucipennis
+	Drosophila_elegans 
+	Drosophila_fuyamai
+	Drosophila_malerkotliana
+	Drosophila_bipectinata
+	Drosophila_pseudoananassae
+	Drosophila_pseudoananassae_nigrens
+	Drosophila_parabipectinata
+	Drosophila_phaeopleura
+	Drosophila_atripex 
+	Drosophila_ananassae
+	Drosophila_pallidosa 
+	Drosophila_ercepeae 
+	Drosophila_varians 
+	Drosophila_emarginata 
+	Drosophila_neocordata
+	Drosophila_paulistorum
+	Drosophila_equinoxialis
+	Drosophila_capricorni 
+	Drosophila_sucinea 
+	Drosophila_nebulosa
+	Hirtodrosophila_duncani
+	Scaptodrosophila_lebanonensis
+	Scaptodrosophila_pattersoni
+	Scaptodrosophila_stonei 
+	;
+
+END;
+
+
+BEGIN TREES;
+	TRANSLATE
+		1 Chymomyza_amoena,
+		2 Chymomyza_procnemis,
+		3 Drosophila_arizonae,
+		4 Drosophila_mojavensis,
+		5 Drosophila_mayaguana,
+		6 Drosophila_navojoa,
+		7 Drosophila_mulleri,
+		8 Drosophila_buzzatii,
+		9 Drosophila_mercatorum,
+		10 Drosophila_repleta,
+		11 Drosophila_limensis,
+		12 Drosophila_anceps,
+		13 Drosophila_eohydei,
+		14 Drosophila_hydei,
+		15 Drosophila_bromeliae,
+		16 Drosophila_acanthoptera,
+		17 Drosophila_pachea,
+		18 Drosophila_nannoptera,
+		19 Drosophila_euronotus,
+		20 Drosophila_paramelanica,
+		21 Drosophila_melanica,
+		22 Drosophila_micromelanica,
+		23 Drosophila_robusta,
+		24 Drosophila_lacertosa,
+		25 Drosophila_sordidula,
+		26 Drosophila_borealis,
+		27 Drosophila_montana,
+		28 Drosophila_flavomontana,
+		29 Drosophila_littoralis,
+		30 Drosophila_ezoana,
+		31 Drosophila_kanekoi,
+		32 Drosophila_lacicola,
+		33 Drosophila_lummei,
+		34 Drosophila_novamexicana,
+		35 Drosophila_virilis,
+		36 Drosophila_polychaeta,
+		37 Drosophila_pseudotalamancana,
+		38 Scaptomyza_anomala,
+		39 Zaprionus_bogoriensis,
+		40 Zaprionus_ghesquierei,
+		41 Zaprionus_taronus,
+		42 Zaprionus_lachaisei,
+		43 Zaprionus_indianus,
+		44 Zaprionus_kolodkinae,
+		45 Zaprionus_tuberculatus,
+		46 Zaprionus_sepsoides,
+		47 Zaprionus_inermis,
+		48 Zaprionus_tsacasi,
+		49 Drosophila_immigrans,
+		50 Drosophila_albomicans,
+		51 Drosophila_nasuta,
+		52 Drosophila_neohypocausta,
+		53 Drosophila_kepulauana,
+		54 Drosophila_kohkoa,
+		55 Drosophila_hypocausta,
+		56 Drosophila_rubida,
+		57 Drosophila_mediopictoides,
+		58 Drosophila_guttifera,
+		59 Drosophila_palustris,
+		60 Drosophila_subpalustris,
+		61 Drosophila_phalerata,
+		62 Drosophila_funebris,
+		63 Drosophila_arawakana,
+		64 Drosophila_dunni,
+		65 Drosophila_polymorpha,
+		66 Drosophila_cardini,
+		67 Drosophila_ornatifrons,
+		68 Drosophila_tripunctata,
+		69 Drosophila_pallidipennis,
+		70 Samoaia_leonensis,
+		71 Hirtodrosophila_pictiventris,
+		72 Drosophila_busckii,
+		73 Scaptodrosophila_latifasciaeformis,
+		74 Drosophila_affinis,
+		75 Drosophila_algonquin,
+		76 Drosophila_azteca,
+		77 Drosophila_tolteca,
+		78 Drosophila_narragansett,
+		79 Drosophila_miranda,
+		80 Drosophila_persimilis,
+		81 Drosophila_pseudoobscura,
+		82 Drosophila_ambigua,
+		83 Drosophila_bifasciata,
+		84 Drosophila_auraria,
+		85 Drosophila_quadraria,
+		86 Drosophila_triauraria,
+		87 Drosophila_biauraria,
+		88 Drosophila_lacteicornis,
+		89 Drosophila_rufa,
+		90 Drosophila_tani,
+		91 Drosophila_pectinifera,
+		92 Drosophila_baimaii,
+		93 Drosophila_birchii,
+		94 Drosophila_mayri,
+		95 Drosophila_barbarae,
+		96 Drosophila_bicornuta,
+		97 Drosophila_nikananu,
+		98 Drosophila_diplacantha,
+		99 Drosophila_vulcana,
+		100 Drosophila_tsacasi,
+ 		101 Drosophila_seguyi,
+ 		102 Drosophila_greeni,
+ 		103 Drosophila_serrata,
+ 		104 Drosophila_bunnanda,
+ 		105 Drosophila_punjabiensis,
+ 		106 Drosophila_orosa,
+ 		107 Drosophila_kikkawai,
+ 		108 Drosophila_jambulina,
+ 		109 Drosophila_kanapiae,
+ 		110 Drosophila_ficusphila,
+ 		111 Drosophila_erecta,
+ 		112 Drosophila_orena,
+ 		113 Drosophila_santomea,
+ 		114 Drosophila_yakuba,
+ 		115 Drosophila_teissieri,
+ 		116 Drosophila_mauritiana,
+ 		117 Drosophila_sechellia,
+ 		118 Drosophila_simulans,
+ 		119 Drosophila_melanogaster,
+ 		120 Drosophila_eugracilis,
+ 		121 Drosophila_paralutea,
+ 		122 Drosophila_prostipennis,
+ 		123 Drosophila_lutescens,
+ 		124 Drosophila_takahashii,
+ 		125 Drosophila_pseudotakahashii,
+ 		126 Drosophila_mimetica,
+ 		127 Drosophila_suzukii,
+ 		128 Drosophila_lucipennis,
+ 		129 Drosophila_elegans,
+ 		130 Drosophila_fuyamai,
+ 		131 Drosophila_malerkotliana,
+ 		132 Drosophila_bipectinata,
+ 		133 Drosophila_pseudoananassae,
+ 		134 Drosophila_pseudoananassae_nigrens,
+ 		135 Drosophila_parabipectinata,
+ 		136 Drosophila_phaeopleura,
+ 		137 Drosophila_atripex,
+ 		138 Drosophila_ananassae,
+ 		139 Drosophila_pallidosa,
+ 		140 Drosophila_ercepeae,
+ 		141 Drosophila_varians,
+ 		142 Drosophila_emarginata,
+ 		143 Drosophila_neocordata,
+ 		144 Drosophila_paulistorum,
+ 		145 Drosophila_equinoxialis,
+ 		146 Drosophila_capricorni,
+ 		147 Drosophila_sucinea,
+ 		148 Drosophila_nebulosa,
+ 		149 Hirtodrosophila_duncani,
+ 		150 Scaptodrosophila_lebanonensis,
+ 		151 Scaptodrosophila_pattersoni,
+ 		152 Scaptodrosophila_stonei;
+	TREE Imported_tree_1 = (1:70,2:70,((((((((((((3:3.906902961,4:3.906902961):13.29098694,(5:15.3619555,6:15.3619555):1.835934406):2.305349052,7:19.50323896):5.452654302,8:24.95589326):4.872877942,((9:17.84821858,(10:8.836547356,11:8.836547356):9.01167122):8.946340787,(12:23.46854361,(13:5.723573383,14:5.723573383):17.74497023):3.326015749):3.034211838):12.1509316,(15:34.18697619,((16:12.94972131,17:12.94972131):2.983880578,18:15.93360188):18.2533743):7.792726613):3.901332421,((((((19:3.723755464,20:3.723755464):1.582432714,21:5.306188178):17.39402436,22:22.70021253):9.282604441,(23:22.02951811,(24:14.87235979,25:14.87235979):7.157158324):9.953298863):7.552979994,(((26:11.05314746,(27:6.107945418,28:6.107945418):4.945202038):7.188162786,((29:11.89600455,30:11.89600455):4.476981165,(31:10.99317861,32:10.99317861):5.3798071):1.868324528):2.123167709,((33:9.166087579,34:9.166087579):3.507496675,35:12.67358425):7.690893697):19.17131902):3.130548048,36:42.66634502):3.214690206,(37:29.96690943,38:29.96690943):15.91412579):3.322213061,(39:42.09791082,(40:31.10159359,(((41:13.24325832,42:13.24325832):4.135150554,43:17.37840887):9.952121663,((((44:9.411861771,45:9.411861771):3.136662487,46:12.54852426):4.142107298,47:16.69063156):4.564951021,48:21.25558258):6.074947958):3.771063052):10.99631724):7.10533746):1.805033507,(((((49:28.06854287,(((50:3.096911897,(51:2.861612986,52:2.861612986):0.2352989111):0.7372498467,53:3.834161744):1.585036464,54:5.419198207):22.64934466):3.7895145,(55:6.783861319,56:6.783861319):25.07419605):8.980297673,57:40.83835504):4.624495068,((((58:17.82058537,(59:3.956585766,60:3.956585766):13.86399961):6.517090511,61:24.33767588):7.316291656,62:31.65396754):7.384779631,(((((63:7.46266728,64:7.46266728):4.841005198,65:12.30367248):4.121685878,66:16.42535836):10.79808789,67:27.22344624):5.949562108,(68:26.85770343,69:26.85770343):6.315304925):5.865738816):6.424102939):2.089812689,(70:38.14039754,71:38.14039754):9.412265253):3.455618994):1.668211461,(72:38.01370589,73:38.01370589):14.66278736):1.981303756,((((((((74:2.652669731,75:2.652669731):3.663864497,(76:4.562550639,77:4.562550639):1.753983588):1.288835202,78:7.60536943):4.438990613,(79:4.584758976,(80:2.239809285,81:2.239809285):2.344949691):7.459601067):3.90823022,82:15.95259026):3.075320054,83:19.02791032):22.52410641,((((((((((84:1.417329679,85:1.417329679):0.3674335035,86:1.784763183):5.116848512,87:6.901611695):4.767761052,((88:3.315597934,89:3.315597934):3.286785783,90:6.602383717):5.066989031):2.738591005,91:14.40796375):1.692408018,92:16.10037177):2.374222513,((((93:7.766594511,94:7.766594511):2.238331358,95:10.00492587):2.936384473,96:12.94131034):2.599238641,(((((((97:6.651769455,98:6.651769455):1.388269155,99:8.040038611):0.7299024897,100:8.7699411):1.175199316,(101:7.321304483,102:7.321304483):2.623835933):1.868245388,(103:8.919194383,104:8.919194383):2.894191422):0.783742493,(105:10.65774398,(106:9.225129922,107:9.225129922):1.432614063):1.939384313):1.908897864,108:14.50602616):1.034522822):2.934045299):1.985207406,109:20.45980169):9.013412996,((110:21.59627485,((((111:7.044737729,112:7.044737729):2.836188465,((113:1.54749006,114:1.54749006):1.527893696,115:3.075383756):6.805542438):2.632157763,((116:5.318525017,(117:4.38552762,118:4.38552762):0.932997397):2.282081101,119:7.600606117):4.91247784):6.465060775,120:18.97814473):2.618130116):1.628060142,((((((((121:2.125543603,122:2.125543603):1.357739752,123:3.483283355):0.9475329029,124:4.430816258):1.807411323,125:6.238227581):1.01209676,126:7.250324341):2.248670287,127:9.498994628):5.074660892,128:14.57365552):5.218181902,(129:8.0403623,130:8.0403623):11.75147512):3.432497566):6.248879696):4.84413327,((((((131:5.338160424,132:5.338160424):0.8316948303,(133:0.1881161065,134:0.1881161065):5.981739148):1.092540521,135:7.262395775):5.578823645,((136:8.879055653,137:8.879055653):1.723263456,(138:4.837450429,139:4.837450429):5.764868681):2.238900311):8.147399862,140:20.98861928):2.316919231,141:23.30553851):11.01180944):7.234668766):7.789936345,(((142:20.61017669,143:20.61017669):5.134093815,(((144:5.47671661,145:5.47671661):11.42881052,(146:2.667840889,147:2.667840889):14.23768624):3.447691952,148:20.35321908):5.391051428):14.43706431,149:40.18133481):9.160618255):5.31584394):4.845577047,((150:0.9328169002,151:0.9328169002):1.218071988,152:2.150888888):57.35248517):10.49662595);
+
+END;
+
