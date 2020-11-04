@@ -176,6 +176,10 @@ get.matrixes <- function(chrom.range = NULL,
   for(i in (limiter + 1):(limiter*2)){
     qmat[i,((limiter*2)+i-1)] <- 3
   }
+  # sex chromosome fissoin from XY to complex-XY
+  for(i in (limiter + 1):(limiter*2)){
+    qmat[i,((limiter*2)+i)] <- 7
+  }
   # y chromosome loss in XY systems
   for(i in (limiter + 1):(limiter*2)){
     qmat[i,(i-limiter)] <- 5
@@ -294,25 +298,42 @@ get.matrixes <- function(chrom.range = NULL,
   pmat <- pmat[,-drops]
   
   # assign numerical value for each state
-  states <-as.data.frame(matrix(data = NA,
-                                nrow = nrow(qmat),
-                                ncol = 2))
-  colnames(states) <- c("sim.state", "karyotype")
+  # states <-as.data.frame(matrix(data = NA,
+                                # nrow = nrow(qmat),
+                                # ncol = 2))
+  # colnames(states) <- c("sim.state", "karyotype")
   # make the state names so that they reflect 1:number of states
-  states$sim.state <- 1:nrow(qmat)
-  states$karyotype <- rownames(qmat)
+  # states$sim.state <- 1:nrow(qmat)
+  # states$karyotype <- rownames(qmat)
   # rename the row and colnames for qmat
-  rownames(qmat) <- colnames(qmat) <- colnames(pmat) <- 1:nrow(qmat)
+  # rownames(qmat) <- colnames(qmat) <- colnames(pmat) <- 1:nrow(qmat)
+  
+  # make a new table to define all the parameters in the qmatrix
+  states <- as.data.frame(matrix(, nrow = 7, ncol = 2))
+  colnames(states) <- c("par", "meaning")
+  states$par <- 1:7
+  states$meaning <- c("AA fission",
+                      "AA fusion",
+                      "SA fusion",
+                      "transision from Neo-XY to XY",
+                      "Y loss in XY",
+                      "transision from complex-XY to XY",
+                      "SS fissions")
+  
+  # make a vector to hold the karyotypes
+  kar <- colnames(qmat)
   # store results and give them appropriate names
   results <- list(qmat,
                   pmat,
                   dat,
                   trees,
-                  states)
+                  states,
+                  kar)
   names(results) <- c("qmat",
                       "pmat",
                       "dat",
                       "trees",
-                      "states")
+                      "states",
+                      "karyotypes")
   return(results)
 }

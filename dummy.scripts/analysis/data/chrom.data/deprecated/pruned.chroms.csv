@@ -1,0 +1,252 @@
+order,family,genus,species,sex.system,SCS,scs.notes,fem.2n,mal.2n,cite.key
+Mantodea,Hymenopodidae,Acanthops,Acanthops_falcata,,XO,,20,19,white1976blattodea
+Mantodea,Amorphoscelidae,Amorphoscelis,Amorphoscelis_sp,,XO,,34,33,white1976blattodea
+Isoptera,Termitidae,Amitermes,Amitermes_germanus,,,,42,NA,bergamaschi2007karyology
+Blattodea,Blaberidae,Archimandrita,Archimandrita_tessellata,,XO,,46,45,white1976blattodea
+Mantodea,Hymenopodidae,Antemna,Antemna_rapax,,complex XY,XXY,28,27,white1976blattodea
+Mantodea,Mantidae,Antistia,Antistia_sp,,XO,,28,27,white1976blattodea
+Mantodea,Mantidae,Archimantis,Archimantis_sobrina,,complex XY,,28,27,white1976blattodea
+Mantodea,Mantidae,Bolbe,Bolbe_pallida,,XO,,30,25,white1976blattodea
+Blattodea,Polyphagidae,Arenivaga,Arenivaga_sp,,XO,,46,45,white1976blattodea
+Mantodea,Mantidae,Callimantis,Callimantis_antillarum,,XO,,18,17,white1976blattodea
+Mantodea,Mantidae,Cheddikulama,Cheddikulama_straminea,,complex XY,XXY,28,27,white1976blattodea
+Mantodea,Mantidae,Choeradodis,Choeradodis_rhombicollis,,complex XY,XXY,32,31,white1976blattodea
+Mantodea,Amorphoscelidae,Cliomantis,Cliomantis_cornuta,,XO,,26,25,white1976blattodea
+Mantodea,Hymenopodidae,Creobroter,Creobroter_laevicollis,,XO,,28,27,white1976blattodea
+Mantodea,Mantidae,Deiphobe,Deiphobe_sp,,XO,,20,19,white1976blattodea
+Orthoptera,Tristiridae,Atacamacris,Atacamacris_diminuta,,XY,,10,10,mesa1982cariologia
+Isoptera,Termitidae,Amitermes,Amitermes_parvus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Orthoptera,Acrididae,Atrachelacris,Atrachelacris_sp,,XY,,22,22,mesa1982cariologia
+Mantodea,Eremiaphilidae,Didymocorypha,Didymocorypha_lanceolata,,XO,,16,15,white1976blattodea
+Mantodea,Mantidae,Dystacta,Dystacta_alticeps,,XO,,26,25,white1976blattodea
+Mantodea,Empusidae,Empusa,Empusa_sp,,XO,,28,27,white1976blattodea
+Mantodea,Empusidae,Gongylus,Gongylus_sp,,XO,,28,27,white1976blattodea
+Mantodea,Hymenopodidae,Harpagomantis,Harpagomantis_tricolor,,XO,,26,25,white1976blattodea
+Mantodea,Hymenopodidae,Hestiasula,Hestiasula_sp,,XO,,28,27,white1976blattodea
+Mantodea,Mantidae,Hierodula,Hierodula_patellifera,,complex XY,XXY,28,27,white1976blattodea
+Mantodea,Eremiaphilidae,Humbertiella,Humbertiella_similis,,XO,,32,31,white1976blattodea
+Mantodea,Mantidae,Iris,Iris_sp,,XO,,26,25,white1976blattodea
+Mantodea,Mantidae,Kongobatha,Kongobatha_sp,,XO,,30,25,white1976blattodea
+Mantodea,Mantidae,Ligaria,Ligaria_sp,,XO,,24,23,white1976blattodea
+Mantodea,Mantidae,Liturgusa,Liturgusa_maya,,XO,,18,17,white1976blattodea
+Mantodea,Mantidae,Liturgusa,Liturgusa_cursor,,XO,,34,33,white1976blattodea
+Mantodea,Mantidae,Mantis,Mantis_religiosa,,complex XY,XXY,28,27,white1976blattodea
+Mantodea,Mantoididae,Mantoida,Mantoida_schraderi,,XO,,38,37,white1976blattodea
+Mantodea,Mantidae,Miomantis,Miomantis_sp,,XO,,16,15,white1976blattodea
+Mantodea,Mantidae,Oligonyx,Oligonyx_sp,,XO,,30,19,white1976blattodea
+Mantodea,Mantidae,Orthodera,Orthodera_sp,,complex XY,XXY,26,25,white1976blattodea
+Mantodea,Mantidae,Parathespis,Parathespis_humbertiana,,XO,,32,31,white1976blattodea
+Mantodea,Mantidae,Polyspilota,Polyspilota_aeruginosa,,complex XY,XXY,28,27,white1976blattodea
+Mantodea,Hymenopodidae,Pseudacanthops,Pseudacanthops_sp,,,,20,NA,white1976blattodea
+Blattodea,Blaberidae,Blaberus,Blaberus_discoidalis,,XO,,38,37,white1976blattodea
+Isoptera,Termitidae,Amitermes,Amitermes_darwini,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Dermaptera,Forficulidae,Anechura,Anechura_sp,,XY,,24,24,hewitt1979animal
+Blattodea,Blaberidae,Blaberus,Blaberus_giganteus,,XO,,74,73,white1976blattodea
+Orthoptera,Acrididae,Chlorus,Chlorus_bolivianus,,XO,,20,19,mesa1982cariologia
+Embiidina,Embiidae,Embia,Embia_ramburi,,XO,,22,21,white1976blattodea
+Blattodea,Blattidae,Blatta,Blatta_orientalis,,XO,,48,47,white1976blattodea
+Phasmatodea,Phylliidae,Bacillus,Bacillus_atticus,,,,34,NA,scali2003linkage
+Blattodea,Blattellidae,Blattella,Blattella_bisignata,,XO,,24,23,white1976blattodea
+Isoptera,Kalotermitidae,Bifiditermes,Bifiditermes_improbus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1,36,35,luykx1990cytogenetic
+Embiidina,Embiidae,Embia,Embia_tyrrhenica,,XO,,22,21,white1976blattodea
+Blattodea,Blattellidae,Blattella,Blattella_germanica,,XO,,24,23,white1976blattodea
+Isoptera,Rhinotermitidae,Coptotermes,Coptotermes_acinaciformis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Isoptera,Termitidae,Crenetermes,Crenetermes_albotarsalis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Blattodea,Blattellidae,Blattella,Blattella_sauteri,,XO,,24,23,white1976blattodea
+Blattodea,Blattellidae,Blattella,Blattella_vaga,,XO,,24,23,white1976blattodea
+Phasmatodea,Phasmidae,Carausius,Carausius_morosus,parthenogenetic,,,64,NA,pijnacker1980sex
+Blattodea,Blaberidae,Byrsotria,Byrsotria_fumigata,,XO,,48,47,white1976blattodea
+Dermaptera,Labiduridae,Anisolabis,Anisolabis_maritima,,complex XY,XXY,26,25,hewitt1979animal
+Blattodea,Polyphagidae,Cryptocercus,Cryptocercus_primarius,,XO, multivalent absent order listed as Dictyoptera,20,19,bergamaschi2007karyology
+Orthoptera,Romaleidae,Chromacris,Chromacris_speciosa,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Dichromatos,Dichromatos_lilloanus,gonochorous,XY,X1X1X2X2/X1X2Y,22,NA,castillo2010sex
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_brevis,gonochorous,complex XY|homomorphic,X1X1/X1Y1Y2,36,37,luykx1990cytogenetic
+Blattodea,Polyphagidae,Cryptocercus,Cryptocercus_punctulatus,gonochorous,XO, multivalent absent order listed as Dictyoptera,48,47,bedo1987undifferentiated
+Blattodea,Polyphagidae,Cryptocercus,Cryptocercus_relictus,,XO, multivalent absent order listed as Dictyoptera,18,17,bergamaschi2007karyology
+Blattodea,Blattidae,Deropeltis,Deropeltis_erythrocephala,,XO,,50,49,white1976blattodea
+Phasmatodea,Phylliidae,Phyllium,Phyllium_bioculatum,,XO,,34,33,white1976blattodea
+Dermaptera,Arixenidae,Arixenia,Arixenia_esau,,XY,,60,60,hewitt1979animal
+Embiidina,Oligotomidae,Haploembia,Haploembia_solieri,,XO,,20,19,white1976blattodea
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_secundus,,,,40,NA,bergamaschi2007karyology
+Mantodea,Mantidae,Pseudomiopteryx,Pseudomiopteryx_infuscata,,XO,,18,17,white1976blattodea
+Blattodea,Blaberidae,Diploptera,Diploptera_punctata,,XO,,48,47,white1976blattodea
+Blattodea,Blattellidae,Ectobius,Ectobius_pallidus,,XO,,22,21,white1976blattodea
+Blattodea,Blaberidae,Epilampra,Epilampra_sp,,XO,,42,41,white1976blattodea
+Phasmatodea,Phasmidae,Sipyloidea,Sipyloidea_sipylus,,,,80,80,white1976blattodea
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_queenslandis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1,42,41,luykx1990cytogenetic
+Blattodea,Blaberidae,Eublaberus,Eublaberus_distanti,,XO,,66,65,white1976blattodea
+Blattodea,Blaberidae,Eublaberus,Eublaberus_posticus,,XO,,44,43,white1976blattodea
+Blattodea,Blattidae,Eurycotis,Eurycotis_floridana,,XO,,28,27,white1976blattodea
+Orthoptera,Acrididae,Dichromorpha,Dichromorpha_sp,,XO,,24,23,mesa1982cariologia
+Blattodea,Blaberidae,Galiblatta,Galiblatta_sp,,XO,,28,27,white1976blattodea
+Embiidina,Embiidae,Embia,Embia_nuragica,,XO,,24,23,white1976blattodea
+Blattodea,Blaberidae,Gromphadorhina,Gromphadorhina_portentosa,,XO,,64,63,white1976blattodea
+Mantodea,Mantidae,Schizocephala,Schizocephala_bicornis,,XO,,30,27,white1976blattodea
+Dermaptera,Labiidae,Chaetospania,Chaetospania_sp,,complex XY,XXXXY,34,31,hewitt1979animal
+Blattodea,Blattellidae,Hemithyrsocera,Hemithyrsocera_sp,,XO,,26,25,white1976blattodea
+Blattodea,Blattidae,Lamproblatta,Lamproblatta_albipalpus,,XO,,18,17,white1976blattodea
+Phasmatodea,Phasmidae,Extatosoma,Extatosoma_tiaratum,,XO,,36,35,white1976blattodea
+Blattodea,Blaberidae,Lanxoblatta,Lanxoblatta_emarginata,,XO,,66,65,white1976blattodea
+Blattodea,Blattellidae,Loboptera,Loboptera_decipiens,,XO,,34,33,white1976blattodea
+Orthoptera,Acrididae,Dichroplus,Dichroplus_silveiraguidoi,,XY,,8,8,mesa1982cariologia
+Mantodea,Mantidae,Sphodromantis,Sphodromantis_sp,,complex XY,XXY,28,27,white1976blattodea
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_primus,gonochorous,,,30,NA,luykx1990cytogenetic
+Embiidina,Oligotomidae,Oligotoma,Oligotoma_sp,,XO,,20,19,white1976blattodea
+Blattodea,Blattellidae,Lobopterella,Lobopterella_dimidiatipes,,XO,,38,37,white1976blattodea
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_austrinus,gonochorous,,,40,40,luykx1990cytogenetic
+Plecoptera,Perlidae,Calineuria,Calineuria_sp,,XO,,26,25,itoh1933sex
+Blattodea,Blaberidae,Macropanesthia,Macropanesthia_rhinoceros,,XO,,80,79,white1976blattodea
+Orthoptera,Acrididae,Dichroplus,Dichroplus_paraelongatus,,XO,,24,23,mesa1982cariologia
+Blattodea,Blattellidae,Margattea,Margattea_sp,,XO,,32,31,white1976blattodea
+Phasmatodea,Phasmidae,Oncotophasma,Oncotophasma_sp,,XO,,42,41,white1976blattodea
+Blattodea,Blaberidae,Nauphoeta,Nauphoeta_cinerea,,XO,,38,37,white1976blattodea
+Blattodea,Blaberidae,Panchlora,Panchlora_nivea,,XO,,36,35,white1976blattodea
+Orthoptera,Acrididae,Dichroplus,Dichroplus_elongatus,,XO,,24,23,mesa1982cariologia
+Dermaptera,Labiduridae,Euborellia,Euborellia_moesta,,complex XY,XXY,26,25,hewitt1979animal
+Blattodea,Blaberidae,Panchlora,Panchlora_viridis,,XO,,38,37,white1976blattodea
+Orthoptera,Acrididae,Dichroplus,Dichroplus_schulzi,,XO,,24,23,mesa1982cariologia
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_cynocephalus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1,44,43,luykx1990cytogenetic
+Mantodea,Mantidae,Sphodropoda,Sphodropoda_sp,,complex XY,XXY,28,27,white1976blattodea
+Orthoptera,Acrididae,Dichroplus,Dichroplus_exilis,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Dichroplus,Dichroplus_democraticus,,XO,,24,23,mesa1982cariologia
+Dermaptera,Forficulidae,Forficula,Forficula_auricularia,,complex XY,XXY,24,24,hewitt1979animal
+Phasmatodea,Phasmidae,Baculum,Baculum_sp,,,,72,72,white1976blattodea
+Dermaptera,Labiduridae,Gonolabis,Gonolabis_sp,,XY,,24,24,hewitt1979animal
+Phasmatodea,Phasmidae,Phobaeticus,Phobaeticus_sp,,XO,,52,51,white1976blattodea
+Orthoptera,Acrididae,Dichroplus,Dichroplus_patruelis,,XO,,22,21,mesa1982cariologia
+Dermaptera,Hemimeridae,Hemimerus,Hemimerus_sp,,complex XY,XXY,8,7,hewitt1979animal
+Blattodea,Blaberidae,Panesthia,Panesthia_sp,,XO,,38,37,white1976blattodea
+Plecoptera,Perlodidae,Perlodes,Perlodes_sp,,,,32,33,mathey1947
+Mantodea,Mantidae,Statilia,Statilia_maculata,,complex XY,XXY,28,27,white1976blattodea
+Dermaptera,Labiduridae,Labidura,Labidura_riparia,,XY,heterochromatic Y from Brazil,12,12,bauer1947karyologische
+Phasmatodea,Phasmidae,Orxines,Orxines_sp,,XO,,38,37,white1976blattodea
+Blattodea,Blattellidae,Parcoblatta,Parcoblatta_sp,,XO,,38,37,white1976blattodea
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_dudleyi,gonochorous,,,40,40,luykx1990cytogenetic
+Isoptera,Kalotermitidae,Cryptotermes,Cryptotermes_domesticus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1,30,29,bergamaschi2007karyology
+Isoptera,Termitidae,Cubitermes,Cubitermes_sp,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Isoptera,Termitidae,Drepanotermes,Drepanotermes_septentrionalis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Isoptera,Termitidae,Ephelotermes,Ephelotermes_taylori,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Isoptera,Termitidae,Ephelotermes,Ephelotermes_melachoma,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Isoptera,Kalotermitidae,Glyptotermes,Glyptotermes_brevicornis,gonochorous,,,42,NA,luykx1990cytogenetic
+Isoptera,Kalotermitidae,Glyptotermes,Glyptotermes_iridipennis,gonochorous,,,42,42,luykx1990cytogenetic
+Isoptera,Kalotermitidae,Incisitermes,Incisitermes_sp,gonochorous,,,42,NA,luykx1990cytogenetic
+Isoptera,Kalotermitidae,Kalotermes,Kalotermes_flavicollis,,complex XY|homomorphic,X1X1X2X2/X1X2Y1,68,67,bergamaschi2007karyology
+Isoptera,Termitidae,Lophotermes,Lophotermes_septentrionalis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Isoptera,Termitidae,Macrognathotermes,Macrognathotermes_sunteri,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Isoptera,Termitidae,Macrotermes,Macrotermes_bellicosus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Isoptera,Termitidae,Mastotermes,Mastotermes_darwiniensis,gonochorous,XY|homomorphic, multivalent absent,98,NA,bedo1987undifferentiated
+Phasmatodea,Phylliidae,Bacillus,Bacillus_rossius,,XO,,36,35,white1976blattodea
+Phasmatodea,Phasmatidae,Clitarchus,Clitarchus_hookeri,,,,36,NA,morgan2005hybrid
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_inermis,,,,36,NA,morgan2005hybrid
+Mantodea,Mantidae,Tenodera,Tenodera_aridifolia,,complex XY,XXY,28,27,white1976blattodea
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_soumiae,parthenogenetic,,,72,NA,milani2010reticulate
+Mantophasmatodea,Austrophasmatidae,Karoophasma,Karoophasma_biedouwense,,XO,,14,13,lachowska2015first
+Isoptera,Termitidae,Microcerotermes,Microcerotermes_nervosus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Isoptera,Termitidae,Microcerotermes,Microcerotermes_boreus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Isoptera,Termitidae,Microtermes,Microtermes_sp,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Isoptera,Termitidae,Nasutitermes,Nasutitermes_longipennis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Grylloblata,Grylloblatidae,Galloisiana,Galloisiana_nipponensis,gonochorous,XY,heteromorphic,30,30,white1976blattodea
+Phasmatodea,Phylliidae,Leptynia,Leptynia_montana,,XO,,38,37,bianchi1998analysis
+Phasmatodea,Phylliidae,Bacillus,Bacillus_grandii_grandii,,XO,,34,33,scali2003linkage
+Isoptera,Termitidae,Nasutitermes,Nasutitermes_graveolus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Phasmatodea,Phylliidae,Leptynia,Leptynia_attenuata,,XY,,36,36,bianchi1998analysis
+Isoptera,Termitidae,Nasutitermes,Nasutitermes_triodiae,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Isoptera,Kalotermitidae,Neotermes,Neotermes_insularis,gonochorous,complex XY,XXXYYY,52,52,luykx1990cytogenetic
+Isoptera,Termitidae,Odontotermes,Odontotermes_sp,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,48,NA,vincke1978sex
+Isoptera,Termitidae,Pericapritermes,Pericapritermes_sp,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Phasmatodea,Phylliidae,Bacillus,Bacillus_grandii_benazzii,,XO,,34,33,scali2003linkage
+Isoptera,Stolotermitidae,Porotermes,Porotermes_adamsoni,gonochorous,,,40,40,luykx1990cytogenetic
+Phasmatodea,Phylliidae,Bacillus,Bacillus_whitei,parthenogenetic,,,35,NA,scali2003linkage
+Isoptera,Kalotermitidae,Procryptotermes,Procryptotermes_australiensis,gonochorous,complex XY,X1X1X2X2/X1X2Y1,48,47,luykx1990cytogenetic
+Isoptera,Termitidae,Procubitermes,Procubitermes_sp,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,38,NA,vincke1978sex
+Phasmatodea,Phylliidae,Leptynia,Leptynia_caprai,,XO,,40,39,bianchi1998analysis
+Isoptera,Termitidae,Protermes,Protermes_sp,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Mantodea,Mantidae,Tenodera,Tenodera_australasiae,,complex XY,XXY,28,27,white1976blattodea
+Blattodea,Blattidae,Pelmatosilpha,Pelmatosilpha_sp,,XO,,38,37,white1976blattodea
+Isoptera,Termitidae,Pseudacanthotermes,Pseudacanthotermes_militaris,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Phasmatodea,Phylliidae,Bacillus,Bacillus_lynceorum,parthenogenetic,,,51,NA,scali2003linkage
+Mantodea,Mantidae,Tenodera,Tenodera_superstitiosa,,complex XY,XXY,28,27,white1976blattodea
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_intermedia,parthenogenetic,,,38,NA,morgan2005hybrid
+Isoptera,Termitidae,Reticulitermes,Reticulitermes_flavipes,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Phasmatodea,Phasmidae,Acrophylla,Acrophylla_titan,,XO,,36,35,white1976blattodea
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_maroccana,,XO,,22,21,milani2010reticulate
+Isoptera,Termitidae,Reticulitermes,Reticulitermes_lucifugus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Blattodea,Blattidae,Periplaneta,Periplaneta_americana,,XO,,34,33,white1976blattodea
+Isoptera,Rhinotermitidae,Reticulitermes,Reticulitermes_urbis,gonochorous,homomorphic,,42,42,bergamaschi2007karyology
+Dermaptera,Labiduridae,Nala,Nala_lividipes,,complex XY,XXY,38,37,hewitt1979animal
+Isoptera,Termitidae,Schedorhinotermes,Schedorhinotermes_lamanianus,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,38,NA,vincke1978sex
+Isoptera,Stolotermitidae,Stolotermes,Stolotermes_sp,gonochorous,XO,,32,31,luykx1990cytogenetic
+Isoptera,Termitidae,Thoracotermes,Thoracotermes_macrothorax,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Dermaptera,Labiidae,Nesogaster,Nesogaster_sp,,complex XY,XXY,22,21,hewitt1979animal
+Blattodea,Blattidae,Periplaneta,Periplaneta_australasiae,,XO,,28,27,white1976blattodea
+Isoptera,Termitidae,Tuberculitermes,Tuberculitermes_bycanistes,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Isoptera,Termitidae,Tumulitermes,Tumulitermes_pastinator,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,42,bergamaschi2007karyology
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_gallica,parthenogenetic,,,54,NA,milani2010reticulate
+Blattodea,Blattidae,Periplaneta,Periplaneta_brunnea,,XO,,28,27,white1976blattodea
+Isoptera,Termitidae,Unguitermes,Unguitermes_sp,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,42,NA,vincke1978sex
+Isoptera,Termitidae,Zootermopsis,Zootermopsis_nevadensis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,52,NA,vincke1978sex
+Orthoptera,Acrididae,Dichroplus,Dichroplus_maculipennis,,XO,,24,23,mesa1982cariologia
+Isoptera,Termitidae,Zootermopsis,Zootermopsis_angusticollis,gonochorous,complex XY|homomorphic,X1X1X2X2/X1X2Y1Y2 sex-linked multivalent in males,52,NA,vincke1978sex
+Phasmatodea,Phasmatidae,Acanthoxyla,Acanthoxyla_geisovii,parthenogenetic,,,38,,trewick2008you
+Phasmatodea,Phylliidae,Clonopsis,Clonopsis_felicitatis,,XO,,36,35,milani2010reticulate
+Phasmatodea,Phasmidae,Podacanthus,Podacanthus_wilkinsoni,,XO,,36,35,white1976blattodea
+Orthoptera,Acrididae,Dichroplus,Dichroplus_vittatus,,XY,,20,20,mesa1982cariologia
+Mantodea,Mantidae,Thesprotia,Thesprotia_graminis,,XO,,30,23,white1976blattodea
+Phasmatodea,Phylliidae,Phalces,Phalces_sp,,XO,,36,35,white1976blattodea
+Phasmatodea,Phylliidae,Pseudophasma,Pseudophasma_sp,,XO,,24,23,white1976blattodea
+Grylloblata,Grylloblatidae,Grylloblatta,Grylloblatta_sp,gonochorous,XY,metacentric X and Y associated by one arm,30,NA,white1976blattodea
+Blattodea,Blattidae,Periplaneta,Periplaneta_fuliginosa,,XO,,28,27,white1976blattodea
+Phasmatodea,Phasmidae,Ctenomorpha,Ctenomorpha_sp,,XY,,30,30,white1976blattodea
+Blattodea,Blattidae,Periplaneta,Periplaneta_japonica,,XO,,34,33,white1976blattodea
+Blattodea,Blaberidae,Phoetalia,Phoetalia_sp,,XO,,54,53,white1976blattodea
+Orthoptera,Acrididae,Dichroplus,Dichroplus_conspersus,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Dichroplus,Dichroplus_pratensis,,XO,,20,19,mesa1982cariologia
+Phasmatodea,Phylliidae,Pijnackeria,Pijnackeria_hispanica,,XO,,38,37,ghiselli2007leptynia
+Plecoptera,Perlidae,Perla,Perla_abdominalis,,complex XO,X1X1X2X2/X1X2OO,28,26,mathey1947
+Orthoptera,Acrididae,Dichroplus,Dichroplus_fuscus,,XO,,24,23,mesa1982cariologia
+Blattodea,Polyphagidae,Polyphaga,Polyphaga_aegyptiaca,,XO,,64,63,white1976blattodea
+Orthoptera,Romaleidae,Diponthus,Diponthus_sp,,XO,,24,23,mesa1982cariologia
+Orthoptera,Gryllotalpidae,Gryllotalpa,Gryllotalpa_sp,,XO,,24,23,broza1998new
+Mantodea,Mantidae,Vates,Vates_sp,,complex XY,XXY,28,27,white1976blattodea
+Orthoptera,Acrididae,Hyalopteryx,Hyalopteryx_rufipennis,,XO,,24,23,mesa1982cariologia
+Blattodea,Blattellidae,Pseudomops,Pseudomops_sp,,XO,,32,31,white1976blattodea
+Orthoptera,Acrididae,Leiotettix,Leiotettix_viridis,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Leiotettix,Leiotettix_flavipes,,XY,,22,22,mesa1982cariologia
+Orthoptera,Acrididae,Leiotettix,Leiotettix_pulcher,,XY,,22,22,mesa1982cariologia
+Orthoptera,Acrididae,Leptysma,Leptysma_sp,,XO,,24,23,mesa1982cariologia
+Orthoptera,Pauliniidae,Marellia,Marellia_remipes,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Metaleptea,Metaleptea_sp,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Nahuelia,Nahuelia_rubriventris,,XO,,24,23,mesa1982cariologia
+Phasmatodea,Timematidae,Timema,Timema_shepardi,parthenogenetic,,,24,NA,vickery1999two
+Phasmatodea,Timematidae,Timema,Timema_poppensis,gonochorous,,,24,NA,vickery1999two
+Plecoptera,Perlodidae,Isoperla,Isoperla_grammatica,,complex XO,X1X1X2X2/X1X2OO,28,26,mathey1947
+Orthoptera,Acrididae,Neopedies,Neopedies_brunneri,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Ommatolampis,Ommatolampis_sp,,XO,,24,23,mesa1982cariologia
+Orthoptera,Ommexechidae,Ommexecha,Ommexecha_sp,,XO,,24,23,mesa1982cariologia
+Orthoptera,Pauliniidae,Paulinia,Paulinia_acuminata,,XO,,24,23,mesa1982cariologia
+Plecoptera,Perlidae,Perla,Perla_marginata,,complex XO,X1X1X2X2/X1X2OO,24,22,junker1923cytologische
+Orthoptera,Romaleidae,Prionolopha,Prionolopha_serrata,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Pseudoscopas,Pseudoscopas_nigrigena,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Ronderosia,Ronderosia_sp,gonochorous,XY,X1X1X2X2/X1X2Y,22,NA,castillo2010sex
+Orthoptera,Acrididae,Schistocerca,Schistocerca_pallens,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Schistocerca,Schistocerca_cancellata,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Schistocerca,Schistocerca_flavofasciata,,XO,,24,23,mesa1982cariologia
+Blattodea,Blaberidae,Pycnoscelus,Pycnoscelus_surinamensis,,,,35,NA,white1976blattodea
+Orthoptera,Acrididae,Scotussa,Scotussa_lemniscata,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Scotussa,Scotussa_impudica,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Scotussa,Scotussa_daguerrei,gonochorous,XY,X1X1X2X2/X1X2Y,22,NA,castillo2010sex
+Orthoptera,Acrididae,Sinipta,Sinipta_dalmani,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Trimerotropis,Trimerotropis_pallidipennis,,XO,,24,23,mesa1982cariologia
+Orthoptera,Acrididae,Trimerotropis,Trimerotropis_ochraceipennis,,XO,,24,23,mesa1982cariologia
+Orthoptera,Tristiridae,Tropidostethus,Tropidostethus_sp,,XO,,22,21,mesa1982cariologia
+Orthoptera,Romaleidae,Xyleus,Xyleus_modestus,,XO,,24,23,mesa1982cariologia
+Orthoptera,Romaleidae,Xyleus,Xyleus_laevipes,,XY,,22,22,mesa1982cariologia
+Blattodea,Blaberidae,Rhabdoblatta,Rhabdoblatta_sp,,XO,,50,49,white1976blattodea
+Blattodea,Blattellidae,Supella,Supella_longipalpa,,XO,,20,19,white1976blattodea
+Orthoptera,Romaleidae,Xyleus,Xyleus_insignis,,XO,,24,23,mesa1982cariologia
+Blattodea,Blattellidae,Symploce,Symploce_sp,,XO,,28,27,white1976blattodea
+Blattodea,Blattellidae,Symplocodes,Symplocodes_sp,,XO,,40,39,white1976blattodea
+Orthoptera,Romaleidae,Zoniopoda,Zoniopoda_hempeli,,XO,,24,23,mesa1982cariologia
+Orthoptera,Romaleidae,Zoniopoda,Zoniopoda_tarsata,,XO,,24,23,mesa1982cariologia
+Orthoptera,Romaleidae,Zoniopoda,Zoniopoda_omnicolor,,XO,,24,23,mesa1982cariologia
+Blattodea,Blattellidae,Xestoblatta,Xestoblatta_sp,,XO,,38,37,white1976blattodea
