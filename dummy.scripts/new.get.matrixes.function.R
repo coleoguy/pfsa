@@ -29,7 +29,8 @@ get.matrixes.new <- function(chrom.range = NULL,
                                               r9 = 9,
                                               r10 = 10,
                                               r11 = 11,
-                                              r12 = 12)){
+                                              r12 = 12,
+                                              r12 = 13)){
   # parameter definitions
   # chrome.range <- minimum and maximum value of the given chromosome number
   # copmlex <- are complex sex chromosome systems included
@@ -89,6 +90,46 @@ get.matrixes.new <- function(chrom.range = NULL,
   if(is.null(Neo.sex)){
     Neo.sex <- F
   }
+  # define rate parameters
+  if(is.null(def.rates$r1)){
+    def.rates$r1 <- 1 
+  }
+  if(is.null(def.rates$r2)){
+    def.rates$r2 <- 2
+  }
+  if(is.null(def.rates$r3)){
+    def.rates$r3 <- 3
+  }
+  if(is.null(def.rates$r4)){
+    def.rates$r4 <- 4
+  }
+  if(is.null(def.rates$r5)){
+    def.rates$r5 <- 5
+  }
+  if(is.null(def.rates$r6)){
+    def.rates$r6 <- 6
+  }
+  if(is.null(def.rates$r7)){
+    def.rates$r7 <- 7
+  }
+  if(is.null(def.rates$r8)){
+    def.rates$r8 <- 8
+  }
+  if(is.null(def.rates$r9)){
+    def.rates$r9 <- 9
+  }
+  if(is.null(def.rates$r10)){
+    def.rates$r10 <- 10
+  }
+  if(is.null(def.rates$r11)){
+    def.rates$r11 <- 11
+  }
+  if(is.null(def.rates$r12)){
+    def.rates$r12 <- 12
+  }
+  if(is.null(def.rates$r13)){
+    def.rates$r13 <- 13
+  }
   # make it so that the letter case does not matter for sex.system
   sex.system <- toupper(sex.system)
   # if the chrom.range.expansion is not provided then it is set to 1
@@ -97,8 +138,17 @@ get.matrixes.new <- function(chrom.range = NULL,
   }
   # also if the minimum chromosome number is 4 or less then the chrom.range.expansion
   # is set to 1
-  if(chrom.range[1] <= 4){
-    chrom.range.expansion <- 1
+  if(chrom.range[1] <= 3){
+    if(!(is.null(chrom.range.expansion))){
+      if(chrom.range.expansion > 1){
+        print("provided chrom.range.expansion will cause the minimum chromosome number
+            to extend beyond 2. Therefore chrom.range.expansion will be set to 1")
+        chrom.range.expansion <- 1
+      }else{
+        chrom.range.expansion <- 0  
+      }
+      
+    }
   }
   # define total number of chromosome states
   maxChroms <- chrom.range[2] + chrom.range.expansion
@@ -238,6 +288,10 @@ get.matrixes.new <- function(chrom.range = NULL,
   for(i in (limiter*4 + 1):(limiter*5)){
     qmat[i,(i-limiter*3)] <- def.rates$r12
   }
+  # transition from XO to XY through capture
+  for(i in 1:limiter){
+    qmat[i,limiter + i] <- def.rates$r13
+  }
   # make the probability matrix
   pmat <- qmat[NULL,]
   # make a temporary matrix
@@ -331,8 +385,8 @@ get.matrixes.new <- function(chrom.range = NULL,
     }
   }
   if(Haplodiploidy == T & Neo.sex == T & complex == F){
-    qmat <- qmat[-c((limiter*3 + 1):(limiter*4)),-c((limiter*3 + 1):(limiter*4))]
-    pmat <- pmat[,-c((limiter*3 + 1):(limiter*4))]
+    qmat <- qmat[-c((limiter*3 + 1):(limiter*5)),-c((limiter*3 + 1):(limiter*5))]
+    pmat <- pmat[,-c((limiter*3 + 1):(limiter*5))]
   }
   if(Haplodiploidy == T & Neo.sex == F & complex == T){
     if(type == 1){
@@ -349,8 +403,8 @@ get.matrixes.new <- function(chrom.range = NULL,
     }
   }
   if(Haplodiploidy == T & Neo.sex == F & complex == F){
-    qmat <- qmat[-c((limiter*2 + 1):(limiter*4)),-c((limiter*2 + 1):(limiter*4))]
-    pmat <- pmat[,-c((limiter*2 + 1):(limiter*4))]
+    qmat <- qmat[-c((limiter*2 + 1):(limiter*5)),-c((limiter*2 + 1):(limiter*5))]
+    pmat <- pmat[,-c((limiter*2 + 1):(limiter*5))]
   }
   if(Haplodiploidy == F & Neo.sex == F & complex == T){
     if(type == 1){
@@ -367,8 +421,8 @@ get.matrixes.new <- function(chrom.range = NULL,
     }
   }
   if(Haplodiploidy == F & Neo.sex == T & complex == F){
-    qmat <- qmat[-c(1:(limiter),(limiter*2 + 1):(limiter*4)),-c(1:(limiter),(limiter*2 + 1):(limiter*4))]
-    pmat <- pmat[,-c(1:(limiter),(limiter*2 + 1):(limiter*4))]
+    qmat <- qmat[-c(1:(limiter),(limiter*2 + 1):(limiter*5)),-c(1:(limiter),(limiter*2 + 1):(limiter*5))]
+    pmat <- pmat[,-c(1:(limiter),(limiter*2 + 1):(limiter*5))]
   }
   # Here we will remove the first portion of the qmatrices for each
   # type of sex chromosome system to match with the given range of chromosome number
@@ -414,8 +468,17 @@ get.matrixes.new <- function(chrom.range = NULL,
   if(Haplodiploidy == F & Neo.sex == T & complex == F){
     drops <- c(1:(minChroms-2), (1+limiter):(limiter+ minChroms-2))
   }
-  qmat <- qmat[-drops, -drops]
-  pmat <- pmat[,-drops]
+  # if the minChrom value is equal to 2 then we shall not reduce the qmatrix
+  # if the minChrim value is greater than 2 then qmatrix is reduced to the desierd 
+  # limit
+  if(minChroms == 2){
+    qmat <- qmat
+    pmat <- pmat
+  }
+  if(minChroms > 2){
+    qmat <- qmat[-drops, -drops]
+    pmat <- pmat[,-drops]
+  }
   # assign numerical value for each state
   # states <-as.data.frame(matrix(data = NA,
   # nrow = nrow(qmat),
@@ -427,7 +490,7 @@ get.matrixes.new <- function(chrom.range = NULL,
   # rename the row and colnames for qmat
   # rownames(qmat) <- colnames(qmat) <- colnames(pmat) <- 1:nrow(qmat)
   # make a new table to define all the parameters in the qmatrix
-  states <- as.data.frame(matrix(, nrow = 12, ncol = 3))
+  states <- as.data.frame(matrix(data = NA, nrow = length(def.rates), ncol = 3))
   colnames(states) <- c("rate","par", "meaning")
   states$rate <- names(unlist(def.rates))
   states$par <- unlist(def.rates)
@@ -442,7 +505,8 @@ get.matrixes.new <- function(chrom.range = NULL,
                       "Y fission - XY to XYY",
                       "Y loss - XY to XO",
                       "X fusion - XXY to XY",
-                      "Y loss - XYY to XY")
+                      "Y loss - XYY to XY",
+                      "Y capture - XO to XY")
   # make a vector to hold the karyotypes
   kar <- colnames(qmat)
   # store results and give them appropriate names
