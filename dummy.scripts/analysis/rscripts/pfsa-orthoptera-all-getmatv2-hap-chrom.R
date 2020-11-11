@@ -26,11 +26,9 @@ dat$SCS[dat$notes == "X1X1/X1Y1Y2"] <- "XYY"
 dat$SCS[dat$notes == "X1X1X2X2/X1X2Y"] <- "XXY"
 dat$SCS[dat$SCS == "XY|homomorphic"] <- "XY"
 # isolate those data that we need
-dat <- dat[dat$SCS %in% c("XY", "XYY", "XXY"),]
+dat <- dat[dat$SCS %in% c("XO", "XY", "XYY", "XXY"),]
 # remove species that have no chromosome number data
 dat <- dat[!(is.na(dat$haploid)),]
-dat$hap.auto[dat$SCS == "XY"] <- dat$haploid[dat$SCS == "XY"] - 1
-dat$hap.auto[dat$SCS == "XXY"] <- dat$haploid[dat$SCS == "XXY"] - 2
 # keep these tips only
 phy <- vector(mode = "list", length = length(trees))
 for(i in 1:100){
@@ -44,46 +42,42 @@ dat.new <-  as.data.frame(matrix(data=NA, nrow = Ntip(phy[[1]]), ncol = 3))
 colnames(dat.new) <- c("SpeciesName", "chroms", "scs")
 # fill in the data table
 dat.new$SpeciesName <- dat$species
-dat.new$chroms <- dat$hap.auto
+dat.new$chroms <- dat$haploid
 dat.new$scs <- dat$SCS
 # now we get the qmatrix and pmatrix
-# inputs <- get.matrixes(chrom.range = range(dat.new$chroms),
-#                        Haplodiploidy = T,
-#                        Neo.sex = F,
-#                        complex = T,
-#                        chrom.range.expansion = 1,
-#                        dat = dat.new,
-#                        trees = tree)
-# this will be the new function to get the matrixes
-# inputs <- get.matrixes.new(chrom.range = range(dat.new$chroms),
-#                            Haplodiploidy = F,
-#                            Neo.sex = F,
-#                            complex = T,
-#                            chrom.range.expansion = 1,
-#                            dat = dat.new,
-#                            trees = phy,
-#                            def.rates = list(r1 = 1,
-#                                             r2 = 2,
-#                                             r3 = 3,
-#                                             r4 = 4,
-#                                             r5 = 5,
-#                                             r6 = 6,
-#                                             r7 = 7,
-#                                             r8 = 0,
-#                                             r9 = 9,
-#                                             r10 = 10,
-#                                             r11 = 0,
-#                                             r12 = 12,
-#                                             r13 = 13))
-
-inputs <- get.matrixes.v2(haploid.scs = F,
+inputs <- get.matrixes.v2(haploid.scs = T,
                           autosome.as.input = T,
                           Neo.sex = F,
                           complex = T,
                           chrom.range.expansion = 0,
                           dat = dat.new,
                           trees = phy,
-                          def.rates = NULL)
+                          def.rates = list(r01 = 1,    # AA fusion  XO
+                                           r02 = 2,    # AA fission XO
+                                           r03 = 1,    # AA fusion  XY
+                                           r04 = 2,    # AA fission XY
+                                           r05 = 1,    # AA fusion  Neo.XY
+                                           r06 = 2,    # AA fission Neo.XY 
+                                           r07 = 1,    # AA fusion  XXY
+                                           r08 = 2,    # AA fission XXY
+                                           r09 = 1,    # AA fusion  XYY
+                                           r10 = 2,  # AA fission XYY
+                                           r11 = 11,  # SA fusion  XO -> XY
+                                           r12 = 11,  # SA fusion  XY -> Neo.XY
+                                           r13 = 11,  # SA fusion  XY -> XXY
+                                           r14 = 11,  # SA fusion  XY -> XYY
+                                           r15 = 15,  # transision Neo.XY -> XY
+                                           r16 = 0,  # X fission  XY -> XXY
+                                           r17 = 0,  # Y fission  XY -> XYY
+                                           r18 = 18,  # Y loss     XY -> XO
+                                           r19 = 19,  # Y loss     XYY -> XY
+                                           r20 = 20,  # X fusion   XXY -> XY
+                                           r21 = 21,  # Y capture  XO -> XY
+                                           r22 = 22,  # polyploidy XO
+                                           r23 = 23,  # polyploidy XY
+                                           r24 = 24,  # polyploidy Neo.XY
+                                           r25 = 25,  # polyploidy XXY
+                                           r26 = 26)) # polyploidy XYY)
 
 # get the relavent inputs
 qmat <- inputs$qmat
@@ -93,15 +87,16 @@ states <- inputs$states
 karyotypes <- inputs$karyotypes
 #plot tree and states
 plot(phy[[1]], show.tip.label = F)
-tiplabels(col = c("red", "blue")[as.factor(inputs$dat$scs)], pch = 16, offset = 1)
-tiplabels(inputs$dat$chroms)
+tiplabels(col = c("red", "blue", "green", "yellow")[as.factor(inputs$dat$scs)], pch = 16, offset = .7)
+tiplabels(inputs$dat$chroms, offset = 1.5, cex = .7, frame = "none")
 # perform stochastic mappings
+pi <- c(0,1)[(colnames(pmat) == "12XO") + 1]
 x <- Sys.time()
 hists <- make.simmap(tree = phy,
                      x = pmat,
                      model = qmat,
                      nsim = nsim,
-                     pi = "estimated")
+                     pi = pi)
 Sys.time() - x
 # "Time difference of 53.06742 mins"
 #lets look at a randtom stochastic map

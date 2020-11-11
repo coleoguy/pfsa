@@ -1,12 +1,12 @@
-def.rates = list(r1 = 1,    # AA fusion  XO
-                 r2 = 2,    # AA fission XO
-                 r3 = 3,    # AA fusion  XY
-                 r4 = 4,    # AA fission XY
-                 r5 = 5,    # AA fusion  Neo.XY
-                 r6 = 6,    # AA fission Neo.XY 
-                 r7 = 7,    # AA fusion  XXY
-                 r8 = 8,    # AA fission XXY
-                 r9 = 9,    # AA fusion  XYY
+def.rates = list(r01 = 1,    # AA fusion  XO
+                 r02 = 2,    # AA fission XO
+                 r03 = 3,    # AA fusion  XY
+                 r04 = 4,    # AA fission XY
+                 r05 = 5,    # AA fusion  Neo.XY
+                 r06 = 6,    # AA fission Neo.XY 
+                 r07 = 7,    # AA fusion  XXY
+                 r08 = 8,    # AA fission XXY
+                 r09 = 9,    # AA fusion  XYY
                  r10 = 10,  # AA fission XYY
                  r11 = 11,  # SA fusion  XO -> XY
                  r12 = 12,  # SA fusion  XY -> Neo.XY

@@ -82,6 +82,36 @@ get.matrixes.new <- function(haploid.scs = NULL,
   }
   #set chrom.range
   chrom.range <- range(dat$chroms)
+  
+  # following are the rate parameters and what they mean
+  # r1 = 1,    # AA fusion  XO
+  # r2 = 2,    # AA fission XO
+  # r3 = 3,    # AA fusion  XY
+  # r4 = 4,    # AA fission XY
+  # r5 = 5,    # AA fusion  Neo.XY
+  # r6 = 6,    # AA fission Neo.XY 
+  # r7 = 7,    # AA fusion  XXY
+  # r8 = 8,    # AA fission XXY
+  # r9 = 9,    # AA fusion  XYY
+  # r10 = 10,  # AA fission XYY
+  # r11 = 11,  # SA fusion  XO -> XY
+  # r12 = 12,  # SA fusion  XY -> Neo.XY
+  # r13 = 13,  # SA fusion  XY -> XXY
+  # r14 = 14,  # SA fusion  XY -> XYY
+  # r15 = 15,  # transision Neo.XY -> XY
+  # r16 = 16,  # X fission  XY -> XXY
+  # r17 = 17,  # Y fission  XY -> XYY
+  # r18 = 18,  # Y loss     XY -> XO
+  # r19 = 19,  # Y loss     XYY -> XY
+  # r20 = 20,  # X fusion   XXY -> XY
+  # r21 = 21,  # Y capture  XO -> XY
+  # r22 = 22,  # polyploidy XO
+  # r23 = 23,  # polyploidy XY
+  # r24 = 24,  # polyploidy Neo.XY
+  # r25 = 25,  # polyploidy XXY
+  # r26 = 26,  # polyploidy XYY
+  # r27 = 27,  # translocation XO -> XXY (White(1973), Animal cytology and evolution)
+  
   # define rate parameters
   if(is.null(def.rates$r01)){
     def.rates$r01 <- 1 
@@ -160,6 +190,9 @@ get.matrixes.new <- function(haploid.scs = NULL,
   }
   if(is.null(def.rates$r26)){
     def.rates$r26 <- 0
+  }
+  if(is.null(def.rates$r27)){
+    def.rates$r27 <- 27
   }
   print("currently polyploidy is not set up in this function. therefore these rate parameters are set to Zero")
   # make it so that the letter case does not matter for sex.system
@@ -337,6 +370,22 @@ get.matrixes.new <- function(haploid.scs = NULL,
   # transition from XO to XY through capture
   for(i in 1:limiter){
     qmat[i,limiter + i] <- def.rates$r21
+  }
+  # translocation from XO to XXY when the input is haploid autosome count 
+  if(autosome.as.input == T){
+    for(i in 1:limiter){
+      if((limiter*3 + i - 1) == limiter*3 ){
+        qmat[i,limiter*3 + i - 1] <- 0
+      }else{
+        qmat[i,limiter*3 + i - 1] <- def.rates$r27
+      }
+    }
+  }
+  # translocation from XO to XXY  when the input is haploid chromosome count 
+  if(autosome.as.input == F){
+    for(i in 1:limiter){
+      qmat[i,limiter*3 + i] <- def.rates$r27
+    }
   }
   # make the probability matrix
   pmat <- qmat[NULL,]
@@ -588,7 +637,8 @@ get.matrixes.new <- function(haploid.scs = NULL,
      "polyploidy in XY",
      "polyploidy in Neo.XY",
      "polyploidy in XXY",
-     "polyploidy in XYY")
+     "polyploidy in XYY",
+     "translocation in XO to XXY")
   }
   # make a vector to hold the karyotypes
   kar <- colnames(qmat)
