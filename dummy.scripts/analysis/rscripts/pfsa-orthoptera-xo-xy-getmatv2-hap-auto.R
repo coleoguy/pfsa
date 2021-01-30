@@ -53,7 +53,20 @@ inputs <- get.matrixes.v2(haploid.scs = T,
                           chrom.range.expansion = 0,
                           dat = dat.new,
                           trees = phy,
-                          def.rates = NULL)
+                          def.rates = list(r01 = 1,
+                                           r02 = 2,
+                                           r03 = 1,
+                                           r04 = 2,
+                                           r05 = 1,
+                                           r06 = 2,
+                                           r07 = 1,
+                                           r08 = 2,
+                                           r09 = 1,
+                                           r10 = 2,
+                                           r16 = 0,
+                                           r17 = 0,
+                                           r19 = 0,
+                                           r20 = 0))
 
 # get the relavent inputs
 qmat <- inputs$qmat
@@ -63,8 +76,8 @@ states <- inputs$states
 karyotypes <- inputs$karyotypes
 #plot tree and states
 plot(phy[[1]], show.tip.label = F)
-tiplabels(col = c("red", "blue")[as.factor(inputs$dat$scs)], pch = 16, offset = 1)
-tiplabels(inputs$dat$chroms)
+tiplabels(col = c("red", "blue")[as.factor(inputs$dat$scs)], pch = 16, offset = 0.2)
+tiplabels(inputs$dat$chroms,frame = "none", offset = .9, cex = .7)
 # perform stochastic mappings
 x <- Sys.time()
 hists <- make.simmap(tree = phy,
