@@ -17,9 +17,9 @@ get.matrixes.new <- function(haploid.scs = NULL,
   # parameter definitions
   # chrome.range <- minimum and maximum value of the given chromosome number
   # haploid.scs <- whether males are XO or ZO
-  # copmlex <- are complex sex chromosome systems included
+  # complex <- are complex sex chromosome systems included
   # sex.system <- XY or ZW
-  # error checkinig
+  # error checking
   # # chrom.range should be present and numeric
   # if(is.null(chrom.range)){
   #   stop("chromosome range is empty. Please provide the upper and lover limit of
@@ -371,7 +371,7 @@ get.matrixes.new <- function(haploid.scs = NULL,
   for(i in 1:limiter){
     qmat[i,limiter + i] <- def.rates$r21
   }
-  # translocation from XO to XXY when the input is haploid autosome count 
+  # translation from XO to XXY when the input is haploid autosome count 
   if(autosome.as.input == T){
     for(i in 1:limiter){
       if((limiter*3 + i - 1) == limiter*3 ){
@@ -381,7 +381,7 @@ get.matrixes.new <- function(haploid.scs = NULL,
       }
     }
   }
-  # translocation from XO to XXY  when the input is haploid chromosome count 
+  # translation from XO to XXY  when the input is haploid chromosome count 
   if(autosome.as.input == F){
     for(i in 1:limiter){
       qmat[i,limiter*3 + i] <- def.rates$r27
