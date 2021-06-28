@@ -1160,12 +1160,11 @@ combineComplexSCS <- function(qmat,pmat){
   for(i in 1:nrow(pmat)){
     if(gsub(pattern = "[0-9]", x = names(pmat[i,][pmat[i,] == 1]), replacement = "") == "XYY"){
       hit.pmat.drop.XYY <- which(pmat[i,] == 1)
-      print(hit.pmat.drop.XYY)
       pmat[i, (hit.pmat.drop.XYY - limiter)] <- 1
     }
   }
   pmat <- pmat[,-hit.pmat.drop]
-  colnames(pmat) <- gsub(pattern = "XXY", x = colnames(qmat), replacement = "Complex.XY")
+  colnames(pmat) <- gsub(pattern = "XXY", x = colnames(pmat), replacement = "Complex.XY")
   
   results <- list(qmat, pmat)
   return(results)
