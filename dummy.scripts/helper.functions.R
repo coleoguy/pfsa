@@ -1167,6 +1167,7 @@ combineComplexSCS <- function(qmat,pmat){
   colnames(pmat) <- gsub(pattern = "XXY", x = colnames(pmat), replacement = "Complex.XY")
   
   results <- list(qmat, pmat)
+  names(results) <- c("qmat", "pmat")
   return(results)
 }
 
