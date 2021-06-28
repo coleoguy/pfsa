@@ -835,7 +835,7 @@ constrainQmat <-  function (qmat, lik) {
   rate.table[rate.table[, 3] == 8, 3] <- "par08"
   rate.table[rate.table[, 3] == 9, 3] <- "par09"
   rate.table[rate.table[, 3] == 10, 3] <- "par10"
-  rate.table[rate.table[, 3] == 11, 3] <- "parq1"
+  rate.table[rate.table[, 3] == 11, 3] <- "par11"
   rate.table[rate.table[, 3] == 12, 3] <- "par12"
   rate.table[rate.table[, 3] == 13, 3] <- "par13"
   rate.table[rate.table[, 3] == 14, 3] <- "par14"
