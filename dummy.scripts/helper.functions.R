@@ -1141,4 +1141,35 @@ sp.matches <- function(dat, trees, use.sub.species = F){
   return(results)
 }
 
+# this function will combine XXY and XYY systems into one group
+# must work on this function inprder to apply it to ZY systems
+
+combineComplexSCS <- function(qmat,pmat){
+  scs <- gsub(pattern = "[0-9]", x = colnames(qmat), replacement = "")
+  scs <- unique(scs)
+  
+  limiter <- ncol(qmat)/length(scs)
+  
+  
+  hit.qmat.drop <- which(gsub(pattern = "[0-9]", x = colnames(qmat), replacement = "") == "XYY")
+  hit.pmat.drop <- which(gsub(pattern = "[0-9]", x = colnames(pmat), replacement = "") == "XYY")
+  qmat <- qmat[-hit.qmat.drop, -hit.qmat.drop]
+  colnames(qmat) <- gsub(pattern = "XXY", x = colnames(qmat), replacement = "Complex.XY")
+  rownames(qmat) <- gsub(pattern = "XXY", x = rownames(qmat), replacement = "Complex.XY")
+  
+  for(i in 1:nrow(pmat)){
+    if(gsub(pattern = "[0-9]", x = names(pmat[i,][pmat[i,] == 1]), replacement = "") == "XYY"){
+      hit.pmat.drop.XYY <- which(pmat[i,] == 1)
+      print(hit.pmat.drop.XYY)
+      pmat[i, (hit.pmat.drop.XYY - limiter)] <- 1
+    }
+  }
+  pmat <- pmat[,-hit.pmat.drop]
+  colnames(pmat) <- gsub(pattern = "XXY", x = colnames(qmat), replacement = "Complex.XY")
+  
+  results <- list(qmat, pmat)
+  return(results)
+}
+
+
 
